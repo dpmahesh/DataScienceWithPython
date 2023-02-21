@@ -1,0 +1,1001 @@
+,Hotel,Is repeated guest,Arrival date,Departure date,Lead time,Adults,Children,Babies,Meal,Country,Market segment,Distribution channel,Customer type,Room type,Booking changes,Deposit type,Agent,Company,Days in waiting list,Customer City,Customer State,ADR,Required car parking spaces,Total of special requests,Reservation status,Reservation status date,Booking Date,Canceled
+0,City Hotel,0,2021-10-12,2020-04-13,79,1,1,0,FB,Portugal,Direct,TA/TO,Transient-Party,Double,1,Non Refund,4,9,17,Madrid,Paris,168.36,0,3,Canceled,2021-04-30,2021-07-25,1
+1,Resort Hotel,0,2022-08-30,2020-08-20,278,3,0,1,FB,United Kingdom,Corporate,Corporate,Transient,Double,3,Refundable,2,6,34,London,Lisbon,149.85,1,3,Check-Out,2022-12-01,2021-11-25,0
+2,Resort Hotel,0,2022-09-10,2022-02-27,180,3,2,1,FB,Spain,Offline TA/TO,Corporate,Transient-Party,Triple,1,Refundable,5,3,36,Berlin,Paris,104.59,2,4,Check-Out,2022-07-27,2022-03-14,0
+3,City Hotel,1,2020-03-30,2020-04-27,101,2,0,1,HB,Germany,Online TA,Direct,Transient-Party,Double,3,No Deposit,2,9,28,Madrid,Madrid,99.9,0,3,Check-Out,2021-11-30,2019-12-20,0
+4,Resort Hotel,0,2021-08-15,2022-02-15,205,3,2,0,BB,France,Online TA,Corporate,Group,Double,3,No Deposit,10,8,31,Lisbon,Madrid,52.37,1,0,Check-Out,2021-02-10,2021-01-22,0
+5,City Hotel,0,2021-06-10,2021-11-14,322,4,1,1,BB,Portugal,Corporate,Corporate,Contract,Single,1,Non Refund,6,9,17,Lisbon,Berlin,151.66,1,3,Check-Out,2022-09-01,2020-07-23,0
+6,City Hotel,0,2021-08-29,2021-10-15,294,4,0,0,FB,United Kingdom,Direct,Corporate,Transient,Double,2,Refundable,6,6,45,Berlin,Berlin,160.99,2,0,No-Show,2020-09-07,2020-11-08,0
+7,City Hotel,1,2021-08-30,2020-07-18,361,2,2,1,HB,Portugal,Online TA,Corporate,Transient,Single,2,Non Refund,7,6,23,Berlin,London,77.68,0,3,Check-Out,2021-01-12,2020-09-03,0
+8,City Hotel,0,2020-06-14,2022-05-20,330,3,1,0,HB,Germany,Offline TA/TO,Direct,Transient-Party,Triple,2,Non Refund,6,7,42,London,London,132.81,1,4,No-Show,2022-08-06,2019-07-20,0
+9,City Hotel,0,2020-01-23,2021-11-11,311,2,1,0,HB,France,Direct,TA/TO,Transient,Triple,0,Non Refund,8,5,1,Paris,Madrid,98.37,2,0,No-Show,2021-05-08,2019-03-18,0
+10,Resort Hotel,0,2022-01-22,2021-05-25,306,2,1,0,HB,France,Online TA,Direct,Group,Double,2,Refundable,5,10,37,Lisbon,Paris,165.56,0,0,Check-Out,2022-06-17,2021-03-22,0
+11,City Hotel,0,2020-09-12,2022-10-06,194,4,1,0,FB,Spain,Offline TA/TO,Direct,Transient,Single,0,Non Refund,5,8,21,Madrid,Lisbon,129.12,0,0,Canceled,2021-11-06,2020-03-02,1
+12,Resort Hotel,0,2022-10-19,2021-10-06,29,4,0,0,HB,Portugal,Online TA,TA/TO,Transient,Triple,1,Non Refund,1,3,29,London,Madrid,98.52,0,4,Check-Out,2020-12-14,2022-09-20,0
+13,Resort Hotel,1,2022-12-23,2020-03-25,272,3,1,0,HB,Portugal,Direct,Corporate,Transient,Double,0,Non Refund,8,6,9,Berlin,Lisbon,155.25,0,1,Canceled,2020-09-03,2022-03-26,1
+14,City Hotel,1,2022-03-22,2020-01-16,344,2,1,0,BB,Germany,Online TA,Direct,Contract,Single,3,No Deposit,4,9,24,Madrid,Lisbon,68.22,2,1,Check-Out,2022-07-30,2021-04-12,0
+15,Resort Hotel,0,2021-12-05,2020-06-01,22,1,0,0,FB,Spain,Offline TA/TO,Direct,Transient,Triple,3,Non Refund,10,9,50,Berlin,Paris,91.64,1,1,Check-Out,2022-10-11,2021-11-13,0
+16,City Hotel,0,2020-11-01,2020-12-29,27,2,0,0,HB,United Kingdom,Online TA,TA/TO,Transient-Party,Single,3,Refundable,1,5,47,Berlin,Lisbon,175.28,2,2,Check-Out,2021-07-27,2020-10-05,0
+17,City Hotel,0,2022-03-24,2020-11-25,34,3,2,1,BB,Portugal,Direct,TA/TO,Group,Double,3,No Deposit,4,6,8,London,Berlin,190.17,2,4,Canceled,2020-11-29,2022-02-18,1
+18,Resort Hotel,0,2022-06-05,2022-12-11,307,1,1,0,FB,Spain,Direct,Direct,Transient,Single,0,No Deposit,6,2,18,Berlin,Berlin,127.48,1,1,Canceled,2022-10-26,2021-08-02,1
+19,Resort Hotel,1,2020-10-28,2020-05-08,283,4,1,1,HB,France,Direct,Corporate,Transient-Party,Triple,3,No Deposit,2,9,2,Berlin,Madrid,99.72,0,3,Check-Out,2020-12-28,2020-01-19,0
+20,City Hotel,0,2020-10-15,2022-06-26,346,1,0,1,FB,France,Corporate,Direct,Transient-Party,Single,0,No Deposit,10,2,43,Berlin,Madrid,190.1,2,1,No-Show,2021-11-15,2019-11-04,0
+21,City Hotel,0,2022-11-16,2022-11-03,240,4,0,0,FB,Spain,Offline TA/TO,Corporate,Transient,Triple,1,Refundable,1,6,0,London,Madrid,52.47,1,2,Canceled,2021-03-22,2022-03-21,1
+22,Resort Hotel,1,2022-11-01,2020-03-30,38,1,0,1,FB,United Kingdom,Offline TA/TO,TA/TO,Contract,Triple,2,Non Refund,6,2,28,Lisbon,Paris,170.2,2,0,Check-Out,2021-01-14,2022-09-24,0
+23,Resort Hotel,1,2020-04-17,2022-06-06,49,1,0,0,FB,Portugal,Direct,Direct,Transient,Double,2,Refundable,5,5,35,Berlin,Lisbon,123.89,1,3,Check-Out,2022-04-21,2020-02-28,0
+24,Resort Hotel,1,2021-10-11,2022-07-25,71,3,1,0,BB,Germany,Online TA,Direct,Group,Double,2,Refundable,10,2,50,Berlin,Madrid,184.66,2,2,Check-Out,2021-12-11,2021-08-01,0
+25,Resort Hotel,0,2020-03-13,2021-02-13,229,4,2,1,BB,France,Corporate,Corporate,Contract,Single,3,Refundable,3,1,35,Berlin,Paris,52.84,2,3,Check-Out,2022-02-18,2019-07-28,0
+26,Resort Hotel,0,2020-07-24,2020-07-10,289,1,2,0,FB,Germany,Offline TA/TO,TA/TO,Contract,Triple,2,Refundable,1,1,3,Lisbon,London,111.44,1,1,Check-Out,2022-03-15,2019-10-09,0
+27,City Hotel,0,2021-12-18,2020-01-06,257,2,2,0,HB,Germany,Online TA,Direct,Group,Single,2,No Deposit,9,1,12,Paris,London,151.41,0,1,No-Show,2020-07-08,2021-04-05,0
+28,City Hotel,0,2022-01-01,2022-12-14,92,1,2,0,HB,Germany,Direct,Corporate,Group,Triple,0,No Deposit,7,3,37,Paris,Paris,82.65,2,2,Canceled,2020-05-25,2021-10-01,1
+29,Resort Hotel,1,2022-03-22,2021-08-19,75,3,0,1,HB,Germany,Direct,Corporate,Transient,Triple,1,Non Refund,9,9,43,Berlin,Berlin,158.24,0,1,No-Show,2021-11-15,2022-01-06,0
+30,Resort Hotel,1,2021-04-22,2021-01-20,295,1,2,1,HB,Germany,Offline TA/TO,Direct,Group,Double,0,Non Refund,1,8,43,Paris,London,184.08,0,3,No-Show,2020-08-18,2020-07-01,0
+31,Resort Hotel,0,2020-08-19,2022-06-02,184,2,1,0,HB,Spain,Online TA,Direct,Transient-Party,Double,0,No Deposit,5,1,30,Paris,Madrid,175.32,1,0,No-Show,2022-11-05,2020-02-17,0
+32,Resort Hotel,1,2021-04-24,2022-09-28,162,3,1,1,FB,France,Direct,Corporate,Transient-Party,Single,0,No Deposit,10,10,37,Paris,Paris,57.56,1,3,Check-Out,2021-06-05,2020-11-13,0
+33,City Hotel,0,2021-07-20,2021-06-12,100,3,0,0,FB,Germany,Online TA,Corporate,Transient,Triple,1,Refundable,6,1,16,Paris,Lisbon,89.05,2,4,Canceled,2020-10-05,2021-04-11,1
+34,City Hotel,1,2020-05-16,2021-04-12,248,2,1,0,FB,United Kingdom,Offline TA/TO,Corporate,Transient-Party,Double,1,Non Refund,9,7,43,Berlin,Berlin,144.99,0,0,Canceled,2020-01-01,2019-09-11,1
+35,Resort Hotel,0,2022-05-27,2022-11-23,135,4,0,1,HB,France,Corporate,Direct,Group,Triple,0,Refundable,2,9,1,Berlin,London,78.89,0,0,No-Show,2021-09-28,2022-01-12,0
+36,City Hotel,0,2021-04-07,2022-09-02,219,1,1,0,BB,Germany,Online TA,TA/TO,Contract,Single,0,Refundable,9,1,9,Paris,Lisbon,77.17,2,0,Check-Out,2020-08-09,2020-08-31,0
+37,Resort Hotel,0,2021-03-21,2021-11-19,154,1,1,0,FB,United Kingdom,Offline TA/TO,Corporate,Transient,Single,3,No Deposit,8,5,50,Madrid,Madrid,179.11,1,0,No-Show,2020-10-17,2020-10-18,0
+38,Resort Hotel,0,2021-08-04,2020-07-05,339,2,2,1,HB,Spain,Corporate,Direct,Transient-Party,Double,1,No Deposit,2,8,33,Berlin,London,148.19,1,4,Check-Out,2022-11-17,2020-08-30,0
+39,Resort Hotel,1,2021-08-18,2022-08-18,255,2,0,1,BB,Spain,Online TA,TA/TO,Transient,Triple,3,Refundable,7,7,42,Paris,London,159.84,0,1,No-Show,2021-12-04,2020-12-06,0
+40,Resort Hotel,1,2022-08-05,2022-03-14,353,3,0,0,HB,Spain,Corporate,Direct,Transient-Party,Double,3,Non Refund,2,4,27,Lisbon,Lisbon,64.04,0,0,No-Show,2020-01-19,2021-08-17,0
+41,City Hotel,0,2020-01-17,2021-12-18,148,1,0,1,FB,United Kingdom,Online TA,TA/TO,Group,Double,2,No Deposit,3,6,47,Madrid,Lisbon,90.79,0,4,No-Show,2022-07-03,2019-08-22,0
+42,Resort Hotel,0,2021-05-15,2022-04-14,320,1,0,1,HB,United Kingdom,Online TA,Corporate,Contract,Triple,2,Refundable,8,4,15,Paris,Berlin,152.26,2,4,Canceled,2021-02-11,2020-06-29,1
+43,City Hotel,0,2022-09-25,2022-08-04,249,2,1,0,BB,Portugal,Corporate,TA/TO,Group,Single,2,Refundable,9,1,17,Berlin,Paris,125.56,0,3,Check-Out,2020-07-25,2022-01-19,0
+44,Resort Hotel,0,2020-03-23,2021-12-07,161,3,0,0,HB,Spain,Corporate,Corporate,Transient-Party,Double,0,No Deposit,4,5,2,Paris,London,72.2,1,2,No-Show,2021-08-31,2019-10-14,0
+45,Resort Hotel,1,2020-01-23,2020-01-11,138,2,0,0,FB,Spain,Offline TA/TO,Corporate,Contract,Single,2,No Deposit,3,8,39,Lisbon,Madrid,60.24,0,3,Check-Out,2021-11-02,2019-09-07,0
+46,City Hotel,1,2022-03-11,2021-01-17,120,1,1,1,FB,United Kingdom,Direct,Corporate,Transient,Double,2,Refundable,5,4,11,London,Berlin,137.97,0,4,Check-Out,2022-08-30,2021-11-11,0
+47,City Hotel,0,2021-08-30,2020-11-02,8,4,2,0,HB,Portugal,Online TA,TA/TO,Contract,Double,3,Non Refund,6,9,11,Lisbon,Paris,103.08,0,3,No-Show,2021-09-05,2021-08-22,0
+48,City Hotel,1,2021-12-03,2020-07-31,329,1,0,1,HB,Spain,Corporate,Corporate,Transient,Single,2,Refundable,1,1,36,Lisbon,Paris,79.18,2,3,Canceled,2020-12-24,2021-01-08,1
+49,City Hotel,0,2022-08-03,2020-05-11,147,3,0,0,HB,Spain,Online TA,Direct,Transient,Triple,3,No Deposit,10,9,35,London,London,111.22,2,1,No-Show,2022-10-21,2022-03-09,0
+50,Resort Hotel,1,2022-01-30,2022-09-11,333,2,0,1,BB,Portugal,Corporate,Direct,Transient,Triple,2,Refundable,4,4,10,Berlin,London,53.64,0,0,Check-Out,2022-12-22,2021-03-03,0
+51,Resort Hotel,0,2022-10-02,2022-12-11,32,2,2,1,BB,Spain,Offline TA/TO,TA/TO,Contract,Single,1,Non Refund,4,7,10,Paris,London,125.12,2,2,Check-Out,2022-03-27,2022-08-31,0
+52,Resort Hotel,1,2022-09-10,2020-06-26,295,2,0,0,FB,United Kingdom,Offline TA/TO,Corporate,Transient-Party,Double,3,No Deposit,9,5,20,Paris,London,154.8,1,4,Canceled,2022-01-02,2021-11-19,1
+53,Resort Hotel,0,2021-01-20,2022-04-24,196,2,0,1,HB,United Kingdom,Direct,Corporate,Transient,Double,3,No Deposit,4,5,28,Lisbon,Berlin,152.94,0,0,Check-Out,2022-12-18,2020-07-08,0
+54,City Hotel,1,2021-08-17,2022-10-27,95,2,1,0,HB,Portugal,Online TA,TA/TO,Group,Double,0,Refundable,8,1,45,Paris,Paris,81.0,2,3,Check-Out,2020-01-17,2021-05-14,0
+55,Resort Hotel,0,2022-02-19,2022-02-24,347,3,1,1,HB,United Kingdom,Online TA,Corporate,Transient-Party,Single,3,Non Refund,10,10,1,London,Berlin,181.03,2,1,No-Show,2021-03-19,2021-03-09,0
+56,Resort Hotel,0,2022-08-03,2022-07-18,241,2,0,0,FB,United Kingdom,Direct,Corporate,Transient-Party,Double,2,No Deposit,1,6,3,London,Madrid,171.4,0,4,No-Show,2021-09-04,2021-12-05,0
+57,Resort Hotel,1,2020-03-03,2021-03-26,71,4,2,0,BB,Spain,Offline TA/TO,TA/TO,Transient-Party,Triple,1,Refundable,5,10,42,Madrid,Berlin,174.57,1,3,Check-Out,2021-12-01,2019-12-23,0
+58,Resort Hotel,0,2021-11-22,2021-01-03,232,3,2,1,HB,Spain,Offline TA/TO,TA/TO,Contract,Double,0,Non Refund,4,2,24,Berlin,Paris,199.83,1,3,No-Show,2020-04-17,2021-04-04,0
+59,Resort Hotel,1,2022-05-18,2020-05-31,344,3,2,0,HB,Germany,Corporate,Corporate,Transient-Party,Single,1,Refundable,3,5,13,Berlin,Berlin,96.48,2,4,No-Show,2021-09-13,2021-06-08,0
+60,Resort Hotel,0,2022-05-06,2022-04-08,270,1,2,0,HB,United Kingdom,Offline TA/TO,Corporate,Contract,Double,2,No Deposit,1,7,12,Berlin,Paris,108.98,2,1,No-Show,2021-10-25,2021-08-09,0
+61,Resort Hotel,0,2022-09-05,2021-10-11,188,2,0,1,FB,United Kingdom,Offline TA/TO,TA/TO,Transient,Single,1,Refundable,1,9,47,Madrid,Paris,194.3,1,1,Check-Out,2020-07-06,2022-03-01,0
+62,Resort Hotel,1,2021-07-02,2021-01-11,25,1,0,1,BB,France,Direct,Direct,Transient-Party,Double,0,Refundable,3,6,38,Lisbon,Paris,165.33,2,0,No-Show,2022-11-17,2021-06-07,0
+63,Resort Hotel,1,2021-01-07,2020-05-17,364,4,0,0,FB,United Kingdom,Offline TA/TO,TA/TO,Transient-Party,Triple,1,Non Refund,4,7,26,Madrid,Lisbon,181.66,1,0,Check-Out,2021-12-24,2020-01-09,0
+64,Resort Hotel,0,2022-11-24,2021-05-25,354,2,2,0,BB,Portugal,Online TA,TA/TO,Group,Double,0,Non Refund,2,6,49,London,Madrid,189.12,0,4,Check-Out,2022-05-14,2021-12-05,0
+65,Resort Hotel,0,2022-10-11,2022-11-29,231,4,2,1,HB,France,Offline TA/TO,TA/TO,Group,Triple,2,Refundable,10,10,18,Madrid,Berlin,50.81,0,4,No-Show,2022-06-05,2022-02-22,0
+66,City Hotel,0,2020-05-04,2021-04-12,358,3,0,1,BB,Spain,Direct,Corporate,Group,Double,3,Refundable,10,1,24,Berlin,Paris,151.49,1,4,No-Show,2022-10-15,2019-05-12,0
+67,Resort Hotel,1,2022-01-28,2021-11-23,61,3,1,0,BB,Spain,Online TA,Corporate,Group,Single,0,Refundable,9,4,10,London,Paris,116.02,1,1,No-Show,2021-06-06,2021-11-28,0
+68,Resort Hotel,1,2022-12-12,2020-04-03,271,4,0,1,HB,Portugal,Online TA,Direct,Transient,Single,2,No Deposit,6,2,38,Madrid,Berlin,83.09,1,2,Check-Out,2020-12-30,2022-03-16,0
+69,Resort Hotel,1,2020-08-11,2022-07-30,333,2,2,0,BB,Spain,Online TA,Direct,Transient-Party,Single,1,Refundable,8,9,6,London,Madrid,109.69,1,2,No-Show,2020-11-30,2019-09-13,0
+70,City Hotel,1,2020-11-16,2021-02-05,186,4,2,0,HB,Spain,Offline TA/TO,Direct,Transient,Single,1,Refundable,3,5,17,Madrid,Paris,83.95,0,3,Check-Out,2022-05-05,2020-05-14,0
+71,Resort Hotel,0,2020-12-14,2022-02-01,5,3,0,0,FB,United Kingdom,Online TA,Direct,Contract,Single,0,No Deposit,10,5,25,Lisbon,Berlin,140.74,1,3,Canceled,2022-01-14,2020-12-09,1
+72,Resort Hotel,1,2022-02-11,2022-01-16,263,2,0,1,BB,United Kingdom,Online TA,TA/TO,Group,Double,2,Non Refund,4,2,11,London,Berlin,193.98,2,4,No-Show,2022-05-20,2021-05-24,0
+73,Resort Hotel,1,2021-09-09,2020-12-14,313,2,0,1,FB,Germany,Online TA,Corporate,Transient-Party,Double,2,Refundable,10,4,18,London,Berlin,156.03,2,2,Canceled,2020-05-24,2020-10-31,1
+74,City Hotel,0,2022-06-07,2021-03-07,184,3,2,1,BB,Germany,Direct,Direct,Transient,Triple,2,Non Refund,6,7,41,Madrid,Paris,166.86,2,2,Check-Out,2020-01-26,2021-12-05,0
+75,Resort Hotel,0,2020-11-08,2020-06-27,44,3,0,0,HB,Portugal,Direct,Direct,Contract,Double,2,Refundable,6,7,5,Madrid,Berlin,192.27,0,2,Canceled,2020-03-25,2020-09-25,1
+76,Resort Hotel,1,2022-09-21,2022-08-05,174,4,0,0,BB,Spain,Direct,TA/TO,Transient-Party,Triple,3,Non Refund,4,6,46,Madrid,Berlin,150.17,2,0,Canceled,2021-05-26,2022-03-31,1
+77,Resort Hotel,0,2020-06-11,2020-09-07,93,1,2,0,BB,Germany,Online TA,Corporate,Group,Double,3,Non Refund,5,6,27,Berlin,Paris,85.09,0,3,Canceled,2020-09-16,2020-03-10,1
+78,City Hotel,0,2022-08-23,2022-10-13,180,3,0,1,HB,Spain,Online TA,Corporate,Contract,Triple,2,Refundable,10,6,23,Lisbon,Berlin,59.25,0,0,Canceled,2020-02-08,2022-02-24,1
+79,Resort Hotel,1,2020-08-16,2020-06-02,326,4,2,1,FB,France,Direct,Direct,Transient-Party,Double,3,No Deposit,10,1,9,Madrid,Berlin,60.41,2,2,Check-Out,2020-08-05,2019-09-25,0
+80,City Hotel,1,2021-04-28,2022-11-24,303,4,2,0,HB,United Kingdom,Offline TA/TO,Corporate,Contract,Single,0,Refundable,3,7,49,Madrid,Paris,133.96,2,3,Check-Out,2021-02-27,2020-06-29,0
+81,Resort Hotel,1,2022-03-03,2020-02-12,98,4,0,1,FB,Germany,Direct,TA/TO,Transient-Party,Single,1,Non Refund,9,8,15,London,Berlin,63.87,1,0,Check-Out,2020-03-03,2021-11-25,0
+82,City Hotel,0,2020-10-26,2020-12-31,318,1,2,1,HB,Portugal,Online TA,Direct,Group,Single,3,No Deposit,9,9,1,Berlin,Paris,137.81,0,2,Check-Out,2022-08-04,2019-12-13,0
+83,City Hotel,0,2022-04-02,2022-10-25,342,4,2,1,BB,Spain,Offline TA/TO,Corporate,Group,Triple,2,Refundable,3,2,50,London,Berlin,59.18,0,0,Canceled,2020-01-12,2021-04-25,1
+84,City Hotel,1,2021-08-05,2021-04-03,282,4,0,0,BB,France,Direct,Direct,Transient,Double,3,No Deposit,3,4,33,London,London,134.73,0,3,Canceled,2022-06-12,2020-10-27,1
+85,Resort Hotel,1,2020-10-21,2021-04-24,200,4,2,1,BB,Spain,Corporate,Corporate,Group,Triple,3,Non Refund,10,8,42,London,London,103.87,1,3,Check-Out,2020-01-11,2020-04-04,0
+86,Resort Hotel,1,2022-07-27,2021-10-26,68,4,2,1,HB,Portugal,Corporate,TA/TO,Group,Single,0,Non Refund,9,9,23,Berlin,Madrid,129.17,0,3,Check-Out,2021-10-25,2022-05-20,0
+87,Resort Hotel,0,2021-03-30,2021-07-29,362,4,2,1,BB,Spain,Direct,TA/TO,Group,Single,2,No Deposit,9,4,27,Berlin,Paris,111.51,1,2,Check-Out,2022-08-18,2020-04-02,0
+88,Resort Hotel,1,2022-11-23,2022-09-20,256,3,0,0,BB,France,Corporate,Corporate,Transient,Triple,0,Refundable,6,5,13,Madrid,Madrid,190.54,2,1,No-Show,2022-09-27,2022-03-12,0
+89,City Hotel,0,2020-06-28,2022-10-08,167,4,0,1,FB,Spain,Offline TA/TO,TA/TO,Transient,Triple,1,Non Refund,10,10,12,Madrid,Berlin,90.66,2,0,Canceled,2020-09-08,2020-01-13,1
+90,Resort Hotel,0,2020-05-19,2020-09-30,74,2,2,1,HB,France,Corporate,TA/TO,Transient-Party,Triple,3,Non Refund,2,2,33,Paris,Lisbon,119.72,1,0,No-Show,2022-04-22,2020-03-06,0
+91,Resort Hotel,0,2020-09-28,2020-07-26,55,2,2,1,BB,Spain,Offline TA/TO,Corporate,Transient-Party,Triple,1,No Deposit,10,5,39,Paris,Madrid,96.75,2,4,Canceled,2022-08-03,2020-08-04,1
+92,City Hotel,1,2021-04-13,2021-10-07,34,3,2,1,FB,Spain,Corporate,Direct,Transient-Party,Double,0,Refundable,9,9,21,Paris,Paris,52.73,0,1,Canceled,2021-10-10,2021-03-10,1
+93,Resort Hotel,0,2020-09-09,2020-02-23,3,2,0,0,FB,Portugal,Offline TA/TO,Direct,Contract,Single,2,Non Refund,6,3,45,London,Madrid,196.12,0,1,Check-Out,2022-09-06,2020-09-06,0
+94,City Hotel,1,2020-11-02,2022-06-22,13,2,1,1,FB,Portugal,Online TA,TA/TO,Group,Triple,2,Non Refund,8,7,22,Madrid,London,137.72,2,4,Check-Out,2021-05-30,2020-10-20,0
+95,City Hotel,0,2022-09-07,2021-02-01,185,3,0,1,HB,Portugal,Offline TA/TO,Direct,Transient,Single,3,Refundable,7,8,14,Paris,Paris,187.96,2,3,Canceled,2021-08-23,2022-03-06,1
+96,City Hotel,0,2022-08-24,2020-12-14,119,2,2,1,HB,United Kingdom,Offline TA/TO,Direct,Group,Triple,3,Non Refund,3,3,50,Berlin,Paris,84.75,0,1,No-Show,2021-11-09,2022-04-27,0
+97,City Hotel,0,2022-06-27,2022-05-28,171,2,2,0,HB,Germany,Online TA,Corporate,Transient,Single,2,No Deposit,2,5,25,Madrid,Lisbon,181.43,2,4,No-Show,2021-03-08,2022-01-07,0
+98,City Hotel,1,2020-01-04,2022-11-28,108,2,0,0,FB,France,Direct,TA/TO,Contract,Double,1,Refundable,4,10,10,Madrid,Lisbon,179.54,0,2,Check-Out,2021-07-15,2019-09-18,0
+99,City Hotel,1,2022-04-29,2020-01-26,110,1,0,1,FB,United Kingdom,Direct,TA/TO,Contract,Single,0,No Deposit,9,7,10,Lisbon,Lisbon,189.78,2,3,Check-Out,2021-07-31,2022-01-09,0
+100,City Hotel,1,2021-07-07,2020-03-18,187,1,0,0,FB,Portugal,Offline TA/TO,TA/TO,Contract,Single,2,Refundable,2,10,18,Berlin,Madrid,113.85,2,0,Check-Out,2021-11-11,2021-01-01,0
+101,City Hotel,0,2020-08-24,2020-06-08,92,4,2,1,FB,Spain,Offline TA/TO,Corporate,Contract,Triple,1,Non Refund,4,10,27,Berlin,Madrid,177.6,2,0,No-Show,2020-04-23,2020-05-24,0
+102,Resort Hotel,1,2022-04-12,2021-02-03,310,1,0,1,BB,United Kingdom,Online TA,Direct,Transient-Party,Single,1,Refundable,9,7,16,Berlin,Madrid,173.09,0,0,Canceled,2020-09-13,2021-06-06,1
+103,City Hotel,0,2021-04-13,2021-12-24,133,3,1,0,HB,Portugal,Corporate,Corporate,Contract,Single,3,Refundable,1,4,37,Lisbon,Madrid,126.72,1,2,Canceled,2022-08-11,2020-12-01,1
+104,City Hotel,1,2020-03-07,2020-05-08,20,1,1,1,FB,Portugal,Offline TA/TO,Corporate,Contract,Triple,1,Refundable,2,5,49,London,Paris,50.56,1,2,Check-Out,2022-09-15,2020-02-16,0
+105,Resort Hotel,0,2021-10-18,2020-09-16,44,2,0,0,FB,United Kingdom,Direct,TA/TO,Transient,Single,2,No Deposit,2,2,8,London,Paris,178.67,1,1,No-Show,2021-01-17,2021-09-04,0
+106,City Hotel,0,2022-08-23,2022-10-09,70,2,2,1,FB,Germany,Corporate,Direct,Transient,Double,0,Non Refund,6,7,47,Berlin,Berlin,71.42,2,1,No-Show,2020-05-12,2022-06-14,0
+107,Resort Hotel,1,2021-04-07,2022-10-16,43,3,0,0,HB,France,Corporate,Corporate,Group,Double,2,No Deposit,10,7,13,Lisbon,London,122.88,1,1,Check-Out,2021-12-23,2021-02-23,0
+108,Resort Hotel,1,2020-05-03,2021-06-12,7,2,1,0,HB,Portugal,Corporate,TA/TO,Transient-Party,Double,1,Refundable,7,6,7,London,Paris,63.57,0,0,Check-Out,2020-06-23,2020-04-26,0
+109,Resort Hotel,0,2022-05-27,2021-05-03,315,4,1,0,BB,France,Online TA,Corporate,Group,Double,3,Non Refund,5,8,50,London,Berlin,175.22,0,2,Check-Out,2022-06-28,2021-07-16,0
+110,City Hotel,0,2021-01-21,2021-08-23,131,3,2,0,BB,United Kingdom,Offline TA/TO,TA/TO,Contract,Single,0,Non Refund,3,2,14,Lisbon,Berlin,140.34,0,0,Check-Out,2021-12-04,2020-09-12,0
+111,City Hotel,1,2022-03-30,2020-08-13,174,2,1,1,HB,Portugal,Online TA,TA/TO,Contract,Triple,2,Non Refund,1,3,14,Berlin,Madrid,192.44,1,0,Canceled,2022-09-24,2021-10-07,1
+112,City Hotel,0,2022-04-07,2022-05-13,250,2,2,1,HB,Germany,Offline TA/TO,Direct,Contract,Single,2,Refundable,4,7,42,London,Paris,183.98,0,3,Check-Out,2022-01-07,2021-07-31,0
+113,City Hotel,1,2022-10-28,2021-08-17,313,2,0,1,HB,Germany,Online TA,Corporate,Transient-Party,Double,0,Refundable,1,10,48,London,London,66.13,0,1,Check-Out,2021-04-27,2021-12-19,0
+114,Resort Hotel,1,2021-08-19,2022-05-31,315,3,0,0,FB,Germany,Corporate,Corporate,Transient-Party,Double,3,Refundable,1,8,47,Paris,Berlin,68.33,0,1,Check-Out,2022-05-03,2020-10-08,0
+115,City Hotel,1,2022-06-13,2021-07-02,79,2,0,0,BB,Germany,Direct,Corporate,Transient,Single,0,Refundable,1,3,3,Madrid,Berlin,90.05,0,4,Canceled,2021-01-01,2022-03-26,1
+116,City Hotel,0,2021-06-22,2022-12-01,278,2,2,0,FB,France,Direct,Corporate,Transient-Party,Double,2,No Deposit,7,7,34,Berlin,Madrid,103.43,1,4,No-Show,2020-06-06,2020-09-17,0
+117,Resort Hotel,1,2022-03-04,2020-07-09,186,3,0,0,HB,Germany,Direct,TA/TO,Contract,Double,2,Non Refund,10,10,45,Berlin,Paris,199.13,0,2,Canceled,2022-07-14,2021-08-30,1
+118,City Hotel,1,2021-10-29,2020-11-11,96,3,0,1,FB,France,Offline TA/TO,Corporate,Transient-Party,Single,1,No Deposit,1,3,43,Paris,Lisbon,164.42,2,1,Check-Out,2020-06-06,2021-07-25,0
+119,Resort Hotel,0,2022-11-05,2022-05-26,246,1,1,1,FB,United Kingdom,Offline TA/TO,Corporate,Transient-Party,Triple,3,No Deposit,10,7,35,Paris,Paris,153.26,0,1,No-Show,2020-06-09,2022-03-04,0
+120,City Hotel,1,2020-10-18,2020-12-09,362,3,0,0,HB,France,Offline TA/TO,Corporate,Group,Triple,3,No Deposit,6,4,45,Berlin,Berlin,133.79,1,1,No-Show,2022-07-03,2019-10-22,0
+121,Resort Hotel,0,2021-02-21,2020-10-13,359,4,2,1,FB,Germany,Direct,Corporate,Contract,Double,3,No Deposit,3,3,12,Lisbon,Lisbon,140.38,2,3,Canceled,2020-06-29,2020-02-28,1
+122,Resort Hotel,0,2021-01-06,2020-02-04,40,2,1,1,FB,Germany,Offline TA/TO,Direct,Transient,Single,3,Non Refund,5,10,5,Paris,London,161.54,0,0,No-Show,2022-10-16,2020-11-27,0
+123,Resort Hotel,1,2020-08-26,2020-09-30,127,1,1,0,BB,Portugal,Corporate,Corporate,Group,Single,3,Non Refund,9,4,9,Berlin,Madrid,74.95,0,1,Canceled,2020-10-25,2020-04-21,1
+124,City Hotel,0,2021-04-28,2020-09-28,320,3,2,1,BB,France,Offline TA/TO,Corporate,Transient-Party,Triple,0,No Deposit,7,1,40,London,Berlin,98.4,1,0,Check-Out,2020-02-01,2020-06-12,0
+125,Resort Hotel,1,2021-11-15,2021-06-24,194,3,1,1,FB,Germany,Online TA,Direct,Transient-Party,Single,1,Non Refund,6,3,50,Paris,Berlin,77.41,1,4,Check-Out,2020-06-18,2021-05-05,0
+126,City Hotel,0,2022-04-18,2021-07-04,205,3,2,1,HB,Germany,Offline TA/TO,TA/TO,Contract,Single,2,Refundable,2,3,17,Paris,Berlin,99.63,2,0,Check-Out,2020-05-10,2021-09-25,0
+127,Resort Hotel,0,2021-05-10,2021-04-12,79,2,1,0,BB,Portugal,Direct,Direct,Contract,Triple,3,Non Refund,4,7,41,Paris,London,162.61,2,4,Canceled,2022-12-05,2021-02-20,1
+128,Resort Hotel,0,2022-03-20,2022-03-07,321,2,1,1,FB,Germany,Offline TA/TO,Corporate,Group,Triple,1,Refundable,4,8,20,Berlin,Madrid,123.04,2,3,Canceled,2022-01-12,2021-05-03,1
+129,City Hotel,0,2021-09-19,2022-11-16,36,4,0,0,HB,Germany,Corporate,Corporate,Transient,Triple,2,Non Refund,9,10,30,Lisbon,Berlin,147.28,1,4,No-Show,2021-06-19,2021-08-14,0
+130,City Hotel,0,2021-03-09,2021-08-25,186,3,1,1,HB,Portugal,Online TA,Corporate,Transient,Triple,0,No Deposit,7,4,21,Berlin,London,98.39,0,0,Canceled,2021-06-02,2020-09-04,1
+131,Resort Hotel,0,2021-07-11,2020-10-19,206,3,0,0,HB,United Kingdom,Corporate,Direct,Contract,Double,2,No Deposit,10,1,2,Berlin,London,177.32,0,2,Canceled,2022-08-10,2020-12-17,1
+132,Resort Hotel,0,2020-11-24,2022-05-12,266,4,0,1,FB,Portugal,Online TA,Direct,Transient-Party,Single,0,No Deposit,10,6,13,Berlin,Berlin,121.44,1,1,Canceled,2022-11-21,2020-03-03,1
+133,Resort Hotel,0,2021-09-10,2022-12-03,142,4,2,1,FB,Germany,Offline TA/TO,Direct,Transient-Party,Double,2,No Deposit,3,1,8,Madrid,London,50.51,2,4,No-Show,2020-12-14,2021-04-21,0
+134,City Hotel,0,2021-07-06,2022-01-29,271,2,2,1,BB,Germany,Online TA,Corporate,Group,Triple,2,Non Refund,3,1,21,London,Paris,80.12,0,1,Check-Out,2022-05-22,2020-10-08,0
+135,City Hotel,0,2021-10-03,2022-12-19,230,4,1,1,FB,Portugal,Corporate,Corporate,Contract,Triple,2,Non Refund,6,6,21,Madrid,Berlin,68.9,0,4,Canceled,2021-12-03,2021-02-15,1
+136,Resort Hotel,1,2020-07-15,2022-08-29,129,1,2,1,FB,Spain,Offline TA/TO,Direct,Transient-Party,Triple,2,Non Refund,9,8,4,London,Madrid,71.21,0,2,Canceled,2022-12-01,2020-03-08,1
+137,Resort Hotel,0,2022-02-27,2020-04-20,346,1,2,0,FB,France,Corporate,Corporate,Contract,Double,2,Non Refund,5,9,46,Madrid,Lisbon,190.33,0,2,Check-Out,2021-07-15,2021-03-18,0
+138,Resort Hotel,0,2020-01-19,2021-10-25,234,3,2,0,HB,Germany,Corporate,Direct,Group,Double,2,No Deposit,4,9,34,Madrid,Berlin,118.1,2,0,No-Show,2021-02-13,2019-05-30,0
+139,City Hotel,1,2020-08-06,2021-04-19,318,4,0,0,HB,Spain,Offline TA/TO,Direct,Contract,Single,1,Refundable,5,6,27,Madrid,Lisbon,67.29,2,4,Check-Out,2020-04-08,2019-09-23,0
+140,Resort Hotel,0,2021-04-19,2020-08-06,141,4,1,0,FB,Portugal,Online TA,TA/TO,Contract,Triple,2,Non Refund,7,7,23,Lisbon,Lisbon,52.58,1,3,Check-Out,2021-04-03,2020-11-29,0
+141,Resort Hotel,0,2021-05-18,2021-12-30,165,4,0,1,FB,Portugal,Corporate,Direct,Transient-Party,Single,0,Refundable,4,7,35,London,Madrid,71.61,1,2,Check-Out,2020-11-10,2020-12-04,0
+142,Resort Hotel,0,2022-02-02,2020-03-28,277,4,2,1,BB,United Kingdom,Offline TA/TO,TA/TO,Transient,Triple,2,Non Refund,8,1,41,Lisbon,Madrid,65.16,1,2,Canceled,2022-12-07,2021-05-01,1
+143,City Hotel,0,2020-12-24,2021-09-10,238,4,1,1,BB,Germany,Direct,Corporate,Transient,Triple,1,No Deposit,6,9,11,Paris,London,129.86,2,4,No-Show,2022-02-06,2020-04-30,0
+144,City Hotel,1,2021-06-01,2020-10-03,210,3,2,1,BB,United Kingdom,Corporate,TA/TO,Group,Triple,1,Non Refund,10,10,29,Madrid,Lisbon,181.71,2,1,Check-Out,2020-08-12,2020-11-03,0
+145,Resort Hotel,1,2021-10-25,2021-10-23,154,1,1,0,HB,Portugal,Direct,TA/TO,Group,Double,2,No Deposit,6,9,10,London,Lisbon,120.63,0,3,No-Show,2020-01-28,2021-05-24,0
+146,City Hotel,1,2021-09-18,2020-08-29,270,2,0,1,FB,Germany,Corporate,TA/TO,Contract,Double,0,Refundable,9,9,3,Madrid,London,163.89,2,3,Check-Out,2021-03-09,2020-12-22,0
+147,City Hotel,1,2020-12-18,2022-07-16,1,1,1,1,HB,Germany,Online TA,Corporate,Transient,Double,3,Non Refund,7,6,45,Paris,Paris,144.54,1,1,Canceled,2022-01-18,2020-12-17,1
+148,Resort Hotel,0,2022-12-25,2022-02-13,126,2,2,1,HB,Portugal,Offline TA/TO,Direct,Transient,Double,3,Refundable,10,10,24,London,London,193.41,0,3,No-Show,2022-06-07,2022-08-21,0
+149,Resort Hotel,0,2021-03-09,2021-08-22,324,3,1,0,BB,Spain,Online TA,Direct,Transient,Single,2,Refundable,7,3,19,London,London,94.21,1,4,Canceled,2020-04-05,2020-04-19,1
+150,City Hotel,0,2021-05-11,2022-01-26,262,4,0,0,FB,Spain,Offline TA/TO,TA/TO,Contract,Single,2,Non Refund,8,7,46,Lisbon,London,80.62,0,4,No-Show,2021-04-19,2020-08-22,0
+151,Resort Hotel,1,2022-07-18,2022-07-20,254,3,2,0,HB,Portugal,Direct,Direct,Contract,Double,2,Non Refund,4,8,41,Berlin,Paris,51.44,0,1,No-Show,2022-03-05,2021-11-06,0
+152,City Hotel,0,2022-02-05,2021-05-06,7,2,1,0,HB,United Kingdom,Offline TA/TO,TA/TO,Contract,Triple,0,Refundable,6,7,19,Berlin,Berlin,58.71,2,1,No-Show,2021-07-12,2022-01-29,0
+153,Resort Hotel,0,2020-10-23,2020-06-23,309,4,1,0,FB,Portugal,Direct,TA/TO,Transient,Double,2,Non Refund,5,7,37,London,Madrid,99.36,2,4,Check-Out,2021-04-19,2019-12-19,0
+154,Resort Hotel,1,2021-02-02,2021-08-28,115,4,1,1,BB,United Kingdom,Direct,Direct,Group,Double,1,Non Refund,6,9,3,Berlin,Berlin,188.2,0,2,Check-Out,2020-12-27,2020-10-10,0
+155,Resort Hotel,0,2021-05-18,2022-12-14,172,2,1,0,BB,Spain,Corporate,Corporate,Contract,Single,2,Non Refund,2,4,50,London,Lisbon,181.9,0,4,Canceled,2021-03-27,2020-11-27,1
+156,City Hotel,0,2022-06-01,2021-07-21,352,1,2,0,FB,Germany,Corporate,Corporate,Transient,Triple,0,Non Refund,5,1,7,Lisbon,London,93.24,1,3,Canceled,2022-03-01,2021-06-14,1
+157,City Hotel,0,2021-02-21,2021-01-20,108,2,1,1,HB,Portugal,Corporate,Direct,Contract,Single,3,Non Refund,6,10,26,Lisbon,London,178.3,0,2,Check-Out,2020-07-08,2020-11-05,0
+158,Resort Hotel,1,2022-03-09,2020-11-03,174,3,2,0,BB,France,Direct,Direct,Contract,Triple,0,No Deposit,7,9,16,London,Madrid,168.96,2,1,No-Show,2022-06-27,2021-09-16,0
+159,Resort Hotel,1,2021-04-18,2021-12-13,249,1,2,1,BB,Spain,Direct,TA/TO,Transient-Party,Double,2,Refundable,5,10,3,Madrid,Berlin,165.19,0,4,No-Show,2022-10-04,2020-08-12,0
+160,Resort Hotel,1,2022-01-23,2021-11-15,256,2,0,0,BB,Spain,Direct,Direct,Transient-Party,Single,2,Non Refund,7,4,43,Madrid,Madrid,123.76,1,0,Canceled,2020-01-17,2021-05-12,1
+161,City Hotel,1,2021-10-01,2020-01-30,105,1,0,0,BB,United Kingdom,Corporate,Direct,Contract,Double,1,No Deposit,4,3,12,London,London,196.22,0,1,Canceled,2020-04-12,2021-06-18,1
+162,Resort Hotel,1,2021-06-03,2021-06-26,348,2,2,1,FB,Germany,Corporate,Corporate,Transient-Party,Single,3,No Deposit,9,5,3,Lisbon,Paris,59.39,1,3,Canceled,2022-04-11,2020-06-20,1
+163,Resort Hotel,0,2020-10-02,2022-10-26,318,2,1,0,FB,United Kingdom,Online TA,Direct,Transient-Party,Double,1,Refundable,10,4,13,Lisbon,London,174.22,2,0,No-Show,2022-05-18,2019-11-19,0
+164,Resort Hotel,1,2021-08-19,2022-06-25,16,1,0,0,BB,Spain,Offline TA/TO,Corporate,Group,Triple,0,No Deposit,6,9,27,London,London,155.42,0,2,No-Show,2022-07-15,2021-08-03,0
+165,City Hotel,0,2022-08-11,2021-04-14,297,4,0,1,FB,United Kingdom,Direct,TA/TO,Contract,Triple,3,Refundable,5,2,8,Paris,London,154.7,1,0,Check-Out,2022-03-16,2021-10-18,0
+166,City Hotel,0,2020-10-13,2022-04-08,109,3,0,1,HB,Germany,Offline TA/TO,Direct,Transient-Party,Triple,1,No Deposit,4,5,2,London,Lisbon,52.52,0,2,Check-Out,2021-02-10,2020-06-26,0
+167,Resort Hotel,1,2022-12-28,2020-05-25,31,1,0,0,FB,Portugal,Offline TA/TO,Direct,Contract,Single,2,Non Refund,10,1,42,Madrid,Berlin,172.97,0,4,No-Show,2022-12-21,2022-11-27,0
+168,Resort Hotel,0,2022-09-19,2022-10-26,243,3,1,0,BB,Portugal,Online TA,TA/TO,Transient-Party,Single,0,No Deposit,2,9,22,Lisbon,Berlin,154.57,0,3,Canceled,2021-07-23,2022-01-19,1
+169,Resort Hotel,1,2022-09-28,2021-09-29,64,3,0,1,FB,Portugal,Corporate,Corporate,Transient,Single,2,Refundable,10,4,26,Lisbon,London,177.77,1,2,No-Show,2020-03-12,2022-07-26,0
+170,Resort Hotel,0,2020-12-30,2020-03-03,257,2,1,0,BB,Germany,Corporate,Corporate,Contract,Double,3,No Deposit,10,10,19,London,Lisbon,86.4,1,0,No-Show,2020-08-19,2020-04-17,0
+171,City Hotel,1,2020-01-17,2022-12-18,314,1,0,1,BB,United Kingdom,Corporate,TA/TO,Transient-Party,Single,2,No Deposit,6,10,39,Berlin,Lisbon,186.41,1,0,Canceled,2021-08-07,2019-03-09,1
+172,City Hotel,1,2021-09-09,2022-09-19,317,4,1,1,BB,Spain,Direct,Direct,Transient,Single,0,No Deposit,8,4,12,Berlin,Madrid,168.76,0,1,Check-Out,2022-10-12,2020-10-27,0
+173,City Hotel,1,2022-05-07,2020-07-08,210,1,1,0,FB,Spain,Corporate,Corporate,Contract,Triple,0,Refundable,1,1,36,Berlin,Madrid,151.21,1,4,Canceled,2022-05-24,2021-10-09,1
+174,City Hotel,1,2020-10-02,2022-07-19,70,2,2,1,BB,Germany,Online TA,TA/TO,Transient,Double,2,No Deposit,7,8,41,London,Paris,96.48,0,3,No-Show,2020-11-27,2020-07-24,0
+175,Resort Hotel,0,2021-04-20,2021-07-06,93,4,0,0,FB,France,Online TA,Corporate,Group,Triple,3,No Deposit,5,5,30,Paris,Berlin,96.34,2,0,Canceled,2022-12-16,2021-01-17,1
+176,City Hotel,0,2021-01-09,2021-04-26,281,1,0,0,BB,France,Offline TA/TO,Corporate,Transient-Party,Triple,3,No Deposit,4,5,35,Lisbon,London,115.65,1,3,No-Show,2022-09-19,2020-04-03,0
+177,City Hotel,0,2021-07-07,2021-06-23,284,4,0,0,FB,France,Offline TA/TO,Corporate,Transient,Triple,0,Non Refund,2,5,34,Berlin,Madrid,190.51,1,3,No-Show,2020-07-26,2020-09-26,0
+178,City Hotel,1,2021-03-09,2021-12-14,0,4,0,1,HB,United Kingdom,Online TA,TA/TO,Contract,Double,0,Non Refund,7,7,17,Paris,Madrid,126.32,1,4,No-Show,2020-06-02,2021-03-09,0
+179,City Hotel,1,2021-04-12,2020-05-20,353,3,2,1,HB,United Kingdom,Direct,TA/TO,Contract,Double,0,Refundable,4,7,11,Lisbon,Berlin,126.35,1,3,Check-Out,2020-10-30,2020-04-24,0
+180,Resort Hotel,0,2021-06-29,2020-05-07,235,1,1,1,FB,Spain,Direct,Corporate,Contract,Single,3,Non Refund,2,2,2,Berlin,London,160.2,1,4,Check-Out,2020-05-14,2020-11-06,0
+181,Resort Hotel,0,2022-12-29,2021-09-17,33,4,0,1,BB,Spain,Corporate,Direct,Contract,Triple,0,Non Refund,9,5,50,Madrid,Madrid,185.71,0,1,No-Show,2021-07-08,2022-11-26,0
+182,Resort Hotel,0,2021-06-08,2021-02-16,242,1,1,1,HB,Germany,Online TA,Corporate,Contract,Triple,0,Refundable,6,1,34,Madrid,Berlin,181.9,1,1,Canceled,2022-07-01,2020-10-09,1
+183,City Hotel,1,2022-03-01,2022-03-02,199,1,2,0,FB,Portugal,Direct,Direct,Contract,Triple,0,Refundable,10,1,30,Lisbon,Paris,166.81,0,3,Check-Out,2020-04-02,2021-08-14,0
+184,Resort Hotel,0,2020-09-24,2020-05-06,174,1,1,0,HB,Portugal,Offline TA/TO,Direct,Transient,Single,3,Refundable,10,2,1,Berlin,Madrid,72.57,2,2,Canceled,2020-01-25,2020-04-03,1
+185,Resort Hotel,1,2021-06-20,2021-10-29,83,1,0,0,FB,United Kingdom,Direct,TA/TO,Group,Single,2,No Deposit,2,9,18,Lisbon,Madrid,139.46,1,1,Canceled,2020-12-15,2021-03-29,1
+186,City Hotel,0,2022-04-13,2021-02-07,260,4,0,1,FB,Germany,Direct,Corporate,Transient-Party,Single,3,No Deposit,1,5,30,Madrid,Berlin,160.09,1,3,No-Show,2021-02-09,2021-07-27,0
+187,Resort Hotel,1,2022-04-18,2021-07-17,240,1,0,1,FB,France,Corporate,TA/TO,Contract,Single,2,No Deposit,7,6,11,Lisbon,Berlin,199.83,0,0,Check-Out,2021-06-05,2021-08-21,0
+188,City Hotel,0,2020-03-19,2022-10-21,289,3,1,0,FB,United Kingdom,Direct,Direct,Transient-Party,Triple,1,No Deposit,8,3,12,Berlin,Madrid,110.53,2,0,Canceled,2022-05-15,2019-06-04,1
+189,City Hotel,1,2021-04-12,2021-09-19,134,1,1,0,FB,Spain,Offline TA/TO,TA/TO,Transient-Party,Triple,0,Refundable,8,9,18,Berlin,Paris,152.35,2,0,Check-Out,2022-01-26,2020-11-29,0
+190,City Hotel,1,2022-12-21,2021-04-01,349,2,1,0,HB,Germany,Corporate,TA/TO,Transient-Party,Single,1,Non Refund,6,3,36,Paris,Lisbon,77.73,0,0,Canceled,2021-08-19,2022-01-06,1
+191,Resort Hotel,1,2021-09-25,2022-06-18,154,4,0,1,BB,Germany,Online TA,Direct,Contract,Single,2,Non Refund,1,9,5,London,Lisbon,149.06,2,1,No-Show,2021-04-29,2021-04-24,0
+192,Resort Hotel,0,2022-08-22,2021-03-16,90,1,2,1,BB,Portugal,Online TA,Direct,Transient,Single,1,No Deposit,1,10,32,London,London,153.65,1,2,No-Show,2022-10-25,2022-05-24,0
+193,Resort Hotel,1,2020-09-21,2020-04-02,55,3,0,1,HB,United Kingdom,Direct,Corporate,Contract,Double,3,No Deposit,3,1,21,Lisbon,Madrid,145.03,2,0,Canceled,2021-12-01,2020-07-28,1
+194,Resort Hotel,1,2020-03-06,2020-03-26,158,2,0,1,HB,Portugal,Corporate,Direct,Group,Triple,3,No Deposit,3,4,33,Lisbon,Berlin,83.29,2,3,No-Show,2021-04-01,2019-09-30,0
+195,City Hotel,1,2022-01-10,2021-04-12,153,3,1,1,FB,France,Offline TA/TO,Direct,Group,Double,2,Non Refund,6,7,7,Madrid,Paris,197.71,1,0,Check-Out,2022-06-07,2021-08-10,0
+196,Resort Hotel,0,2022-09-12,2021-09-03,0,2,2,1,FB,Spain,Direct,Direct,Group,Triple,0,No Deposit,3,6,20,Berlin,Lisbon,180.9,0,0,No-Show,2021-12-17,2022-09-12,0
+197,City Hotel,1,2021-02-01,2021-02-12,30,3,0,0,FB,Germany,Online TA,Direct,Group,Double,2,Non Refund,7,4,44,Madrid,Berlin,174.78,1,3,Canceled,2020-12-23,2021-01-02,1
+198,Resort Hotel,0,2020-06-24,2020-05-19,113,1,1,0,HB,Germany,Online TA,Corporate,Contract,Double,0,Non Refund,6,6,4,Lisbon,London,181.94,2,4,Check-Out,2021-01-11,2020-03-03,0
+199,City Hotel,0,2022-05-15,2022-02-21,119,3,2,0,FB,Portugal,Corporate,TA/TO,Group,Triple,2,Refundable,8,2,2,Lisbon,London,141.13,0,4,Check-Out,2020-07-02,2022-01-16,0
+200,City Hotel,1,2022-10-13,2020-03-23,248,2,2,0,FB,Portugal,Online TA,Corporate,Transient-Party,Double,2,No Deposit,3,3,25,Paris,Berlin,133.69,1,3,Check-Out,2022-06-06,2022-02-07,0
+201,City Hotel,1,2020-10-18,2022-08-28,153,2,1,1,BB,Portugal,Online TA,Corporate,Transient,Single,1,No Deposit,3,7,0,Madrid,Paris,50.96,1,3,No-Show,2021-10-12,2020-05-18,0
+202,City Hotel,0,2022-07-05,2020-08-07,52,1,0,0,BB,Spain,Online TA,Direct,Group,Single,0,Refundable,2,6,16,Berlin,Berlin,98.29,2,4,Canceled,2021-09-28,2022-05-14,1
+203,City Hotel,0,2020-07-06,2021-12-26,302,1,0,0,FB,United Kingdom,Direct,Corporate,Transient-Party,Double,1,Refundable,7,8,26,Lisbon,London,199.01,1,3,No-Show,2021-08-11,2019-09-08,0
+204,City Hotel,0,2020-06-06,2021-02-01,204,1,1,1,FB,Spain,Online TA,TA/TO,Group,Single,0,No Deposit,6,10,42,Paris,Paris,158.52,2,2,Check-Out,2021-12-12,2019-11-15,0
+205,City Hotel,0,2020-01-23,2022-12-11,51,4,2,1,HB,Portugal,Corporate,Corporate,Group,Single,1,No Deposit,8,9,3,Lisbon,Paris,180.29,2,2,Canceled,2022-08-22,2019-12-03,1
+206,Resort Hotel,1,2021-05-09,2021-07-24,101,3,0,0,BB,United Kingdom,Direct,TA/TO,Group,Triple,3,Non Refund,8,5,10,Madrid,Lisbon,126.47,2,4,Check-Out,2020-11-18,2021-01-28,0
+207,Resort Hotel,0,2020-11-18,2021-08-16,321,2,2,1,FB,France,Offline TA/TO,Direct,Group,Double,1,No Deposit,9,5,10,Lisbon,Lisbon,136.05,1,4,Canceled,2020-03-19,2020-01-02,1
+208,City Hotel,1,2022-03-12,2020-04-04,125,2,0,1,FB,Portugal,Direct,TA/TO,Transient,Triple,3,No Deposit,7,2,30,Lisbon,Madrid,174.28,1,3,Canceled,2022-08-12,2021-11-07,1
+209,City Hotel,1,2022-12-30,2020-05-08,240,2,0,0,FB,Portugal,Corporate,Direct,Transient,Double,2,No Deposit,2,3,4,Madrid,Paris,122.8,0,1,Check-Out,2022-05-26,2022-05-04,0
+210,City Hotel,0,2020-05-31,2021-06-15,75,3,0,0,FB,Germany,Direct,TA/TO,Contract,Double,2,No Deposit,4,2,46,Berlin,Paris,107.2,0,0,Canceled,2022-08-12,2020-03-17,1
+211,City Hotel,1,2022-05-05,2021-06-14,170,1,2,0,FB,Germany,Direct,Corporate,Transient-Party,Single,3,Refundable,1,10,37,Lisbon,London,149.16,0,1,Check-Out,2020-08-21,2021-11-16,0
+212,City Hotel,0,2020-05-27,2021-02-27,150,3,2,0,BB,Portugal,Offline TA/TO,Direct,Transient-Party,Single,1,No Deposit,6,2,32,London,Madrid,124.7,2,0,Canceled,2021-10-06,2019-12-29,1
+213,City Hotel,1,2022-12-23,2021-09-02,164,3,1,0,HB,France,Offline TA/TO,TA/TO,Contract,Double,1,No Deposit,2,3,32,Berlin,Madrid,194.3,1,3,Check-Out,2020-01-22,2022-07-12,0
+214,Resort Hotel,0,2022-01-10,2021-12-17,110,4,1,0,FB,United Kingdom,Online TA,Corporate,Transient-Party,Double,1,No Deposit,4,1,45,Madrid,Berlin,69.37,2,4,No-Show,2021-08-21,2021-09-22,0
+215,City Hotel,0,2022-10-24,2021-01-29,288,2,2,1,HB,France,Offline TA/TO,Corporate,Transient,Double,2,Refundable,5,3,39,Madrid,London,55.04,0,2,No-Show,2021-04-29,2022-01-09,0
+216,Resort Hotel,0,2021-07-17,2021-05-14,310,4,2,0,BB,Portugal,Corporate,TA/TO,Transient,Triple,3,Non Refund,8,8,47,London,Paris,69.47,1,2,Check-Out,2022-10-04,2020-09-10,0
+217,Resort Hotel,1,2020-02-09,2020-04-22,72,4,0,0,FB,Portugal,Online TA,Direct,Contract,Triple,0,Refundable,8,3,36,Berlin,Berlin,135.12,2,1,Check-Out,2022-06-19,2019-11-29,0
+218,City Hotel,1,2022-08-05,2021-07-01,129,3,1,0,FB,Germany,Online TA,Direct,Transient-Party,Triple,1,Refundable,6,1,8,Paris,Lisbon,190.85,0,4,Canceled,2021-09-21,2022-03-29,1
+219,City Hotel,0,2020-08-11,2021-06-09,142,1,0,0,BB,Portugal,Offline TA/TO,Direct,Contract,Single,3,Non Refund,1,2,13,Lisbon,Berlin,125.62,1,1,Check-Out,2021-07-03,2020-03-22,0
+220,Resort Hotel,0,2021-09-28,2020-07-28,248,4,2,0,HB,United Kingdom,Corporate,TA/TO,Group,Double,2,Refundable,8,1,40,Madrid,Lisbon,176.24,2,3,No-Show,2021-06-03,2021-01-23,0
+221,Resort Hotel,1,2022-07-18,2022-12-26,230,1,2,1,BB,Spain,Offline TA/TO,Corporate,Contract,Double,3,No Deposit,8,3,32,Madrid,Lisbon,63.98,0,4,Canceled,2020-10-31,2021-11-30,1
+222,Resort Hotel,1,2020-09-18,2022-07-26,281,3,2,0,FB,Portugal,Offline TA/TO,Corporate,Contract,Single,0,Refundable,10,1,31,Paris,Paris,164.18,2,4,Canceled,2020-06-10,2019-12-12,1
+223,City Hotel,1,2021-04-06,2022-01-28,211,4,1,0,FB,Portugal,Direct,Direct,Transient,Single,0,Refundable,8,4,14,London,Berlin,165.38,2,2,No-Show,2021-02-12,2020-09-07,0
+224,City Hotel,1,2021-07-11,2022-08-11,160,3,2,0,HB,France,Corporate,TA/TO,Transient-Party,Triple,2,Non Refund,4,3,33,Berlin,Madrid,133.67,0,4,Check-Out,2021-11-17,2021-02-01,0
+225,Resort Hotel,0,2020-07-02,2020-04-03,327,3,2,0,HB,Portugal,Corporate,Direct,Group,Triple,1,Refundable,2,6,39,Madrid,Paris,93.28,0,1,Canceled,2022-07-13,2019-08-10,1
+226,City Hotel,0,2022-08-01,2020-07-06,27,2,0,0,BB,Portugal,Offline TA/TO,TA/TO,Transient-Party,Single,3,Refundable,9,10,40,Lisbon,Lisbon,172.52,2,2,Canceled,2020-10-06,2022-07-05,1
+227,Resort Hotel,1,2021-06-02,2022-03-26,145,4,0,1,BB,Portugal,Offline TA/TO,Corporate,Transient,Single,2,No Deposit,1,7,37,Berlin,Berlin,116.68,1,3,Canceled,2022-08-12,2021-01-08,1
+228,City Hotel,0,2022-04-26,2022-06-13,256,4,0,0,FB,Germany,Online TA,TA/TO,Group,Double,3,Refundable,3,5,24,Lisbon,Berlin,164.1,1,0,No-Show,2021-11-20,2021-08-13,0
+229,City Hotel,1,2021-01-29,2020-12-04,186,2,2,1,HB,France,Corporate,TA/TO,Transient,Triple,2,No Deposit,9,2,0,London,Lisbon,101.63,2,1,Check-Out,2020-04-11,2020-07-27,0
+230,Resort Hotel,0,2022-12-05,2020-01-17,163,3,1,0,FB,France,Online TA,Direct,Group,Single,2,Non Refund,6,7,15,Paris,Lisbon,69.39,1,2,No-Show,2022-07-13,2022-06-25,0
+231,City Hotel,1,2021-12-17,2021-09-12,290,1,1,0,HB,Germany,Online TA,Direct,Group,Triple,1,Non Refund,5,4,2,Paris,London,77.43,0,3,Canceled,2022-08-09,2021-03-02,1
+232,Resort Hotel,1,2020-01-09,2022-05-28,191,2,1,1,BB,France,Corporate,Direct,Group,Single,0,Refundable,3,4,14,Paris,Madrid,66.73,0,2,Check-Out,2020-05-04,2019-07-02,0
+233,Resort Hotel,0,2020-07-10,2020-08-05,278,3,1,0,HB,United Kingdom,Direct,Direct,Transient-Party,Double,3,Non Refund,7,2,35,Paris,Lisbon,192.88,1,2,Check-Out,2020-02-15,2019-10-06,0
+234,City Hotel,0,2021-11-17,2021-09-13,71,1,1,0,FB,United Kingdom,Corporate,Corporate,Contract,Triple,2,No Deposit,5,7,38,Paris,London,112.33,2,3,No-Show,2021-03-31,2021-09-07,0
+235,Resort Hotel,1,2020-11-04,2022-12-20,323,2,1,1,FB,Portugal,Offline TA/TO,Direct,Transient-Party,Triple,1,Non Refund,1,2,36,Berlin,Lisbon,189.97,2,4,Canceled,2022-10-16,2019-12-17,1
+236,City Hotel,0,2022-04-24,2020-04-25,123,2,1,1,FB,Germany,Direct,Corporate,Contract,Double,3,No Deposit,7,2,29,Madrid,London,52.35,2,2,Canceled,2022-07-16,2021-12-22,1
+237,Resort Hotel,1,2021-01-14,2021-03-02,218,1,2,0,FB,Portugal,Corporate,Corporate,Contract,Triple,0,No Deposit,1,9,15,London,Madrid,64.59,0,2,Check-Out,2021-06-13,2020-06-10,0
+238,Resort Hotel,1,2022-07-17,2020-11-15,360,3,2,0,HB,Spain,Online TA,TA/TO,Group,Double,0,Refundable,8,7,16,Berlin,Lisbon,191.97,0,1,Check-Out,2022-05-11,2021-07-22,0
+239,Resort Hotel,0,2020-12-15,2020-08-03,83,4,1,0,HB,Germany,Offline TA/TO,Direct,Contract,Triple,2,No Deposit,8,4,11,London,Berlin,185.3,0,2,No-Show,2021-08-05,2020-09-23,0
+240,City Hotel,1,2022-02-10,2021-10-05,340,3,2,0,HB,Spain,Direct,Corporate,Group,Double,0,No Deposit,4,1,26,London,Lisbon,174.9,2,2,No-Show,2020-11-08,2021-03-07,0
+241,Resort Hotel,0,2022-02-19,2022-01-05,87,1,0,1,HB,United Kingdom,Corporate,TA/TO,Group,Single,3,No Deposit,9,3,36,Madrid,London,58.96,1,0,Canceled,2021-12-08,2021-11-24,1
+242,Resort Hotel,0,2021-09-27,2021-07-22,148,1,2,0,HB,Spain,Direct,TA/TO,Group,Single,0,Non Refund,5,4,45,Madrid,London,95.52,1,4,Canceled,2021-01-23,2021-05-02,1
+243,City Hotel,1,2020-02-07,2021-02-11,225,2,0,0,FB,Spain,Offline TA/TO,Direct,Contract,Double,0,No Deposit,4,2,6,Madrid,Berlin,189.53,0,2,Canceled,2020-04-18,2019-06-27,1
+244,City Hotel,0,2020-09-26,2020-08-07,344,3,2,1,FB,Portugal,Direct,Corporate,Contract,Single,3,Refundable,6,6,47,Berlin,Lisbon,64.22,2,2,No-Show,2021-06-23,2019-10-18,0
+245,Resort Hotel,1,2022-09-26,2021-12-01,98,4,0,1,HB,Spain,Corporate,TA/TO,Transient-Party,Double,3,Non Refund,1,6,46,Paris,London,191.07,2,2,Canceled,2021-05-20,2022-06-20,1
+246,City Hotel,1,2020-04-03,2020-10-08,244,1,0,0,HB,Portugal,Online TA,Corporate,Contract,Triple,3,Non Refund,6,1,40,London,Paris,162.02,0,0,No-Show,2020-11-13,2019-08-03,0
+247,City Hotel,1,2022-01-11,2022-05-09,23,4,0,0,HB,France,Offline TA/TO,Direct,Transient,Double,0,Refundable,10,6,32,Berlin,Madrid,155.36,0,2,Check-Out,2021-01-09,2021-12-19,0
+248,City Hotel,0,2022-06-23,2020-10-14,291,4,2,0,BB,Portugal,Online TA,TA/TO,Group,Single,0,No Deposit,6,9,21,Berlin,Madrid,86.32,0,0,Canceled,2021-01-02,2021-09-05,1
+249,City Hotel,1,2021-03-03,2020-06-27,58,2,1,1,FB,Portugal,Offline TA/TO,Direct,Group,Single,2,Non Refund,10,7,14,London,Madrid,188.91,1,4,No-Show,2020-01-02,2021-01-04,0
+250,City Hotel,1,2022-09-30,2021-01-29,142,3,0,1,FB,Spain,Online TA,Corporate,Transient-Party,Single,3,Non Refund,5,9,21,Paris,Berlin,167.19,1,0,Check-Out,2022-08-05,2022-05-11,0
+251,City Hotel,0,2021-04-25,2020-07-01,148,3,2,0,FB,Portugal,Direct,Direct,Contract,Triple,0,No Deposit,10,5,32,Berlin,London,61.39,1,0,No-Show,2021-11-14,2020-11-28,0
+252,City Hotel,1,2022-11-29,2021-10-22,260,2,0,0,BB,Spain,Direct,TA/TO,Transient-Party,Triple,1,No Deposit,7,2,10,Paris,Lisbon,123.19,0,0,Check-Out,2022-12-17,2022-03-14,0
+253,City Hotel,1,2021-12-06,2022-01-22,256,2,0,0,FB,Portugal,Direct,TA/TO,Transient,Single,3,Refundable,8,2,37,London,Lisbon,191.93,2,1,Check-Out,2022-06-04,2021-03-25,0
+254,Resort Hotel,0,2020-08-25,2020-09-06,113,1,2,0,BB,Spain,Direct,TA/TO,Group,Single,0,Non Refund,6,9,23,Madrid,Madrid,155.5,1,2,Check-Out,2022-10-05,2020-05-04,0
+255,Resort Hotel,1,2022-08-28,2022-09-10,151,2,0,0,HB,United Kingdom,Offline TA/TO,Corporate,Contract,Triple,1,Non Refund,1,7,1,Berlin,Paris,164.92,1,2,Canceled,2020-08-28,2022-03-30,1
+256,City Hotel,1,2021-09-21,2021-01-08,104,3,2,0,BB,Germany,Corporate,Direct,Transient,Double,1,No Deposit,1,9,40,Lisbon,Berlin,82.03,2,4,Canceled,2020-10-09,2021-06-09,1
+257,Resort Hotel,0,2022-05-30,2021-01-08,307,4,1,1,FB,Germany,Direct,TA/TO,Transient,Single,0,Refundable,1,8,17,Madrid,Madrid,97.86,0,0,Check-Out,2021-01-20,2021-07-27,0
+258,City Hotel,0,2022-02-24,2022-05-18,104,4,1,0,HB,United Kingdom,Offline TA/TO,Corporate,Transient,Double,2,Refundable,7,9,31,Lisbon,Paris,62.78,0,2,Canceled,2020-09-15,2021-11-12,1
+259,City Hotel,1,2020-11-17,2020-12-24,323,1,1,1,BB,Germany,Direct,Corporate,Group,Single,1,No Deposit,10,10,12,Madrid,Paris,99.52,0,0,No-Show,2022-07-13,2019-12-30,0
+260,City Hotel,0,2021-03-09,2021-09-05,231,4,1,1,BB,Germany,Direct,Corporate,Transient,Double,2,Non Refund,6,9,23,Lisbon,London,179.67,0,3,No-Show,2022-07-16,2020-07-21,0
+261,Resort Hotel,0,2022-02-16,2021-04-27,357,3,2,1,HB,France,Direct,TA/TO,Group,Triple,3,Refundable,8,10,15,Berlin,Berlin,80.32,1,1,Canceled,2022-04-03,2021-02-24,1
+262,City Hotel,1,2020-09-20,2020-02-12,46,2,2,1,BB,United Kingdom,Corporate,Corporate,Group,Triple,1,Refundable,2,1,42,Berlin,London,189.85,1,2,Check-Out,2020-09-02,2020-08-05,0
+263,City Hotel,1,2020-01-21,2020-06-07,57,4,1,0,BB,Portugal,Corporate,Corporate,Contract,Triple,2,Non Refund,9,6,25,Lisbon,London,87.42,2,0,Canceled,2021-10-21,2019-11-25,1
+264,Resort Hotel,1,2020-08-22,2021-02-15,76,1,2,1,BB,Portugal,Direct,Direct,Contract,Double,3,Refundable,6,6,13,Berlin,Berlin,124.78,1,2,Check-Out,2020-04-24,2020-06-07,0
+265,Resort Hotel,0,2022-02-28,2022-09-19,88,1,1,1,BB,Spain,Offline TA/TO,TA/TO,Contract,Single,3,No Deposit,5,6,36,Lisbon,Lisbon,194.01,0,1,Check-Out,2021-10-02,2021-12-02,0
+266,Resort Hotel,1,2021-03-13,2022-08-21,201,3,0,1,HB,United Kingdom,Online TA,TA/TO,Transient,Double,3,No Deposit,1,10,9,Lisbon,Paris,61.46,2,4,Canceled,2020-07-10,2020-08-24,1
+267,City Hotel,1,2021-06-11,2021-09-12,350,1,2,1,FB,Spain,Corporate,Corporate,Contract,Double,0,Non Refund,8,4,50,London,London,174.35,2,2,No-Show,2021-07-14,2020-06-26,0
+268,City Hotel,1,2021-07-09,2021-12-31,181,1,0,1,BB,Germany,Corporate,Direct,Transient-Party,Triple,0,No Deposit,7,6,41,Madrid,London,83.37,2,2,Canceled,2021-04-21,2021-01-09,1
+269,Resort Hotel,0,2021-02-05,2020-10-02,308,4,2,1,FB,France,Direct,Corporate,Transient,Triple,0,Refundable,9,2,50,Paris,London,163.09,2,4,Check-Out,2022-12-12,2020-04-03,0
+270,City Hotel,1,2021-12-08,2020-06-09,37,3,1,0,HB,United Kingdom,Direct,Corporate,Transient-Party,Double,3,No Deposit,10,3,41,Berlin,Paris,185.97,2,2,Check-Out,2021-04-12,2021-11-01,0
+271,Resort Hotel,1,2022-03-26,2021-04-06,26,2,1,1,BB,Germany,Direct,TA/TO,Group,Double,0,Non Refund,3,10,32,Lisbon,Paris,138.96,0,3,Check-Out,2021-09-19,2022-02-28,0
+272,City Hotel,0,2020-06-05,2020-09-27,365,4,2,0,FB,United Kingdom,Online TA,Corporate,Transient,Single,0,No Deposit,5,10,19,Paris,London,175.68,2,3,No-Show,2020-02-26,2019-06-06,0
+273,City Hotel,0,2020-09-11,2021-07-14,238,1,2,0,HB,Portugal,Offline TA/TO,TA/TO,Transient,Triple,0,Non Refund,1,6,25,Paris,Madrid,179.7,2,4,No-Show,2021-01-26,2020-01-17,0
+274,City Hotel,0,2021-09-27,2022-10-18,278,1,1,0,BB,United Kingdom,Online TA,Corporate,Contract,Single,3,Non Refund,9,8,26,Berlin,Lisbon,131.58,2,0,Check-Out,2021-07-23,2020-12-23,0
+275,Resort Hotel,0,2021-08-13,2022-11-01,63,3,2,1,BB,Portugal,Offline TA/TO,TA/TO,Transient-Party,Double,3,No Deposit,10,7,41,Paris,London,153.39,2,1,Canceled,2022-04-19,2021-06-11,1
+276,Resort Hotel,1,2020-06-01,2020-08-07,61,4,2,1,FB,United Kingdom,Offline TA/TO,TA/TO,Contract,Triple,0,Refundable,9,1,35,Berlin,Madrid,154.56,1,3,Canceled,2022-03-24,2020-04-01,1
+277,Resort Hotel,0,2020-04-27,2022-11-21,51,1,2,0,BB,United Kingdom,Corporate,Corporate,Transient,Single,3,Refundable,9,6,33,Lisbon,London,173.5,0,3,Canceled,2020-04-18,2020-03-07,1
+278,Resort Hotel,1,2020-02-03,2022-11-13,81,4,1,1,BB,Germany,Offline TA/TO,Direct,Transient,Double,2,No Deposit,1,9,38,Lisbon,Berlin,132.11,1,0,Check-Out,2022-06-14,2019-11-14,0
+279,Resort Hotel,1,2022-03-26,2020-12-16,305,3,0,0,BB,Germany,Direct,TA/TO,Group,Triple,3,No Deposit,5,2,15,London,Berlin,142.55,1,2,Canceled,2022-11-27,2021-05-25,1
+280,Resort Hotel,1,2020-05-24,2021-03-16,138,4,2,0,FB,France,Direct,Corporate,Transient,Triple,3,Non Refund,8,2,22,Berlin,London,54.07,2,2,Check-Out,2022-10-12,2020-01-07,0
+281,City Hotel,1,2022-09-11,2022-12-17,348,2,0,0,BB,Spain,Direct,TA/TO,Transient,Triple,2,No Deposit,10,5,13,Paris,Madrid,122.71,1,4,Canceled,2020-04-30,2021-09-28,1
+282,Resort Hotel,1,2020-09-09,2021-02-14,42,4,1,1,BB,Spain,Direct,TA/TO,Transient,Single,1,Non Refund,6,4,5,Lisbon,Madrid,117.04,0,3,Check-Out,2022-01-02,2020-07-29,0
+283,City Hotel,0,2021-01-22,2022-05-13,50,2,1,1,FB,Portugal,Direct,Corporate,Group,Triple,1,No Deposit,8,1,35,Paris,Lisbon,133.24,1,1,Canceled,2020-04-13,2020-12-03,1
+284,Resort Hotel,1,2021-08-09,2021-12-29,135,3,2,0,FB,Spain,Direct,TA/TO,Transient-Party,Double,0,No Deposit,3,2,37,Madrid,Madrid,64.62,2,0,Check-Out,2022-04-23,2021-03-27,0
+285,Resort Hotel,1,2021-02-21,2020-05-25,320,4,1,0,HB,France,Direct,Direct,Group,Single,1,Non Refund,4,8,15,Lisbon,Paris,143.1,1,3,Canceled,2021-05-24,2020-04-07,1
+286,Resort Hotel,1,2020-09-18,2021-12-26,58,2,1,1,BB,Germany,Direct,TA/TO,Transient,Double,3,No Deposit,7,4,30,Paris,Berlin,74.62,2,4,Canceled,2022-03-05,2020-07-22,1
+287,City Hotel,0,2022-08-21,2021-11-01,338,1,1,1,BB,Spain,Online TA,Direct,Transient-Party,Double,0,Refundable,4,1,8,London,Madrid,98.92,1,1,No-Show,2020-11-23,2021-09-17,0
+288,City Hotel,0,2022-03-07,2022-02-28,0,1,0,0,HB,United Kingdom,Direct,TA/TO,Contract,Triple,2,No Deposit,7,10,6,Lisbon,Paris,196.65,0,2,No-Show,2022-05-08,2022-03-07,0
+289,City Hotel,0,2022-12-19,2021-09-02,294,3,1,0,FB,Spain,Direct,TA/TO,Contract,Triple,0,Non Refund,4,10,14,Madrid,Paris,130.21,2,4,Check-Out,2020-05-27,2022-02-28,0
+290,Resort Hotel,1,2022-09-05,2021-12-14,264,3,0,0,BB,Portugal,Online TA,Corporate,Contract,Triple,2,Non Refund,6,8,19,Paris,Madrid,110.49,0,0,Check-Out,2020-06-07,2021-12-15,0
+291,Resort Hotel,1,2022-11-04,2022-05-09,5,3,1,1,HB,Portugal,Online TA,Corporate,Group,Triple,1,Refundable,4,10,18,Paris,Paris,111.1,2,2,Canceled,2020-08-31,2022-10-30,1
+292,Resort Hotel,0,2022-07-03,2021-04-23,253,4,2,0,BB,Germany,Offline TA/TO,TA/TO,Group,Single,0,No Deposit,2,9,15,Paris,Madrid,199.29,0,2,No-Show,2022-01-17,2021-10-23,0
+293,Resort Hotel,0,2020-11-06,2021-10-02,206,3,2,1,FB,United Kingdom,Offline TA/TO,TA/TO,Group,Triple,1,Refundable,2,9,0,London,Paris,181.65,1,1,Canceled,2021-07-13,2020-04-14,1
+294,Resort Hotel,0,2022-11-12,2022-05-06,323,2,2,0,BB,Spain,Offline TA/TO,TA/TO,Transient-Party,Double,3,No Deposit,8,2,6,Berlin,Lisbon,126.28,1,2,No-Show,2020-10-23,2021-12-24,0
+295,Resort Hotel,1,2021-10-20,2022-09-13,255,2,2,0,FB,Spain,Offline TA/TO,TA/TO,Contract,Double,2,No Deposit,8,10,30,Berlin,Berlin,63.76,0,0,Check-Out,2020-06-14,2021-02-07,0
+296,Resort Hotel,1,2020-12-11,2021-07-13,319,3,1,1,BB,Spain,Corporate,Direct,Transient-Party,Single,0,Non Refund,8,4,37,Paris,Berlin,178.71,0,4,Check-Out,2021-01-26,2020-01-27,0
+297,City Hotel,0,2021-02-20,2020-10-03,330,1,1,0,FB,Portugal,Corporate,TA/TO,Transient-Party,Triple,0,Non Refund,9,5,37,Paris,Paris,198.16,1,0,No-Show,2020-10-14,2020-03-27,0
+298,Resort Hotel,0,2022-06-27,2022-09-23,70,3,0,0,BB,Germany,Online TA,Direct,Group,Single,2,Non Refund,1,4,37,London,Lisbon,137.8,1,4,Check-Out,2021-06-19,2022-04-18,0
+299,City Hotel,0,2020-02-29,2022-08-08,27,2,0,0,FB,Spain,Corporate,Direct,Transient-Party,Double,1,No Deposit,4,1,24,London,Lisbon,80.71,1,1,No-Show,2022-05-07,2020-02-02,0
+300,City Hotel,1,2020-09-15,2022-02-25,336,1,2,1,HB,France,Offline TA/TO,TA/TO,Contract,Double,3,No Deposit,7,1,49,Paris,London,181.07,1,1,Check-Out,2020-01-04,2019-10-15,0
+301,City Hotel,0,2020-11-18,2020-06-04,331,2,0,1,BB,United Kingdom,Online TA,Corporate,Contract,Double,3,Refundable,7,10,5,Madrid,Paris,141.68,1,0,Canceled,2020-12-21,2019-12-23,1
+302,City Hotel,1,2021-03-09,2021-06-03,251,3,1,0,HB,Spain,Offline TA/TO,Direct,Transient,Single,2,Non Refund,5,8,41,Lisbon,Berlin,178.54,2,0,No-Show,2021-12-19,2020-07-01,0
+303,City Hotel,0,2020-04-23,2021-11-11,51,1,0,0,HB,Germany,Direct,Corporate,Contract,Triple,3,Refundable,7,5,15,Madrid,London,54.9,1,1,Canceled,2020-02-05,2020-03-03,1
+304,Resort Hotel,0,2022-10-29,2022-08-30,171,2,0,0,BB,Germany,Corporate,TA/TO,Transient,Double,1,Refundable,3,9,28,Berlin,Lisbon,157.71,2,2,No-Show,2022-08-11,2022-05-11,0
+305,Resort Hotel,0,2021-01-20,2020-01-01,351,1,2,0,HB,United Kingdom,Direct,Corporate,Transient-Party,Single,2,No Deposit,9,6,20,Paris,Berlin,71.69,2,1,Canceled,2020-04-19,2020-02-04,1
+306,Resort Hotel,1,2022-08-08,2022-06-21,0,1,1,0,HB,United Kingdom,Offline TA/TO,TA/TO,Transient-Party,Double,1,Non Refund,3,9,24,Paris,Berlin,55.26,1,4,Check-Out,2022-07-14,2022-08-08,0
+307,City Hotel,0,2020-01-24,2020-05-21,141,4,0,0,BB,Portugal,Online TA,Corporate,Contract,Single,3,No Deposit,1,3,1,London,Lisbon,98.87,2,0,No-Show,2020-08-10,2019-09-05,0
+308,Resort Hotel,0,2022-01-29,2021-07-25,310,3,1,0,FB,Portugal,Offline TA/TO,Direct,Transient,Double,2,Non Refund,2,10,49,Paris,Berlin,135.91,0,4,No-Show,2020-09-07,2021-03-25,0
+309,City Hotel,1,2020-10-19,2020-10-23,262,2,0,0,HB,France,Offline TA/TO,Corporate,Transient,Double,1,No Deposit,3,6,30,Paris,Paris,125.06,2,0,No-Show,2020-07-16,2020-01-31,0
+310,Resort Hotel,1,2022-07-22,2021-04-10,348,1,2,0,FB,Germany,Direct,Corporate,Transient,Triple,3,No Deposit,5,7,14,Lisbon,London,118.9,1,0,Check-Out,2022-03-03,2021-08-08,0
+311,Resort Hotel,0,2020-03-01,2021-12-24,234,2,0,1,HB,Germany,Online TA,Corporate,Transient,Single,3,No Deposit,5,5,35,Madrid,Paris,93.05,1,4,No-Show,2022-07-20,2019-07-11,0
+312,City Hotel,0,2021-05-15,2021-08-05,132,2,1,1,FB,Germany,Online TA,Corporate,Transient,Double,0,No Deposit,2,8,40,Berlin,London,150.15,1,2,Canceled,2022-02-05,2021-01-03,1
+313,Resort Hotel,1,2020-04-29,2021-12-15,338,1,1,1,HB,Portugal,Online TA,Direct,Group,Triple,3,Refundable,6,1,30,Lisbon,Madrid,188.11,1,3,No-Show,2020-03-24,2019-05-27,0
+314,City Hotel,0,2022-01-13,2021-03-07,178,2,1,0,BB,United Kingdom,Corporate,TA/TO,Contract,Triple,2,No Deposit,5,2,11,Lisbon,Lisbon,90.02,1,3,Check-Out,2021-12-26,2021-07-19,0
+315,Resort Hotel,0,2020-12-25,2021-01-09,112,2,1,1,HB,Spain,Online TA,Direct,Contract,Single,3,No Deposit,4,6,29,London,London,94.18,0,4,Check-Out,2021-08-22,2020-09-04,0
+316,City Hotel,0,2021-04-11,2021-03-31,290,3,2,0,HB,Germany,Offline TA/TO,Direct,Transient-Party,Double,1,Non Refund,9,1,41,London,Paris,149.06,2,4,No-Show,2020-04-18,2020-06-25,0
+317,Resort Hotel,0,2021-09-10,2020-10-09,213,1,0,1,FB,Portugal,Offline TA/TO,Direct,Group,Single,2,Non Refund,8,5,16,Madrid,London,83.22,1,4,Canceled,2021-08-24,2021-02-09,1
+318,City Hotel,1,2021-05-10,2022-10-07,24,2,1,1,HB,France,Offline TA/TO,Corporate,Transient-Party,Double,0,Refundable,6,3,22,London,Lisbon,176.94,2,4,Check-Out,2021-02-04,2021-04-16,0
+319,Resort Hotel,0,2020-04-14,2022-07-21,55,1,2,1,HB,Portugal,Direct,Direct,Transient-Party,Triple,2,Refundable,6,8,30,Berlin,Berlin,163.24,1,0,Check-Out,2021-07-09,2020-02-19,0
+320,City Hotel,1,2021-01-30,2022-06-10,218,3,2,1,FB,Spain,Online TA,Direct,Group,Triple,2,Refundable,7,6,39,Berlin,Madrid,126.45,2,1,Canceled,2022-07-22,2020-06-26,1
+321,City Hotel,1,2020-07-19,2020-05-21,141,2,1,1,BB,Germany,Online TA,TA/TO,Group,Triple,2,Refundable,1,7,33,Lisbon,Paris,95.75,0,2,Canceled,2020-04-28,2020-02-29,1
+322,Resort Hotel,0,2020-03-01,2022-10-07,365,1,2,1,HB,France,Corporate,TA/TO,Group,Double,0,Refundable,4,3,13,Berlin,Berlin,75.49,1,0,Check-Out,2021-03-16,2019-03-02,0
+323,Resort Hotel,1,2020-08-27,2020-01-06,331,4,0,1,BB,Germany,Offline TA/TO,Direct,Transient,Triple,0,No Deposit,7,9,21,Berlin,Madrid,64.94,0,4,Canceled,2022-05-18,2019-10-01,1
+324,City Hotel,0,2022-11-22,2020-06-07,124,2,1,1,HB,Spain,Offline TA/TO,Direct,Transient,Double,1,Non Refund,10,7,25,Berlin,Madrid,149.26,0,3,Canceled,2022-05-02,2022-07-21,1
+325,City Hotel,0,2021-02-03,2022-12-09,218,2,2,1,BB,France,Direct,Direct,Group,Triple,0,Refundable,6,8,2,Berlin,Berlin,194.69,1,4,Check-Out,2022-04-22,2020-06-30,0
+326,City Hotel,0,2022-01-05,2022-09-14,93,1,0,0,BB,Portugal,Online TA,Direct,Contract,Single,3,Refundable,9,9,31,Paris,London,122.98,2,2,Check-Out,2022-10-09,2021-10-04,0
+327,Resort Hotel,0,2021-04-25,2020-07-25,257,3,0,0,FB,Portugal,Direct,Direct,Transient,Triple,0,No Deposit,1,6,32,Madrid,Madrid,58.39,1,2,Check-Out,2021-04-14,2020-08-11,0
+328,Resort Hotel,1,2020-11-29,2020-03-04,19,4,0,1,BB,Portugal,Offline TA/TO,Direct,Transient-Party,Single,1,No Deposit,2,2,33,Madrid,Lisbon,97.63,2,4,Canceled,2020-02-04,2020-11-10,1
+329,Resort Hotel,0,2022-08-01,2022-06-12,55,4,0,0,HB,Germany,Online TA,TA/TO,Contract,Triple,3,Non Refund,5,8,42,Madrid,Paris,146.93,1,3,Check-Out,2020-02-27,2022-06-07,0
+330,City Hotel,1,2020-11-03,2022-04-06,89,4,2,0,BB,United Kingdom,Direct,Corporate,Transient,Double,0,No Deposit,2,10,44,Lisbon,Madrid,147.64,1,2,Canceled,2022-06-28,2020-08-06,1
+331,Resort Hotel,0,2020-05-03,2021-03-01,207,4,0,1,FB,Portugal,Offline TA/TO,TA/TO,Group,Double,0,Refundable,9,3,30,Paris,Madrid,148.66,0,0,Check-Out,2020-11-14,2019-10-09,0
+332,Resort Hotel,1,2022-07-16,2020-10-26,127,2,1,1,FB,Germany,Online TA,Corporate,Transient,Double,1,Refundable,7,5,31,Lisbon,London,148.09,1,0,Check-Out,2021-06-22,2022-03-11,0
+333,City Hotel,1,2022-05-01,2020-07-16,18,3,2,0,BB,France,Online TA,Direct,Contract,Single,1,No Deposit,2,9,1,Paris,London,120.5,0,2,No-Show,2021-01-16,2022-04-13,0
+334,Resort Hotel,0,2022-05-05,2022-07-11,249,2,0,0,FB,Portugal,Direct,Direct,Contract,Triple,0,Refundable,7,8,34,London,Paris,125.16,0,4,Canceled,2020-11-24,2021-08-29,1
+335,City Hotel,0,2022-04-06,2021-04-28,258,1,0,1,BB,United Kingdom,Offline TA/TO,Corporate,Transient-Party,Single,1,Non Refund,7,4,9,Lisbon,London,76.31,1,3,No-Show,2021-12-21,2021-07-22,0
+336,City Hotel,1,2022-09-08,2021-01-09,53,2,1,0,BB,United Kingdom,Offline TA/TO,TA/TO,Transient,Triple,2,Non Refund,9,8,11,Paris,London,166.03,2,3,Canceled,2021-06-16,2022-07-17,1
+337,Resort Hotel,0,2021-07-03,2022-10-06,39,2,2,0,FB,Germany,Online TA,Corporate,Transient,Double,1,No Deposit,1,2,7,Lisbon,Madrid,146.08,2,3,Canceled,2021-06-27,2021-05-25,1
+338,Resort Hotel,1,2021-05-23,2021-12-23,347,4,0,0,BB,Spain,Offline TA/TO,TA/TO,Contract,Triple,3,Non Refund,2,2,1,Lisbon,Berlin,104.13,1,2,Check-Out,2021-10-14,2020-06-10,0
+339,Resort Hotel,0,2022-12-13,2020-12-07,353,1,1,0,FB,Spain,Corporate,TA/TO,Group,Single,0,Refundable,2,3,19,Paris,Berlin,119.15,2,3,Check-Out,2022-04-29,2021-12-25,0
+340,City Hotel,1,2020-04-03,2022-03-06,141,4,0,0,HB,United Kingdom,Online TA,TA/TO,Group,Double,1,Non Refund,10,4,30,Berlin,London,99.72,1,2,Check-Out,2022-08-31,2019-11-14,0
+341,City Hotel,1,2022-01-14,2022-06-21,148,2,2,0,HB,Spain,Direct,Corporate,Contract,Single,3,Refundable,1,8,17,London,Madrid,80.13,1,1,No-Show,2020-01-20,2021-08-19,0
+342,City Hotel,0,2022-03-06,2021-12-11,306,2,0,1,HB,United Kingdom,Offline TA/TO,Corporate,Transient-Party,Single,1,No Deposit,7,10,38,London,Paris,54.12,1,4,Check-Out,2020-06-12,2021-05-04,0
+343,City Hotel,0,2022-04-04,2021-12-02,234,3,2,0,BB,Portugal,Online TA,Direct,Group,Single,1,Non Refund,8,2,45,Berlin,London,196.03,0,4,Check-Out,2020-04-13,2021-08-13,0
+344,Resort Hotel,1,2022-06-06,2021-06-01,239,1,1,0,BB,Germany,Direct,Direct,Transient,Single,0,Non Refund,1,10,10,Lisbon,Lisbon,102.19,0,4,Canceled,2021-08-07,2021-10-10,1
+345,City Hotel,1,2022-10-15,2021-08-28,224,2,1,1,BB,Spain,Corporate,Corporate,Transient,Triple,2,No Deposit,8,8,16,Paris,Berlin,80.65,0,0,No-Show,2020-02-24,2022-03-05,0
+346,Resort Hotel,1,2021-01-14,2021-08-24,339,4,2,0,BB,France,Direct,TA/TO,Transient,Double,1,Refundable,1,6,11,Berlin,Lisbon,152.85,0,3,Canceled,2021-04-23,2020-02-10,1
+347,Resort Hotel,0,2022-11-19,2020-12-01,186,1,1,1,FB,Spain,Direct,Direct,Group,Triple,2,Refundable,7,5,43,Madrid,Berlin,130.68,0,2,Canceled,2021-01-17,2022-05-17,1
+348,Resort Hotel,0,2020-01-28,2022-02-26,63,4,2,0,HB,France,Online TA,Corporate,Transient-Party,Triple,3,Refundable,8,2,37,Paris,Madrid,135.67,0,2,No-Show,2020-11-07,2019-11-26,0
+349,City Hotel,1,2020-07-14,2022-07-07,12,1,1,0,FB,France,Corporate,Direct,Group,Single,0,No Deposit,6,4,24,Paris,Madrid,141.23,2,4,No-Show,2020-02-09,2020-07-02,0
+350,City Hotel,1,2022-02-26,2021-09-11,52,2,1,1,BB,Spain,Direct,Corporate,Group,Single,2,Refundable,10,2,7,Berlin,Lisbon,174.45,0,4,Check-Out,2020-05-09,2022-01-05,0
+351,Resort Hotel,1,2021-11-07,2021-01-01,84,3,0,0,BB,Germany,Corporate,TA/TO,Transient-Party,Single,0,Non Refund,10,4,4,London,Lisbon,123.47,2,4,Check-Out,2022-05-20,2021-08-15,0
+352,City Hotel,0,2020-12-14,2020-01-02,135,4,2,1,FB,Spain,Direct,TA/TO,Transient,Triple,2,Refundable,9,7,27,Paris,London,168.12,0,2,Check-Out,2021-12-19,2020-08-01,0
+353,Resort Hotel,0,2020-12-28,2021-11-08,64,1,1,0,FB,United Kingdom,Corporate,Corporate,Transient-Party,Single,0,Non Refund,10,9,6,London,London,151.25,2,2,No-Show,2021-05-22,2020-10-25,0
+354,City Hotel,1,2021-02-11,2022-08-26,178,3,2,1,BB,United Kingdom,Direct,Corporate,Group,Triple,1,No Deposit,3,3,37,Paris,Madrid,81.24,1,3,Canceled,2021-04-04,2020-08-17,1
+355,Resort Hotel,1,2020-01-28,2020-07-22,201,4,1,0,HB,Spain,Online TA,TA/TO,Group,Double,3,No Deposit,1,3,48,Lisbon,Madrid,170.7,1,1,Check-Out,2021-10-20,2019-07-11,0
+356,City Hotel,0,2020-03-14,2022-08-12,21,1,1,0,FB,Germany,Online TA,Corporate,Transient,Single,0,Refundable,2,7,6,Berlin,Madrid,80.47,1,3,No-Show,2021-10-23,2020-02-22,0
+357,Resort Hotel,0,2021-07-07,2022-09-12,128,4,2,1,BB,France,Online TA,Direct,Contract,Double,0,No Deposit,6,7,45,Berlin,Berlin,103.26,1,1,No-Show,2022-10-22,2021-03-01,0
+358,City Hotel,1,2020-12-21,2020-06-06,19,3,0,0,FB,Portugal,Online TA,Corporate,Group,Single,0,No Deposit,2,8,35,Lisbon,London,196.64,2,2,Canceled,2022-10-07,2020-12-02,1
+359,Resort Hotel,1,2022-09-27,2022-08-04,293,3,2,0,FB,Germany,Corporate,Direct,Contract,Double,2,No Deposit,5,7,13,Paris,Paris,78.55,1,0,Check-Out,2021-08-10,2021-12-08,0
+360,Resort Hotel,0,2022-04-15,2022-05-10,105,1,2,0,FB,Germany,Direct,TA/TO,Transient-Party,Double,1,Refundable,3,6,17,Lisbon,Lisbon,128.24,2,0,Check-Out,2021-10-13,2021-12-31,0
+361,Resort Hotel,0,2020-12-03,2020-11-21,213,4,1,0,HB,Germany,Corporate,Direct,Group,Triple,0,No Deposit,10,8,37,Lisbon,Madrid,151.69,2,1,Canceled,2022-09-02,2020-05-04,1
+362,Resort Hotel,1,2020-07-16,2020-03-13,185,3,2,1,FB,Germany,Direct,Direct,Group,Single,1,Refundable,1,10,37,Paris,London,82.99,0,2,Canceled,2022-04-02,2020-01-13,1
+363,City Hotel,1,2022-06-06,2021-12-21,262,3,2,1,FB,United Kingdom,Direct,Direct,Transient,Double,0,Non Refund,7,1,36,Lisbon,Lisbon,143.97,0,3,Canceled,2021-04-12,2021-09-17,1
+364,City Hotel,0,2020-09-19,2021-04-28,358,2,0,0,BB,Spain,Offline TA/TO,Direct,Transient,Single,0,Refundable,7,7,15,London,Berlin,65.12,1,4,No-Show,2022-09-19,2019-09-27,0
+365,City Hotel,0,2022-07-17,2021-10-02,112,3,2,1,FB,United Kingdom,Online TA,TA/TO,Transient-Party,Single,3,No Deposit,5,7,34,Paris,Paris,81.94,1,4,No-Show,2020-12-08,2022-03-27,0
+366,Resort Hotel,1,2020-12-16,2022-01-06,176,1,0,0,FB,France,Online TA,Corporate,Transient,Single,2,Refundable,1,5,22,Madrid,Paris,120.72,0,3,Check-Out,2022-09-07,2020-06-23,0
+367,City Hotel,1,2022-04-22,2021-01-16,236,3,0,1,FB,Spain,Online TA,TA/TO,Contract,Single,0,Refundable,8,5,12,Madrid,London,115.14,0,4,Check-Out,2021-09-02,2021-08-29,0
+368,City Hotel,0,2020-10-03,2021-10-11,338,1,1,0,BB,United Kingdom,Online TA,TA/TO,Contract,Double,1,No Deposit,9,6,22,Lisbon,Lisbon,135.55,2,4,Check-Out,2021-08-26,2019-10-31,0
+369,Resort Hotel,1,2022-06-18,2022-12-11,306,2,2,0,BB,Germany,Offline TA/TO,Direct,Contract,Single,0,Refundable,7,7,39,Lisbon,Berlin,113.79,1,3,Canceled,2022-08-11,2021-08-16,1
+370,Resort Hotel,0,2020-04-03,2020-05-10,175,2,2,0,FB,Germany,Offline TA/TO,Corporate,Contract,Single,3,No Deposit,2,4,26,Lisbon,Berlin,52.58,1,4,Check-Out,2020-10-28,2019-10-11,0
+371,City Hotel,1,2022-11-05,2022-05-01,36,2,2,0,BB,France,Online TA,Corporate,Transient,Triple,3,No Deposit,7,9,6,London,London,198.77,1,3,No-Show,2021-09-14,2022-09-30,0
+372,Resort Hotel,1,2021-02-26,2022-03-22,77,2,0,1,FB,United Kingdom,Direct,TA/TO,Group,Double,3,No Deposit,6,8,17,Lisbon,Berlin,70.91,0,1,No-Show,2021-01-23,2020-12-11,0
+373,City Hotel,1,2022-04-01,2022-02-21,160,1,2,1,FB,France,Online TA,Direct,Transient,Triple,0,Non Refund,9,9,22,London,Madrid,176.26,0,1,Canceled,2020-03-10,2021-10-23,1
+374,Resort Hotel,0,2021-08-19,2022-01-03,162,3,1,1,FB,France,Online TA,Direct,Group,Triple,2,Refundable,5,8,5,Berlin,Berlin,151.51,2,0,Canceled,2020-08-04,2021-03-10,1
+375,City Hotel,1,2022-08-17,2022-03-10,30,4,0,0,HB,Germany,Direct,Corporate,Transient-Party,Double,0,No Deposit,6,8,44,London,Paris,165.69,1,2,No-Show,2020-07-04,2022-07-18,0
+376,City Hotel,1,2020-10-31,2022-09-20,364,3,0,0,FB,United Kingdom,Direct,Direct,Transient-Party,Double,3,Non Refund,8,5,31,London,Madrid,187.68,0,3,Check-Out,2021-08-08,2019-11-02,0
+377,City Hotel,0,2022-12-02,2022-03-21,358,4,0,0,HB,France,Offline TA/TO,Corporate,Group,Single,1,Refundable,9,1,1,Lisbon,Madrid,96.0,0,1,No-Show,2022-05-02,2021-12-09,0
+378,City Hotel,1,2022-04-12,2022-01-17,153,2,2,1,HB,Spain,Online TA,Corporate,Group,Triple,1,Non Refund,1,4,0,Berlin,Berlin,139.39,1,4,Canceled,2021-12-05,2021-11-10,1
+379,City Hotel,1,2020-03-14,2021-08-17,9,1,0,1,HB,Portugal,Direct,TA/TO,Transient,Single,1,Non Refund,2,1,22,Berlin,London,146.36,2,3,Check-Out,2021-07-19,2020-03-05,0
+380,Resort Hotel,0,2022-03-28,2020-06-09,24,3,2,1,FB,France,Offline TA/TO,TA/TO,Transient-Party,Triple,1,Non Refund,5,7,9,London,Berlin,121.07,2,3,Check-Out,2020-12-16,2022-03-04,0
+381,Resort Hotel,0,2022-04-25,2021-12-25,296,3,1,0,BB,Germany,Corporate,TA/TO,Contract,Single,1,No Deposit,3,9,40,London,Lisbon,183.31,2,4,No-Show,2022-09-03,2021-07-03,0
+382,City Hotel,1,2022-10-09,2022-04-23,125,1,1,0,FB,France,Direct,TA/TO,Contract,Triple,0,Non Refund,8,5,27,Lisbon,Paris,169.1,1,2,Canceled,2022-02-09,2022-06-06,1
+383,Resort Hotel,0,2022-01-02,2020-05-29,213,4,0,0,HB,Spain,Online TA,Direct,Transient,Triple,2,No Deposit,1,8,20,Lisbon,Lisbon,132.56,2,0,No-Show,2021-12-25,2021-06-03,0
+384,City Hotel,0,2020-07-03,2020-09-24,32,4,2,1,FB,Portugal,Offline TA/TO,TA/TO,Transient,Triple,0,No Deposit,5,9,13,Paris,Madrid,137.57,0,0,No-Show,2020-11-06,2020-06-01,0
+385,City Hotel,0,2022-06-18,2022-12-23,317,2,1,1,HB,Germany,Offline TA/TO,TA/TO,Transient,Double,2,No Deposit,10,2,48,Madrid,Paris,168.47,2,1,No-Show,2022-04-22,2021-08-05,0
+386,City Hotel,1,2021-07-12,2020-06-28,30,1,1,0,HB,Germany,Online TA,Direct,Transient-Party,Triple,3,No Deposit,3,5,14,Lisbon,Berlin,117.68,2,3,Canceled,2020-10-11,2021-06-12,1
+387,City Hotel,1,2021-01-18,2020-11-09,171,3,1,0,BB,Portugal,Direct,TA/TO,Contract,Single,1,Refundable,4,2,22,Lisbon,Berlin,189.12,2,3,No-Show,2021-04-22,2020-07-31,0
+388,City Hotel,1,2021-09-14,2021-03-18,253,1,2,1,FB,United Kingdom,Offline TA/TO,TA/TO,Group,Double,2,Refundable,7,1,22,Berlin,Paris,107.31,0,0,Canceled,2021-06-01,2021-01-04,1
+389,Resort Hotel,1,2021-09-11,2020-05-27,156,3,2,1,HB,United Kingdom,Corporate,Direct,Contract,Triple,1,No Deposit,5,5,48,London,Paris,191.28,1,0,Canceled,2022-04-11,2021-04-08,1
+390,City Hotel,0,2021-10-01,2022-06-05,50,3,0,0,HB,Spain,Corporate,Corporate,Transient,Single,2,Refundable,2,3,45,London,Lisbon,105.57,0,2,Canceled,2020-01-26,2021-08-12,1
+391,Resort Hotel,0,2022-08-31,2021-08-24,135,1,2,1,BB,United Kingdom,Corporate,Direct,Group,Triple,0,Non Refund,7,1,41,Lisbon,Berlin,192.58,0,1,No-Show,2021-12-26,2022-04-18,0
+392,City Hotel,0,2020-06-02,2022-09-27,85,4,1,0,HB,France,Direct,Direct,Contract,Single,3,Refundable,10,3,13,Paris,Paris,102.6,0,2,Check-Out,2022-05-30,2020-03-09,0
+393,City Hotel,1,2022-12-02,2021-04-11,3,2,2,1,HB,Spain,Corporate,Direct,Transient,Triple,2,No Deposit,1,2,41,Lisbon,Paris,194.55,2,2,Canceled,2022-01-17,2022-11-29,1
+394,Resort Hotel,0,2021-03-06,2020-02-18,123,2,0,1,BB,Germany,Corporate,Direct,Contract,Single,0,No Deposit,6,1,15,Berlin,Paris,119.24,0,3,No-Show,2021-05-21,2020-11-03,0
+395,Resort Hotel,1,2021-03-18,2021-03-24,223,3,0,0,FB,Germany,Corporate,TA/TO,Transient-Party,Double,1,Refundable,2,5,16,Paris,London,150.6,1,4,Check-Out,2021-06-03,2020-08-07,0
+396,Resort Hotel,0,2020-10-09,2022-05-06,330,4,0,1,HB,United Kingdom,Direct,Corporate,Transient-Party,Double,2,No Deposit,9,7,13,Paris,Madrid,102.31,1,4,Canceled,2021-12-18,2019-11-14,1
+397,City Hotel,0,2021-01-25,2021-05-30,248,2,1,1,FB,Spain,Direct,TA/TO,Contract,Single,3,Refundable,7,9,19,Lisbon,Berlin,144.98,2,2,No-Show,2021-10-24,2020-05-22,0
+398,Resort Hotel,0,2022-04-20,2021-08-14,231,2,0,1,BB,Spain,Offline TA/TO,Corporate,Transient-Party,Single,1,No Deposit,8,6,34,Madrid,Lisbon,178.23,0,3,Canceled,2022-06-30,2021-09-01,1
+399,City Hotel,0,2020-04-09,2021-11-16,247,2,2,1,BB,France,Direct,Corporate,Transient,Double,3,No Deposit,5,3,28,London,Madrid,171.89,1,1,Check-Out,2020-08-07,2019-08-06,0
+400,Resort Hotel,1,2021-02-09,2022-01-12,178,2,0,1,BB,France,Corporate,TA/TO,Contract,Single,2,Refundable,4,7,28,London,Madrid,99.74,1,1,Canceled,2022-11-23,2020-08-15,1
+401,Resort Hotel,1,2022-03-25,2021-04-16,331,1,0,0,FB,United Kingdom,Corporate,Direct,Transient,Single,1,Refundable,7,7,28,Berlin,Paris,119.06,2,4,Canceled,2020-09-17,2021-04-28,1
+402,Resort Hotel,1,2020-12-28,2020-04-29,7,1,0,0,HB,Portugal,Direct,Direct,Group,Single,1,Refundable,3,9,3,Berlin,Lisbon,175.0,0,4,No-Show,2020-05-30,2020-12-21,0
+403,Resort Hotel,0,2021-10-05,2020-06-23,252,3,1,1,BB,France,Online TA,Direct,Transient-Party,Single,3,Non Refund,5,10,4,Lisbon,London,197.83,2,4,Check-Out,2022-05-25,2021-01-26,0
+404,Resort Hotel,0,2022-11-07,2020-09-14,173,4,2,1,HB,Spain,Corporate,Direct,Group,Single,2,Non Refund,9,1,3,Lisbon,Paris,63.37,1,3,Canceled,2020-07-06,2022-05-18,1
+405,Resort Hotel,0,2020-12-24,2021-01-14,339,3,1,0,HB,Portugal,Online TA,Corporate,Group,Triple,0,Refundable,1,3,33,Paris,London,144.43,2,2,Check-Out,2022-07-13,2020-01-20,0
+406,Resort Hotel,1,2020-11-01,2020-02-24,288,3,1,0,HB,Spain,Corporate,Corporate,Transient-Party,Single,3,Refundable,8,9,23,Berlin,London,160.29,1,3,Check-Out,2021-04-16,2020-01-18,0
+407,City Hotel,1,2022-12-05,2022-02-06,194,3,2,0,HB,Portugal,Direct,Direct,Contract,Double,2,Non Refund,9,1,32,London,Madrid,181.85,2,0,Canceled,2020-04-30,2022-05-25,1
+408,Resort Hotel,0,2022-10-04,2020-07-27,102,4,0,0,FB,Germany,Offline TA/TO,Corporate,Transient,Single,2,Non Refund,1,8,11,Berlin,Berlin,89.77,2,2,No-Show,2021-11-26,2022-06-24,0
+409,City Hotel,0,2022-06-18,2022-04-29,355,4,0,0,FB,United Kingdom,Online TA,Corporate,Transient,Triple,1,Non Refund,10,5,27,Madrid,Lisbon,153.53,2,4,No-Show,2021-07-21,2021-06-28,0
+410,City Hotel,1,2022-01-28,2021-05-11,351,3,1,0,FB,France,Direct,Direct,Transient,Single,0,No Deposit,3,4,40,Berlin,Berlin,108.14,2,0,No-Show,2020-02-09,2021-02-11,0
+411,City Hotel,1,2022-09-10,2022-01-28,129,1,1,0,HB,United Kingdom,Online TA,Corporate,Transient-Party,Double,3,Refundable,8,4,6,London,Madrid,135.13,1,3,Canceled,2022-04-29,2022-05-04,1
+412,Resort Hotel,1,2020-09-15,2022-09-16,300,2,1,1,BB,Portugal,Offline TA/TO,Direct,Contract,Double,1,No Deposit,5,9,10,Berlin,Lisbon,63.59,1,3,Canceled,2022-09-07,2019-11-20,1
+413,Resort Hotel,0,2021-08-22,2020-10-29,279,3,2,0,HB,France,Online TA,TA/TO,Group,Double,0,Refundable,7,10,31,London,Lisbon,170.69,0,3,Check-Out,2020-08-04,2020-11-16,0
+414,Resort Hotel,0,2021-10-09,2020-05-12,106,1,2,0,BB,United Kingdom,Online TA,TA/TO,Transient,Triple,1,Refundable,9,8,45,London,Madrid,55.63,2,4,No-Show,2022-09-22,2021-06-25,0
+415,City Hotel,0,2020-10-22,2021-04-22,283,2,0,1,FB,Portugal,Direct,TA/TO,Transient,Single,3,Refundable,1,3,3,Lisbon,Madrid,122.94,2,3,Canceled,2021-02-20,2020-01-13,1
+416,Resort Hotel,1,2022-11-12,2022-02-04,222,2,0,1,HB,Spain,Corporate,TA/TO,Contract,Triple,1,Non Refund,7,6,33,Madrid,Paris,74.57,2,4,Check-Out,2020-08-14,2022-04-04,0
+417,Resort Hotel,1,2022-02-26,2021-06-30,158,4,1,1,BB,United Kingdom,Corporate,Corporate,Group,Triple,3,No Deposit,1,4,49,Lisbon,Madrid,180.39,1,0,Canceled,2022-01-20,2021-09-21,1
+418,Resort Hotel,1,2022-12-12,2022-08-18,27,2,0,0,HB,France,Online TA,TA/TO,Transient,Triple,2,Non Refund,4,10,22,Paris,Madrid,187.15,1,1,Canceled,2022-07-04,2022-11-15,1
+419,Resort Hotel,1,2020-02-04,2021-10-13,166,1,1,0,BB,Spain,Online TA,Corporate,Group,Single,2,Refundable,4,1,9,Paris,Berlin,101.36,0,1,No-Show,2021-07-03,2019-08-22,0
+420,City Hotel,1,2020-12-09,2021-11-10,314,3,0,0,HB,Portugal,Corporate,TA/TO,Transient,Double,3,Refundable,1,9,19,Madrid,Berlin,115.6,1,4,No-Show,2021-06-18,2020-01-30,0
+421,Resort Hotel,1,2020-11-22,2020-08-04,164,1,0,0,HB,Germany,Direct,TA/TO,Contract,Triple,0,No Deposit,4,1,36,Lisbon,Paris,139.98,0,0,No-Show,2021-10-09,2020-06-11,0
+422,City Hotel,1,2022-12-30,2020-01-02,351,4,1,0,HB,France,Corporate,Direct,Transient-Party,Double,1,Refundable,8,3,4,Lisbon,Berlin,173.63,2,3,Check-Out,2021-02-08,2022-01-13,0
+423,Resort Hotel,1,2021-09-10,2020-07-25,135,2,2,1,FB,United Kingdom,Direct,TA/TO,Transient-Party,Triple,3,Refundable,4,1,38,Madrid,Berlin,112.83,0,0,Check-Out,2020-01-20,2021-04-28,0
+424,Resort Hotel,0,2020-08-01,2020-04-14,69,2,2,1,FB,France,Online TA,Direct,Transient-Party,Double,1,Refundable,10,8,10,Paris,Paris,74.28,0,3,No-Show,2020-09-06,2020-05-24,0
+425,City Hotel,0,2020-04-24,2020-03-11,218,4,1,1,FB,Germany,Direct,TA/TO,Transient,Single,2,No Deposit,5,2,32,London,Lisbon,185.44,2,4,Check-Out,2022-11-28,2019-09-19,0
+426,City Hotel,0,2020-11-05,2022-02-13,310,4,0,0,HB,Portugal,Offline TA/TO,TA/TO,Contract,Single,0,Refundable,5,10,2,Paris,Madrid,69.49,2,2,No-Show,2022-06-13,2019-12-31,0
+427,Resort Hotel,0,2021-06-02,2022-10-10,358,1,0,1,HB,United Kingdom,Online TA,Corporate,Transient,Triple,3,Non Refund,3,1,26,Berlin,Berlin,86.88,1,2,Check-Out,2022-04-20,2020-06-09,0
+428,Resort Hotel,1,2020-10-25,2020-03-02,190,2,1,1,FB,Portugal,Direct,Direct,Transient-Party,Double,1,No Deposit,10,10,6,London,Madrid,122.03,1,4,Check-Out,2020-05-29,2020-04-18,0
+429,City Hotel,1,2020-03-31,2022-07-09,247,4,2,0,BB,Portugal,Online TA,TA/TO,Transient-Party,Triple,3,No Deposit,4,1,1,Lisbon,Paris,187.03,2,2,Check-Out,2021-11-10,2019-07-28,0
+430,City Hotel,0,2021-09-24,2022-01-22,212,1,0,0,FB,Spain,Online TA,TA/TO,Contract,Double,0,No Deposit,1,7,4,London,Lisbon,67.77,0,0,No-Show,2022-09-07,2021-02-24,0
+431,City Hotel,0,2022-07-25,2022-09-22,30,3,0,0,BB,Portugal,Online TA,Corporate,Transient,Triple,0,Non Refund,1,4,31,Berlin,Berlin,67.32,0,3,No-Show,2021-10-21,2022-06-25,0
+432,Resort Hotel,1,2022-09-08,2021-12-01,261,2,0,0,BB,France,Corporate,Direct,Contract,Single,0,Non Refund,10,4,30,Lisbon,Berlin,69.6,0,4,Check-Out,2021-08-18,2021-12-21,0
+433,City Hotel,1,2020-11-24,2021-06-30,110,4,1,0,HB,Spain,Offline TA/TO,Corporate,Contract,Triple,1,Non Refund,2,3,31,Berlin,Lisbon,189.61,0,2,Check-Out,2022-05-24,2020-08-06,0
+434,Resort Hotel,0,2022-05-14,2021-08-15,122,1,0,1,HB,Portugal,Corporate,TA/TO,Transient-Party,Triple,3,Non Refund,9,3,18,Paris,Lisbon,62.82,1,0,Check-Out,2022-10-06,2022-01-12,0
+435,Resort Hotel,1,2020-08-06,2020-03-15,18,2,2,0,BB,Germany,Corporate,TA/TO,Transient,Double,0,No Deposit,10,8,34,Paris,Madrid,140.59,1,0,Canceled,2021-11-29,2020-07-19,1
+436,City Hotel,1,2022-06-14,2021-08-01,37,4,0,1,HB,Portugal,Corporate,TA/TO,Group,Double,0,Non Refund,5,9,23,Lisbon,London,52.83,0,3,No-Show,2020-03-06,2022-05-08,0
+437,Resort Hotel,0,2022-03-30,2020-04-14,191,1,0,1,HB,Portugal,Direct,TA/TO,Group,Triple,1,Non Refund,10,5,28,Lisbon,Lisbon,179.8,2,2,No-Show,2020-10-27,2021-09-20,0
+438,Resort Hotel,0,2022-10-26,2022-04-29,142,4,2,1,FB,France,Offline TA/TO,Corporate,Group,Double,3,Refundable,5,7,30,London,Paris,58.07,1,3,No-Show,2022-03-23,2022-06-06,0
+439,Resort Hotel,1,2021-11-06,2020-10-06,152,1,1,1,FB,United Kingdom,Direct,Direct,Group,Triple,3,Non Refund,2,7,22,Berlin,Paris,154.09,0,2,Canceled,2020-02-10,2021-06-07,1
+440,City Hotel,0,2021-09-09,2021-02-18,306,1,0,1,BB,Spain,Direct,Direct,Transient,Double,2,Non Refund,9,7,22,Paris,Berlin,196.58,0,2,Canceled,2020-12-14,2020-11-07,1
+441,Resort Hotel,0,2022-07-26,2020-08-09,154,1,0,0,BB,Spain,Direct,Corporate,Contract,Triple,1,No Deposit,3,5,49,Berlin,Madrid,79.97,2,3,Check-Out,2022-07-24,2022-02-22,0
+442,City Hotel,0,2021-03-06,2022-07-10,141,1,2,0,BB,Spain,Online TA,Direct,Transient-Party,Triple,1,Refundable,9,3,18,Madrid,Lisbon,120.84,1,4,Canceled,2021-12-25,2020-10-16,1
+443,City Hotel,0,2021-10-10,2021-01-01,269,3,1,1,FB,Spain,Corporate,Direct,Transient-Party,Triple,0,Refundable,5,6,11,Paris,Madrid,97.98,1,1,No-Show,2021-11-09,2021-01-14,0
+444,City Hotel,0,2020-08-13,2021-04-04,207,2,2,1,HB,Germany,Direct,TA/TO,Group,Single,0,Non Refund,10,8,21,Berlin,Madrid,65.92,2,0,Check-Out,2021-11-07,2020-01-19,0
+445,Resort Hotel,0,2020-01-31,2020-11-25,63,4,0,1,BB,France,Corporate,TA/TO,Group,Double,3,No Deposit,10,4,43,London,Madrid,126.08,0,1,No-Show,2022-10-18,2019-11-29,0
+446,Resort Hotel,1,2021-10-22,2022-04-24,284,1,2,0,HB,Portugal,Online TA,Direct,Transient-Party,Single,3,Refundable,4,9,49,Lisbon,Paris,175.48,0,3,Check-Out,2022-07-28,2021-01-11,0
+447,City Hotel,0,2020-07-28,2020-08-10,230,1,0,0,HB,Germany,Offline TA/TO,TA/TO,Transient-Party,Single,1,No Deposit,3,1,14,Madrid,Berlin,199.0,2,1,Canceled,2020-01-10,2019-12-11,1
+448,City Hotel,1,2022-12-10,2021-02-22,261,4,0,0,HB,United Kingdom,Online TA,Direct,Group,Single,0,Refundable,10,9,22,Paris,Lisbon,167.06,1,0,Canceled,2022-03-16,2022-03-24,1
+449,Resort Hotel,1,2020-07-27,2021-09-17,291,3,1,0,FB,France,Offline TA/TO,TA/TO,Transient,Double,3,No Deposit,10,2,15,Madrid,Madrid,97.31,2,2,Check-Out,2021-09-20,2019-10-10,0
+450,City Hotel,0,2021-02-08,2021-09-20,21,3,1,1,BB,Spain,Direct,TA/TO,Group,Double,2,No Deposit,5,9,27,Berlin,Lisbon,146.19,2,2,Canceled,2022-07-16,2021-01-18,1
+451,City Hotel,1,2020-10-15,2020-04-30,12,1,1,0,HB,Portugal,Direct,TA/TO,Contract,Single,1,No Deposit,10,10,4,London,Lisbon,136.73,1,0,Canceled,2021-02-09,2020-10-03,1
+452,Resort Hotel,1,2020-11-12,2022-09-28,266,1,1,0,BB,France,Offline TA/TO,Direct,Contract,Single,3,Non Refund,1,7,50,Paris,Lisbon,82.01,0,2,Check-Out,2020-10-15,2020-02-20,0
+453,City Hotel,1,2022-11-10,2022-05-01,18,1,0,1,HB,Germany,Direct,Corporate,Transient,Single,3,No Deposit,4,4,6,Madrid,London,149.42,0,4,Canceled,2022-10-20,2022-10-23,1
+454,City Hotel,1,2022-07-08,2022-03-19,96,1,2,1,FB,United Kingdom,Offline TA/TO,Direct,Transient-Party,Single,1,Non Refund,5,3,35,Paris,Paris,177.41,1,2,No-Show,2022-12-15,2022-04-03,0
+455,City Hotel,0,2020-12-08,2022-12-05,100,3,1,1,BB,France,Corporate,Corporate,Transient-Party,Triple,1,No Deposit,7,7,7,London,London,87.08,1,3,No-Show,2021-01-09,2020-08-30,0
+456,Resort Hotel,0,2022-10-17,2022-12-20,18,3,1,1,BB,United Kingdom,Direct,TA/TO,Transient-Party,Triple,3,No Deposit,5,3,13,Berlin,Lisbon,123.68,1,2,Canceled,2022-06-23,2022-09-29,1
+457,Resort Hotel,0,2021-08-16,2021-07-25,84,3,2,0,FB,United Kingdom,Corporate,TA/TO,Contract,Double,3,Refundable,8,9,43,Lisbon,London,73.01,0,2,Check-Out,2021-05-04,2021-05-24,0
+458,Resort Hotel,0,2022-10-20,2020-06-16,25,1,2,0,BB,France,Offline TA/TO,Corporate,Transient,Triple,0,Refundable,2,5,35,Madrid,Madrid,113.55,1,0,Canceled,2022-12-19,2022-09-25,1
+459,Resort Hotel,1,2022-05-06,2022-01-22,229,1,1,0,FB,Spain,Direct,TA/TO,Transient,Triple,3,No Deposit,4,3,24,Madrid,Madrid,151.14,1,0,No-Show,2020-12-11,2021-09-19,0
+460,Resort Hotel,1,2020-11-20,2020-10-25,362,3,0,1,FB,Portugal,Offline TA/TO,TA/TO,Contract,Triple,2,Non Refund,8,10,41,London,Paris,106.36,1,4,Check-Out,2022-06-26,2019-11-24,0
+461,Resort Hotel,0,2021-11-15,2021-02-28,106,3,0,1,BB,United Kingdom,Online TA,Direct,Transient-Party,Double,0,No Deposit,3,3,6,Paris,Paris,72.24,0,0,Check-Out,2020-10-01,2021-08-01,0
+462,Resort Hotel,1,2021-05-02,2021-11-27,285,3,1,0,FB,Germany,Direct,Corporate,Group,Double,3,No Deposit,7,9,29,Berlin,Paris,159.83,2,1,Check-Out,2020-04-09,2020-07-21,0
+463,Resort Hotel,1,2021-11-16,2022-03-25,65,3,0,0,FB,Spain,Offline TA/TO,Corporate,Group,Double,1,Refundable,5,5,39,Madrid,Berlin,77.86,2,4,No-Show,2020-12-03,2021-09-12,0
+464,City Hotel,0,2021-11-16,2022-10-05,58,4,0,0,HB,France,Online TA,Corporate,Contract,Single,3,Refundable,3,8,38,Paris,Lisbon,174.78,1,2,Canceled,2021-10-16,2021-09-19,1
+465,City Hotel,1,2022-01-18,2020-12-11,158,2,0,1,FB,France,Online TA,Corporate,Group,Single,2,Non Refund,10,2,50,Paris,Lisbon,125.51,1,0,Canceled,2021-03-23,2021-08-13,1
+466,Resort Hotel,1,2020-08-08,2022-05-01,310,4,0,1,BB,France,Direct,TA/TO,Contract,Single,3,No Deposit,6,1,18,Lisbon,London,108.88,1,1,Canceled,2020-11-04,2019-10-03,1
+467,Resort Hotel,1,2020-11-21,2020-03-28,265,4,2,0,FB,Portugal,Direct,Direct,Group,Triple,2,No Deposit,10,1,38,Berlin,Madrid,129.51,2,2,Canceled,2021-09-30,2020-03-01,1
+468,Resort Hotel,0,2021-01-11,2022-10-29,297,2,1,1,HB,Germany,Online TA,TA/TO,Transient,Single,1,Non Refund,10,7,8,Paris,Berlin,105.09,0,1,Check-Out,2020-09-15,2020-03-20,0
+469,City Hotel,1,2022-07-15,2021-12-17,119,3,1,0,HB,Spain,Offline TA/TO,TA/TO,Group,Double,0,No Deposit,5,4,3,Lisbon,Berlin,191.88,0,1,Canceled,2022-04-17,2022-03-18,1
+470,Resort Hotel,1,2021-08-12,2021-08-05,23,1,0,1,FB,Spain,Offline TA/TO,Direct,Contract,Double,3,No Deposit,7,3,15,Lisbon,Berlin,110.4,2,2,Check-Out,2020-09-28,2021-07-20,0
+471,City Hotel,0,2022-10-15,2020-03-18,214,1,2,0,HB,Portugal,Direct,Direct,Transient-Party,Double,1,No Deposit,8,10,24,Lisbon,Paris,88.11,1,0,No-Show,2020-10-04,2022-03-15,0
+472,Resort Hotel,1,2020-02-05,2021-04-19,165,3,1,0,BB,France,Offline TA/TO,Corporate,Contract,Single,3,No Deposit,10,6,44,Madrid,London,113.37,2,1,Canceled,2021-01-30,2019-08-24,1
+473,Resort Hotel,0,2021-04-23,2021-05-23,319,2,2,0,BB,Spain,Offline TA/TO,Direct,Transient,Triple,0,Non Refund,9,1,2,Paris,Berlin,104.56,0,4,No-Show,2022-11-30,2020-06-08,0
+474,Resort Hotel,0,2020-01-31,2020-11-15,102,2,0,0,HB,Germany,Direct,TA/TO,Transient-Party,Single,1,Non Refund,4,9,17,Lisbon,Paris,60.14,0,4,Canceled,2021-01-05,2019-10-21,1
+475,City Hotel,0,2022-11-27,2022-02-17,192,1,1,1,HB,United Kingdom,Direct,Corporate,Transient,Triple,2,No Deposit,5,8,48,Berlin,Lisbon,183.92,1,3,Canceled,2020-07-31,2022-05-19,1
+476,Resort Hotel,1,2021-12-25,2022-10-23,316,2,0,0,HB,United Kingdom,Online TA,Direct,Group,Double,0,Non Refund,3,1,30,Paris,Paris,50.55,1,1,Canceled,2020-01-01,2021-02-12,1
+477,City Hotel,1,2022-05-15,2021-09-29,246,2,2,1,HB,Spain,Corporate,TA/TO,Transient,Double,0,No Deposit,5,1,8,Paris,London,101.69,1,1,No-Show,2021-07-15,2021-09-11,0
+478,Resort Hotel,1,2021-07-07,2022-06-08,48,4,0,0,BB,Portugal,Offline TA/TO,TA/TO,Transient-Party,Single,0,No Deposit,1,3,12,London,Paris,193.18,2,0,Check-Out,2021-08-02,2021-05-20,0
+479,Resort Hotel,0,2022-04-01,2020-10-01,217,2,2,0,BB,United Kingdom,Online TA,TA/TO,Transient-Party,Single,2,No Deposit,5,6,30,Paris,Madrid,94.1,2,3,Check-Out,2020-01-12,2021-08-27,0
+480,Resort Hotel,0,2022-10-23,2022-11-18,250,3,2,0,HB,Portugal,Offline TA/TO,TA/TO,Transient-Party,Single,1,No Deposit,10,5,42,Berlin,London,82.51,1,0,Canceled,2022-11-17,2022-02-15,1
+481,Resort Hotel,1,2021-04-12,2021-09-24,64,4,0,0,FB,Portugal,Corporate,Direct,Contract,Single,0,Refundable,8,9,1,Madrid,Madrid,85.45,0,4,No-Show,2020-10-28,2021-02-07,0
+482,City Hotel,1,2022-11-30,2021-07-23,43,1,0,1,BB,France,Corporate,TA/TO,Transient,Triple,2,Refundable,10,10,10,London,Madrid,111.68,1,1,Check-Out,2022-10-29,2022-10-18,0
+483,City Hotel,1,2022-03-02,2022-01-31,228,2,0,1,BB,Portugal,Online TA,TA/TO,Contract,Single,1,Non Refund,6,1,29,London,London,70.59,0,0,No-Show,2021-02-19,2021-07-17,0
+484,City Hotel,0,2020-01-03,2021-11-09,342,4,0,1,FB,Spain,Online TA,TA/TO,Contract,Double,0,Refundable,5,2,36,Berlin,Berlin,141.87,0,4,Check-Out,2022-01-19,2019-01-26,0
+485,City Hotel,0,2020-01-29,2021-10-20,323,2,1,0,FB,United Kingdom,Online TA,Corporate,Contract,Single,0,Refundable,6,2,37,London,London,103.35,2,3,Canceled,2020-04-28,2019-03-12,1
+486,Resort Hotel,1,2022-08-04,2020-11-16,78,4,0,0,FB,Germany,Direct,TA/TO,Group,Single,3,Refundable,1,1,26,Berlin,Madrid,149.11,0,4,Check-Out,2022-09-24,2022-05-18,0
+487,City Hotel,0,2021-03-15,2021-10-22,172,4,0,0,FB,France,Offline TA/TO,Direct,Group,Single,2,Refundable,7,9,10,London,London,80.84,2,3,Canceled,2022-02-26,2020-09-24,1
+488,Resort Hotel,0,2021-09-27,2020-04-08,281,1,0,1,FB,France,Corporate,TA/TO,Group,Double,3,No Deposit,2,6,8,Paris,Berlin,147.53,2,1,Canceled,2020-02-29,2020-12-20,1
+489,Resort Hotel,1,2020-10-24,2021-03-13,154,3,0,1,FB,United Kingdom,Corporate,TA/TO,Transient-Party,Double,3,Refundable,9,6,25,London,Madrid,82.4,2,2,Canceled,2021-03-12,2020-05-23,1
+490,Resort Hotel,1,2021-01-07,2020-01-02,4,1,0,1,FB,United Kingdom,Online TA,TA/TO,Transient-Party,Single,3,Refundable,10,6,18,Paris,Madrid,59.52,2,3,Check-Out,2022-03-22,2021-01-03,0
+491,City Hotel,1,2021-03-04,2022-10-12,0,1,0,1,BB,Portugal,Offline TA/TO,TA/TO,Contract,Single,1,Refundable,7,5,47,Paris,Lisbon,104.58,1,1,Check-Out,2020-10-05,2021-03-04,0
+492,City Hotel,1,2021-06-15,2022-06-14,202,1,0,0,BB,Spain,Online TA,Corporate,Group,Double,0,Non Refund,4,3,34,Berlin,Madrid,56.5,2,4,Canceled,2021-08-05,2020-11-25,1
+493,City Hotel,0,2021-08-07,2021-05-24,170,2,1,0,BB,Spain,Online TA,Corporate,Group,Double,1,Non Refund,8,9,0,London,Paris,133.53,2,3,Check-Out,2020-07-15,2021-02-18,0
+494,Resort Hotel,0,2020-06-07,2021-05-11,293,2,1,0,FB,Spain,Direct,TA/TO,Contract,Single,0,No Deposit,7,7,19,Lisbon,Lisbon,103.76,2,0,No-Show,2021-01-03,2019-08-19,0
+495,Resort Hotel,0,2022-10-17,2021-09-04,348,1,0,1,BB,United Kingdom,Corporate,Corporate,Contract,Double,2,No Deposit,9,3,45,Paris,Berlin,178.58,1,0,Check-Out,2022-04-27,2021-11-03,0
+496,Resort Hotel,1,2020-10-10,2022-11-17,7,3,2,0,FB,Spain,Offline TA/TO,Direct,Transient-Party,Double,0,Refundable,6,3,33,Lisbon,Madrid,144.49,0,0,Check-Out,2022-05-16,2020-10-03,0
+497,City Hotel,1,2022-01-19,2021-11-01,255,3,2,0,FB,Portugal,Online TA,Direct,Transient-Party,Double,0,Refundable,10,10,45,London,Lisbon,87.39,2,1,Canceled,2021-06-09,2021-05-09,1
+498,City Hotel,0,2022-11-26,2021-07-22,251,1,1,0,BB,Portugal,Direct,Corporate,Group,Single,2,Non Refund,1,6,42,Paris,Madrid,184.38,0,4,Check-Out,2020-10-26,2022-03-20,0
+499,Resort Hotel,0,2021-09-03,2021-05-30,201,1,2,1,HB,Spain,Direct,Corporate,Contract,Triple,3,Refundable,1,2,13,Madrid,Paris,86.81,2,0,No-Show,2021-04-11,2021-02-14,0
+500,City Hotel,0,2021-03-13,2021-05-16,321,4,2,1,FB,Spain,Direct,Corporate,Transient-Party,Double,1,No Deposit,3,6,15,Madrid,London,147.99,0,3,No-Show,2020-03-15,2020-04-26,0
+501,City Hotel,0,2022-08-26,2020-05-28,98,2,0,0,HB,Germany,Direct,Direct,Group,Triple,1,Refundable,1,9,50,London,Paris,61.49,0,0,Canceled,2021-02-08,2022-05-20,1
+502,City Hotel,0,2021-03-31,2021-12-03,328,2,1,0,HB,Spain,Direct,Corporate,Transient-Party,Single,2,No Deposit,5,8,7,Paris,Madrid,151.97,2,4,No-Show,2021-08-26,2020-05-07,0
+503,City Hotel,0,2020-08-09,2022-06-07,265,2,0,0,HB,Germany,Offline TA/TO,Corporate,Group,Double,2,No Deposit,5,1,36,London,Lisbon,86.05,1,4,No-Show,2020-12-12,2019-11-18,0
+504,Resort Hotel,0,2022-11-09,2021-06-18,213,1,1,1,HB,Portugal,Online TA,TA/TO,Group,Single,1,Refundable,1,6,12,Berlin,London,103.89,1,0,Canceled,2022-04-24,2022-04-10,1
+505,Resort Hotel,1,2021-02-08,2022-05-16,169,4,1,1,FB,Portugal,Corporate,Corporate,Contract,Single,2,Non Refund,5,2,9,Madrid,Madrid,93.96,2,1,No-Show,2022-09-20,2020-08-23,0
+506,City Hotel,1,2020-05-20,2020-03-06,207,3,0,0,HB,Germany,Direct,TA/TO,Group,Double,1,Non Refund,5,10,22,Berlin,Berlin,55.48,1,0,Canceled,2021-07-13,2019-10-26,1
+507,City Hotel,1,2020-10-12,2022-09-04,265,4,0,0,BB,Portugal,Online TA,Corporate,Transient-Party,Triple,0,Refundable,8,3,34,Paris,Lisbon,183.41,2,2,Check-Out,2022-07-07,2020-01-21,0
+508,Resort Hotel,1,2021-03-06,2021-04-25,87,4,2,0,BB,Germany,Offline TA/TO,Corporate,Transient,Triple,1,Non Refund,4,4,33,Paris,Lisbon,109.69,2,0,Canceled,2020-12-09,2020-12-09,1
+509,City Hotel,1,2022-04-09,2022-01-14,190,2,0,0,BB,United Kingdom,Corporate,Direct,Contract,Double,2,Non Refund,10,10,10,Berlin,Berlin,92.2,0,4,Canceled,2021-03-04,2021-10-01,1
+510,Resort Hotel,0,2022-06-26,2021-05-13,101,2,2,0,BB,United Kingdom,Offline TA/TO,Corporate,Contract,Single,3,Refundable,4,4,12,London,Berlin,88.26,0,3,No-Show,2021-02-15,2022-03-17,0
+511,City Hotel,0,2022-11-09,2021-01-01,96,2,2,1,FB,United Kingdom,Corporate,Corporate,Group,Triple,3,No Deposit,3,6,27,London,Berlin,104.75,1,2,No-Show,2020-03-21,2022-08-05,0
+512,Resort Hotel,1,2021-02-05,2021-12-03,68,2,1,1,BB,France,Corporate,Corporate,Transient-Party,Single,1,Non Refund,1,9,9,Paris,London,127.25,0,3,No-Show,2021-01-13,2020-11-29,0
+513,City Hotel,0,2020-05-10,2022-05-10,85,4,2,0,BB,United Kingdom,Direct,Direct,Group,Single,2,Non Refund,9,4,34,Berlin,Berlin,89.05,0,4,No-Show,2020-12-03,2020-02-15,0
+514,City Hotel,0,2020-09-10,2021-07-28,136,4,1,0,HB,United Kingdom,Corporate,Corporate,Contract,Triple,0,Non Refund,1,5,50,Madrid,Paris,108.26,0,2,Check-Out,2022-01-19,2020-04-27,0
+515,City Hotel,0,2020-08-07,2021-09-30,192,4,0,0,BB,United Kingdom,Online TA,Corporate,Contract,Double,2,Non Refund,8,2,44,Berlin,Lisbon,91.65,2,4,Canceled,2022-10-12,2020-01-28,1
+516,City Hotel,0,2022-01-11,2020-06-10,53,1,0,0,BB,Spain,Online TA,Direct,Transient-Party,Single,1,Refundable,8,1,50,Berlin,Madrid,150.47,1,3,No-Show,2020-11-13,2021-11-19,0
+517,City Hotel,0,2022-09-13,2022-07-15,196,4,0,1,FB,United Kingdom,Online TA,TA/TO,Contract,Triple,1,No Deposit,9,2,30,Paris,London,181.2,1,3,No-Show,2021-01-13,2022-03-01,0
+518,Resort Hotel,1,2022-06-11,2020-02-29,139,2,0,1,FB,France,Online TA,Corporate,Group,Double,0,Non Refund,7,2,26,Madrid,Paris,101.2,0,2,Canceled,2022-12-26,2022-01-23,1
+519,Resort Hotel,1,2021-12-25,2022-12-09,166,2,0,1,BB,Portugal,Online TA,Direct,Transient,Single,3,Non Refund,9,4,35,Madrid,Berlin,141.69,0,2,Canceled,2020-09-02,2021-07-12,1
+520,Resort Hotel,0,2021-04-17,2020-12-04,78,2,2,1,FB,Spain,Direct,TA/TO,Contract,Double,0,No Deposit,5,2,3,London,Lisbon,114.75,2,1,No-Show,2020-01-08,2021-01-29,0
+521,Resort Hotel,1,2020-11-27,2021-08-01,90,2,2,0,BB,Portugal,Offline TA/TO,Direct,Contract,Single,0,Refundable,4,3,33,Berlin,Paris,56.59,2,3,Check-Out,2021-07-26,2020-08-29,0
+522,Resort Hotel,0,2021-07-28,2020-04-07,259,4,0,1,BB,United Kingdom,Corporate,Corporate,Group,Double,1,No Deposit,9,2,24,Lisbon,Lisbon,179.35,2,2,No-Show,2020-04-16,2020-11-11,0
+523,City Hotel,0,2022-08-20,2020-02-19,245,2,0,0,BB,United Kingdom,Offline TA/TO,Direct,Transient,Triple,2,Refundable,9,4,7,Lisbon,Paris,148.95,2,1,Check-Out,2020-04-22,2021-12-18,0
+524,City Hotel,1,2021-04-08,2020-10-12,20,2,1,0,BB,Portugal,Direct,Corporate,Transient,Single,0,Refundable,6,4,50,Paris,Berlin,187.76,1,3,Canceled,2020-01-13,2021-03-19,1
+525,Resort Hotel,1,2020-09-24,2020-04-20,304,4,1,1,HB,Portugal,Corporate,TA/TO,Contract,Double,0,Refundable,7,8,24,London,Berlin,84.59,2,4,No-Show,2022-06-15,2019-11-25,0
+526,City Hotel,1,2022-05-06,2021-04-30,240,3,0,0,FB,Spain,Corporate,TA/TO,Transient,Triple,1,No Deposit,1,10,7,London,London,84.96,0,0,Check-Out,2020-07-21,2021-09-08,0
+527,Resort Hotel,0,2020-06-14,2020-06-20,227,2,2,1,BB,Portugal,Corporate,Direct,Transient-Party,Triple,1,No Deposit,2,10,25,Paris,Madrid,125.55,2,4,No-Show,2022-01-02,2019-10-31,0
+528,Resort Hotel,0,2022-10-25,2020-06-08,47,4,2,0,FB,Portugal,Corporate,Corporate,Group,Triple,0,No Deposit,1,8,3,Madrid,Madrid,174.76,2,2,Check-Out,2021-10-13,2022-09-08,0
+529,City Hotel,0,2020-05-08,2020-04-19,41,3,1,0,BB,Portugal,Online TA,Corporate,Transient,Triple,0,Non Refund,10,1,5,Paris,Madrid,116.59,2,0,Canceled,2020-12-22,2020-03-28,1
+530,Resort Hotel,0,2020-10-22,2020-06-22,307,4,2,0,FB,Germany,Corporate,Direct,Transient-Party,Double,2,Non Refund,5,10,2,Lisbon,Madrid,103.32,2,1,Canceled,2020-09-04,2019-12-20,1
+531,City Hotel,0,2021-03-18,2022-04-09,154,3,2,0,BB,United Kingdom,Online TA,Corporate,Contract,Single,1,Non Refund,3,8,34,Paris,London,82.53,2,4,Check-Out,2021-09-17,2020-10-15,0
+532,City Hotel,0,2021-11-17,2021-10-18,260,2,2,1,BB,Portugal,Corporate,TA/TO,Group,Triple,3,Non Refund,9,6,44,London,Madrid,83.62,1,3,No-Show,2021-06-27,2021-03-02,0
+533,City Hotel,1,2022-10-23,2020-11-04,20,2,0,1,FB,Spain,Online TA,TA/TO,Group,Single,1,Refundable,1,1,26,London,Madrid,152.48,2,3,Canceled,2022-04-24,2022-10-03,1
+534,Resort Hotel,0,2022-07-31,2022-12-23,101,3,0,0,BB,Spain,Direct,TA/TO,Transient,Triple,1,Non Refund,8,10,22,Lisbon,London,190.84,1,0,Check-Out,2021-03-25,2022-04-21,0
+535,City Hotel,1,2020-09-28,2021-03-12,117,3,2,0,BB,Spain,Offline TA/TO,TA/TO,Transient,Double,2,No Deposit,9,10,40,Lisbon,Madrid,124.85,0,1,Check-Out,2021-05-30,2020-06-03,0
+536,City Hotel,0,2022-02-21,2021-03-03,347,3,0,0,HB,Germany,Corporate,Corporate,Transient-Party,Double,2,Non Refund,5,7,22,London,Berlin,101.34,1,3,Check-Out,2022-08-04,2021-03-11,0
+537,City Hotel,1,2020-05-03,2020-03-21,157,1,1,1,BB,Spain,Offline TA/TO,TA/TO,Transient,Double,0,Non Refund,7,5,50,Lisbon,Madrid,146.5,0,4,Check-Out,2022-12-03,2019-11-28,0
+538,Resort Hotel,1,2022-05-05,2022-09-06,252,1,1,1,BB,France,Online TA,TA/TO,Contract,Double,2,Refundable,7,5,29,Paris,Madrid,98.48,0,4,Canceled,2022-11-04,2021-08-26,1
+539,Resort Hotel,0,2021-02-18,2020-09-05,98,2,0,1,HB,France,Online TA,Corporate,Transient,Double,0,Refundable,7,7,20,Paris,Lisbon,132.75,2,0,Canceled,2020-06-12,2020-11-12,1
+540,Resort Hotel,0,2021-05-09,2022-12-21,253,1,1,0,FB,Portugal,Direct,Corporate,Transient-Party,Double,1,Refundable,4,10,37,Paris,Berlin,72.24,0,0,No-Show,2020-11-26,2020-08-29,0
+541,City Hotel,1,2021-08-24,2021-04-13,7,1,1,1,HB,Portugal,Corporate,TA/TO,Transient,Double,2,No Deposit,10,4,35,Paris,Paris,118.31,0,0,Canceled,2022-03-17,2021-08-17,1
+542,Resort Hotel,1,2021-10-22,2022-07-12,344,4,0,1,FB,Germany,Offline TA/TO,Direct,Contract,Double,1,Refundable,2,5,13,London,Berlin,96.84,1,3,Canceled,2022-11-20,2020-11-12,1
+543,Resort Hotel,0,2022-06-25,2021-02-08,43,2,1,0,FB,Spain,Offline TA/TO,Direct,Contract,Single,3,No Deposit,9,10,43,London,London,66.01,1,1,No-Show,2020-01-12,2022-05-13,0
+544,City Hotel,1,2020-11-15,2021-05-14,39,2,2,1,BB,Portugal,Direct,TA/TO,Group,Double,3,Refundable,2,9,30,Lisbon,Madrid,77.33,0,2,Canceled,2022-07-08,2020-10-07,1
+545,City Hotel,1,2022-05-02,2021-01-08,296,2,2,0,HB,France,Corporate,Direct,Transient-Party,Single,2,Refundable,1,3,33,Madrid,Berlin,66.31,0,2,Canceled,2020-05-11,2021-07-10,1
+546,City Hotel,1,2020-04-19,2021-04-28,145,3,2,0,FB,Spain,Online TA,TA/TO,Group,Single,2,Non Refund,6,1,29,Paris,Madrid,196.96,0,3,No-Show,2021-06-26,2019-11-26,0
+547,Resort Hotel,1,2022-08-17,2020-06-13,364,1,1,0,FB,United Kingdom,Online TA,Direct,Transient,Triple,1,Refundable,10,2,44,Berlin,Lisbon,153.57,0,2,Check-Out,2022-08-03,2021-08-18,0
+548,City Hotel,0,2022-06-14,2020-11-10,89,3,0,1,FB,United Kingdom,Direct,Corporate,Transient,Double,1,No Deposit,7,7,15,London,Lisbon,195.64,0,4,Check-Out,2021-06-09,2022-03-17,0
+549,Resort Hotel,0,2020-01-27,2021-04-15,169,2,1,0,FB,France,Corporate,Corporate,Transient-Party,Single,1,Refundable,2,7,4,Paris,London,176.79,0,0,Check-Out,2021-07-26,2019-08-11,0
+550,Resort Hotel,1,2022-07-31,2020-03-24,17,1,1,1,HB,Portugal,Direct,Corporate,Transient-Party,Single,2,Non Refund,3,3,12,London,Lisbon,184.32,2,1,Check-Out,2021-04-02,2022-07-14,0
+551,City Hotel,0,2021-02-02,2022-06-21,45,3,2,1,FB,United Kingdom,Corporate,Direct,Group,Triple,3,Refundable,4,6,43,Lisbon,Berlin,135.24,1,2,Canceled,2021-02-15,2020-12-19,1
+552,Resort Hotel,1,2022-04-02,2021-07-21,34,4,0,0,FB,United Kingdom,Offline TA/TO,TA/TO,Group,Double,3,No Deposit,9,2,7,London,Paris,143.27,0,2,No-Show,2022-01-14,2022-02-27,0
+553,City Hotel,0,2022-05-04,2021-10-31,67,4,0,0,BB,Portugal,Corporate,Corporate,Transient-Party,Triple,0,Refundable,5,2,26,Paris,Lisbon,68.7,2,0,Check-Out,2022-06-06,2022-02-26,0
+554,City Hotel,1,2020-01-23,2022-01-06,298,4,2,0,FB,France,Offline TA/TO,TA/TO,Group,Single,2,Refundable,7,2,19,Paris,Lisbon,164.49,1,4,No-Show,2021-06-22,2019-03-31,0
+555,Resort Hotel,0,2022-07-19,2021-03-28,158,4,0,1,BB,France,Direct,Direct,Transient,Single,1,Non Refund,4,3,37,Paris,Lisbon,60.89,0,4,Canceled,2022-04-19,2022-02-11,1
+556,Resort Hotel,1,2021-04-02,2021-10-09,301,3,1,1,HB,United Kingdom,Direct,Corporate,Group,Double,3,Non Refund,3,9,25,Berlin,London,94.49,0,2,No-Show,2020-12-25,2020-06-05,0
+557,City Hotel,0,2020-04-25,2022-10-10,305,2,1,1,BB,Portugal,Offline TA/TO,TA/TO,Group,Double,0,Refundable,1,3,3,Paris,Paris,158.12,1,2,Canceled,2022-03-20,2019-06-25,1
+558,Resort Hotel,0,2022-07-22,2022-11-29,27,4,2,1,BB,Spain,Online TA,Corporate,Group,Single,0,No Deposit,2,3,17,Lisbon,Madrid,98.05,1,2,Canceled,2020-08-18,2022-06-25,1
+559,City Hotel,0,2022-06-11,2021-01-22,41,3,0,0,BB,Portugal,Online TA,Direct,Contract,Single,3,Refundable,3,9,29,Lisbon,Berlin,196.7,2,1,No-Show,2022-11-01,2022-05-01,0
+560,City Hotel,1,2022-02-18,2021-09-30,27,1,1,1,FB,Portugal,Offline TA/TO,Direct,Group,Double,3,No Deposit,9,5,4,Berlin,Madrid,119.52,0,1,Canceled,2021-10-21,2022-01-22,1
+561,Resort Hotel,0,2020-04-01,2021-06-23,247,2,0,0,HB,France,Online TA,Direct,Contract,Triple,0,Refundable,8,3,17,London,Paris,95.18,1,0,Canceled,2020-12-28,2019-07-29,1
+562,Resort Hotel,0,2021-05-23,2021-06-30,261,3,0,0,FB,United Kingdom,Online TA,Corporate,Contract,Double,0,Non Refund,2,3,13,Paris,London,103.95,1,4,Canceled,2020-11-28,2020-09-04,1
+563,City Hotel,1,2021-05-27,2020-08-22,50,4,1,1,HB,United Kingdom,Offline TA/TO,Corporate,Group,Triple,2,No Deposit,7,10,19,Lisbon,Madrid,161.84,2,2,Canceled,2020-08-03,2021-04-07,1
+564,City Hotel,0,2021-02-04,2022-08-24,196,2,1,0,HB,Portugal,Offline TA/TO,Corporate,Contract,Double,2,No Deposit,3,1,16,Madrid,Paris,193.1,1,0,Check-Out,2020-01-28,2020-07-23,0
+565,Resort Hotel,1,2022-06-15,2020-11-14,349,1,1,1,FB,United Kingdom,Corporate,TA/TO,Transient,Triple,3,Refundable,1,8,13,Paris,Paris,58.42,0,1,Canceled,2022-02-01,2021-07-01,1
+566,City Hotel,0,2020-11-30,2021-04-23,83,1,0,0,BB,Spain,Corporate,TA/TO,Contract,Triple,2,No Deposit,1,5,25,Berlin,Paris,142.83,2,2,Check-Out,2020-11-24,2020-09-08,0
+567,Resort Hotel,1,2022-11-27,2022-03-13,129,1,2,0,BB,Portugal,Corporate,TA/TO,Group,Single,2,Non Refund,3,8,50,Paris,Paris,180.28,2,2,No-Show,2020-03-11,2022-07-21,0
+568,Resort Hotel,1,2020-11-14,2020-07-17,310,3,2,0,BB,France,Offline TA/TO,Direct,Transient,Triple,2,Non Refund,9,1,19,Madrid,Lisbon,197.75,1,1,No-Show,2020-09-03,2020-01-09,0
+569,Resort Hotel,1,2022-12-15,2020-10-04,216,2,1,1,FB,France,Corporate,Direct,Group,Double,1,Non Refund,10,5,43,Berlin,Madrid,178.0,1,0,No-Show,2020-07-21,2022-05-13,0
+570,Resort Hotel,1,2021-05-01,2021-03-09,218,2,0,1,FB,United Kingdom,Online TA,TA/TO,Group,Double,1,Refundable,2,6,21,Lisbon,Berlin,115.78,0,1,Canceled,2021-08-17,2020-09-25,1
+571,City Hotel,1,2022-12-27,2020-10-14,298,1,0,1,BB,Portugal,Offline TA/TO,Corporate,Group,Triple,2,Non Refund,1,5,4,Paris,Berlin,130.13,1,3,No-Show,2021-04-03,2022-03-04,0
+572,City Hotel,1,2020-07-08,2020-01-30,149,4,1,1,HB,Germany,Corporate,Direct,Group,Single,3,Non Refund,2,4,32,Lisbon,London,165.87,2,4,No-Show,2020-06-01,2020-02-10,0
+573,Resort Hotel,1,2020-02-28,2020-06-27,337,3,1,1,BB,Portugal,Corporate,TA/TO,Contract,Single,2,Refundable,2,6,46,London,Madrid,144.48,1,2,Check-Out,2021-07-18,2019-03-28,0
+574,Resort Hotel,0,2020-12-08,2020-03-05,12,4,2,1,BB,Germany,Offline TA/TO,TA/TO,Transient-Party,Double,3,Non Refund,7,5,5,London,London,104.84,1,1,Canceled,2020-06-05,2020-11-26,1
+575,City Hotel,1,2021-07-09,2020-03-02,168,4,2,1,FB,United Kingdom,Offline TA/TO,TA/TO,Transient,Triple,2,Refundable,9,8,41,London,London,68.37,0,1,Canceled,2020-05-20,2021-01-22,1
+576,Resort Hotel,1,2022-06-21,2020-10-06,120,3,0,0,FB,Portugal,Online TA,Corporate,Contract,Double,3,Refundable,5,3,30,Madrid,London,92.88,2,0,No-Show,2020-08-30,2022-02-21,0
+577,Resort Hotel,1,2020-09-14,2022-08-10,67,2,1,0,HB,France,Offline TA/TO,Direct,Contract,Single,0,Refundable,10,10,12,Lisbon,London,137.57,0,2,No-Show,2022-09-28,2020-07-09,0
+578,City Hotel,1,2021-12-17,2021-06-25,161,4,1,0,FB,Portugal,Corporate,TA/TO,Group,Single,0,No Deposit,5,7,49,Berlin,Lisbon,135.38,1,3,No-Show,2022-09-30,2021-07-09,0
+579,City Hotel,0,2021-11-03,2020-01-18,24,1,1,1,FB,Portugal,Corporate,Corporate,Transient-Party,Double,3,Refundable,9,8,9,Paris,Lisbon,120.41,1,1,No-Show,2021-07-30,2021-10-10,0
+580,Resort Hotel,0,2021-05-06,2021-02-04,280,4,1,0,FB,Spain,Offline TA/TO,Corporate,Group,Single,2,Refundable,10,8,22,Paris,Berlin,61.74,1,2,No-Show,2020-07-13,2020-07-30,0
+581,City Hotel,1,2022-10-29,2020-09-26,303,4,1,1,HB,Portugal,Direct,Direct,Group,Double,1,No Deposit,8,2,5,Madrid,Berlin,187.45,2,4,No-Show,2020-10-19,2021-12-30,0
+582,City Hotel,1,2020-09-19,2022-03-17,124,4,0,1,HB,Germany,Direct,Corporate,Transient,Double,3,Non Refund,7,4,32,Berlin,Madrid,106.2,0,2,Check-Out,2022-04-20,2020-05-18,0
+583,City Hotel,0,2020-09-26,2022-06-28,263,3,2,0,FB,Portugal,Corporate,Direct,Transient,Single,3,No Deposit,9,7,23,Lisbon,Madrid,199.78,0,2,Canceled,2020-02-11,2020-01-07,1
+584,City Hotel,1,2022-06-23,2020-05-19,171,2,1,0,FB,France,Offline TA/TO,Direct,Transient-Party,Triple,1,Non Refund,10,8,47,London,Madrid,66.07,2,2,Check-Out,2022-05-10,2022-01-03,0
+585,Resort Hotel,0,2021-10-02,2022-07-14,225,3,1,0,HB,Germany,Offline TA/TO,Direct,Contract,Triple,2,Refundable,10,10,19,Madrid,Berlin,117.95,0,3,No-Show,2021-07-27,2021-02-19,0
+586,City Hotel,0,2021-06-24,2021-12-11,10,3,1,0,FB,France,Offline TA/TO,TA/TO,Transient,Double,3,Refundable,5,6,44,Berlin,Paris,150.58,1,0,No-Show,2020-04-13,2021-06-14,0
+587,City Hotel,1,2021-09-13,2021-09-20,282,3,1,1,BB,United Kingdom,Online TA,TA/TO,Transient-Party,Single,2,No Deposit,3,1,16,Lisbon,Paris,75.21,1,2,Check-Out,2022-06-28,2020-12-05,0
+588,Resort Hotel,0,2020-10-09,2020-04-25,289,4,1,1,FB,United Kingdom,Corporate,TA/TO,Group,Double,2,Non Refund,10,3,48,London,Paris,160.62,2,1,Canceled,2022-01-01,2019-12-25,1
+589,City Hotel,1,2022-11-22,2022-09-05,328,1,0,1,BB,Portugal,Direct,TA/TO,Transient-Party,Single,0,Refundable,8,1,41,Madrid,London,179.58,2,1,Canceled,2020-08-02,2021-12-29,1
+590,Resort Hotel,1,2022-06-26,2022-04-04,182,3,1,1,BB,United Kingdom,Corporate,TA/TO,Group,Triple,2,No Deposit,1,3,5,Lisbon,Paris,148.62,2,4,Canceled,2021-03-08,2021-12-26,1
+591,City Hotel,0,2021-09-28,2022-08-02,342,2,0,0,FB,France,Online TA,Direct,Transient-Party,Triple,1,Refundable,7,3,21,London,London,61.43,2,3,Canceled,2020-04-26,2020-10-21,1
+592,Resort Hotel,1,2020-06-24,2021-03-17,184,1,1,1,FB,Germany,Online TA,Corporate,Transient-Party,Triple,1,Refundable,3,9,13,Lisbon,Paris,138.71,0,0,Canceled,2020-09-16,2019-12-23,1
+593,City Hotel,1,2021-08-20,2020-12-18,283,2,2,0,BB,France,Offline TA/TO,Corporate,Transient,Triple,0,Refundable,10,4,2,Paris,Lisbon,178.35,0,1,Check-Out,2022-08-22,2020-11-10,0
+594,Resort Hotel,0,2021-06-23,2022-02-06,85,2,0,0,FB,United Kingdom,Corporate,TA/TO,Contract,Double,0,No Deposit,7,9,7,Lisbon,Berlin,137.45,2,3,Check-Out,2020-04-08,2021-03-30,0
+595,City Hotel,1,2020-08-09,2020-05-05,5,3,2,0,BB,Germany,Online TA,TA/TO,Transient-Party,Single,0,No Deposit,1,10,42,Berlin,Paris,76.76,2,1,Check-Out,2022-09-22,2020-08-04,0
+596,City Hotel,0,2020-04-08,2021-07-17,49,2,0,0,FB,Portugal,Direct,Direct,Transient-Party,Single,3,Non Refund,1,6,38,Berlin,Berlin,103.67,0,3,No-Show,2022-04-26,2020-02-19,0
+597,Resort Hotel,1,2021-07-11,2022-10-12,224,3,1,1,FB,Germany,Offline TA/TO,Direct,Transient-Party,Triple,1,No Deposit,10,10,38,Madrid,Madrid,95.94,0,2,No-Show,2021-04-26,2020-11-29,0
+598,City Hotel,0,2022-10-23,2022-08-04,81,4,2,1,FB,Portugal,Direct,Direct,Transient,Single,1,Refundable,7,5,19,Paris,Paris,186.24,0,0,Canceled,2022-02-01,2022-08-03,1
+599,City Hotel,1,2021-12-20,2020-03-19,117,2,2,0,HB,Portugal,Offline TA/TO,TA/TO,Transient,Triple,1,No Deposit,9,3,5,Madrid,London,130.12,1,2,Check-Out,2020-02-08,2021-08-25,0
+600,Resort Hotel,0,2020-07-19,2021-10-05,296,2,2,0,HB,United Kingdom,Direct,Corporate,Group,Double,2,No Deposit,8,5,20,Paris,London,88.19,2,2,Check-Out,2022-06-08,2019-09-27,0
+601,Resort Hotel,0,2020-09-01,2021-06-25,88,1,0,0,HB,Germany,Direct,TA/TO,Transient-Party,Double,0,Non Refund,1,3,24,Paris,Paris,154.66,0,0,No-Show,2021-03-29,2020-06-05,0
+602,City Hotel,0,2021-02-16,2020-02-17,261,4,2,1,HB,Germany,Online TA,Direct,Transient,Double,3,No Deposit,5,5,30,Madrid,Lisbon,158.0,0,3,No-Show,2020-10-03,2020-05-31,0
+603,City Hotel,0,2021-04-01,2021-07-12,155,3,0,0,FB,Spain,Direct,Direct,Contract,Triple,1,Refundable,5,10,9,Lisbon,Paris,161.11,1,3,Check-Out,2022-05-19,2020-10-28,0
+604,Resort Hotel,0,2021-10-24,2022-10-04,289,4,0,1,HB,United Kingdom,Online TA,TA/TO,Transient,Single,1,No Deposit,7,10,17,London,Berlin,92.5,0,1,No-Show,2022-06-01,2021-01-08,0
+605,City Hotel,0,2020-12-17,2020-04-23,267,1,1,1,HB,Germany,Online TA,Corporate,Transient-Party,Double,3,Non Refund,10,7,5,Berlin,Madrid,176.21,0,1,No-Show,2022-12-18,2020-03-25,0
+606,Resort Hotel,0,2022-05-08,2022-05-21,118,3,0,0,HB,Spain,Offline TA/TO,TA/TO,Group,Single,2,No Deposit,9,8,36,Berlin,London,130.98,0,1,Check-Out,2022-04-04,2022-01-10,0
+607,Resort Hotel,1,2022-12-01,2021-07-05,136,3,1,1,BB,Germany,Corporate,TA/TO,Contract,Triple,3,Refundable,9,9,16,London,London,163.47,2,4,Canceled,2022-08-20,2022-07-18,1
+608,Resort Hotel,0,2021-06-15,2021-05-08,222,4,2,0,HB,Portugal,Online TA,TA/TO,Group,Single,1,No Deposit,9,7,38,Lisbon,Paris,60.57,0,4,Check-Out,2020-05-01,2020-11-05,0
+609,City Hotel,1,2022-10-21,2021-06-23,8,1,1,1,FB,Germany,Corporate,Direct,Group,Single,1,No Deposit,7,9,39,Madrid,Madrid,61.24,0,0,Canceled,2020-06-01,2022-10-13,1
+610,City Hotel,0,2022-05-21,2021-04-20,261,1,2,1,FB,Germany,Corporate,Corporate,Transient,Single,3,Refundable,4,1,32,Lisbon,Paris,188.61,0,1,Canceled,2020-10-23,2021-09-02,1
+611,City Hotel,0,2020-01-21,2022-06-22,356,1,1,0,FB,France,Direct,Direct,Transient-Party,Double,1,Refundable,2,4,35,Paris,Madrid,108.94,0,1,Canceled,2022-03-09,2019-01-30,1
+612,Resort Hotel,0,2022-01-15,2021-08-06,183,3,2,0,BB,Germany,Offline TA/TO,Direct,Transient-Party,Single,3,No Deposit,9,7,37,Lisbon,Berlin,73.81,1,2,Canceled,2021-12-01,2021-07-16,1
+613,Resort Hotel,0,2020-07-14,2020-03-17,258,2,0,1,BB,Portugal,Direct,Corporate,Transient-Party,Single,2,No Deposit,8,7,16,London,Madrid,195.61,1,0,Check-Out,2022-01-28,2019-10-30,0
+614,City Hotel,1,2022-03-30,2021-01-14,356,4,0,0,BB,Portugal,Offline TA/TO,Corporate,Transient,Triple,0,No Deposit,4,10,44,Lisbon,Lisbon,75.85,1,4,Canceled,2022-08-23,2021-04-08,1
+615,City Hotel,1,2020-01-05,2021-02-12,193,2,0,1,FB,Germany,Direct,TA/TO,Group,Single,1,Refundable,5,10,34,Berlin,Berlin,65.25,1,4,No-Show,2020-03-25,2019-06-26,0
+616,Resort Hotel,0,2022-10-13,2021-08-19,284,2,0,1,BB,France,Direct,TA/TO,Transient-Party,Single,3,Refundable,5,10,39,Berlin,Berlin,54.55,2,0,No-Show,2021-07-05,2022-01-02,0
+617,City Hotel,1,2022-12-03,2022-11-20,28,2,1,0,BB,Portugal,Online TA,Corporate,Group,Triple,2,Refundable,4,8,0,Madrid,Lisbon,173.97,2,4,Check-Out,2022-07-14,2022-11-05,0
+618,Resort Hotel,1,2022-08-15,2020-01-26,34,2,2,1,BB,Spain,Direct,Corporate,Contract,Triple,3,Non Refund,1,5,31,London,Paris,53.05,2,0,No-Show,2021-09-19,2022-07-12,0
+619,Resort Hotel,0,2022-01-10,2020-12-14,142,2,1,0,HB,Portugal,Offline TA/TO,Direct,Transient,Single,1,No Deposit,8,7,8,Berlin,Lisbon,102.67,0,4,Canceled,2021-08-06,2021-08-21,1
+620,City Hotel,1,2021-02-23,2021-01-30,246,3,1,1,HB,France,Online TA,Corporate,Group,Single,3,Refundable,4,8,23,Madrid,Paris,149.37,0,3,No-Show,2020-05-09,2020-06-22,0
+621,City Hotel,1,2022-07-11,2022-01-12,103,2,2,1,HB,United Kingdom,Direct,Direct,Contract,Double,0,Refundable,9,3,25,London,Lisbon,140.56,2,0,Canceled,2021-03-01,2022-03-30,1
+622,City Hotel,1,2022-04-09,2021-07-15,244,1,0,1,FB,Germany,Direct,TA/TO,Transient-Party,Double,1,Non Refund,4,2,21,Paris,Berlin,96.77,1,4,Canceled,2022-11-16,2021-08-08,1
+623,Resort Hotel,0,2021-01-25,2022-02-03,63,4,1,0,BB,Portugal,Direct,Direct,Contract,Double,0,Refundable,1,6,21,London,London,111.9,1,2,Canceled,2021-07-25,2020-11-23,1
+624,City Hotel,0,2021-12-09,2022-08-20,359,3,1,0,FB,Portugal,Corporate,Corporate,Transient,Double,2,Refundable,3,6,44,Paris,London,166.4,2,3,No-Show,2021-06-23,2020-12-15,0
+625,City Hotel,0,2022-10-09,2022-05-25,348,4,0,1,FB,Germany,Direct,Corporate,Contract,Single,3,No Deposit,6,4,10,Lisbon,Madrid,163.77,0,3,No-Show,2021-08-16,2021-10-26,0
+626,City Hotel,1,2022-10-03,2022-04-22,285,4,1,0,FB,United Kingdom,Corporate,TA/TO,Transient-Party,Triple,2,No Deposit,9,7,43,Berlin,Madrid,148.51,0,2,Canceled,2020-05-13,2021-12-22,1
+627,City Hotel,1,2020-08-07,2022-11-22,341,1,1,0,BB,United Kingdom,Online TA,Direct,Transient-Party,Triple,3,Non Refund,5,9,0,Paris,Lisbon,118.12,0,0,Canceled,2021-12-28,2019-09-01,1
+628,City Hotel,0,2020-01-15,2021-08-21,108,1,0,0,HB,Spain,Direct,TA/TO,Transient,Triple,2,Refundable,1,2,41,Lisbon,Madrid,107.3,2,1,Canceled,2022-03-16,2019-09-29,1
+629,Resort Hotel,0,2022-06-04,2022-03-31,108,2,0,0,FB,United Kingdom,Corporate,TA/TO,Group,Double,0,Refundable,8,10,13,London,London,120.24,1,2,No-Show,2020-11-29,2022-02-16,0
+630,City Hotel,0,2021-10-01,2020-12-03,233,3,2,0,FB,United Kingdom,Offline TA/TO,TA/TO,Transient-Party,Double,0,Non Refund,4,6,47,Paris,Paris,72.12,0,3,No-Show,2022-03-14,2021-02-10,0
+631,City Hotel,0,2021-08-02,2022-07-11,155,4,0,1,BB,United Kingdom,Direct,TA/TO,Transient,Triple,2,No Deposit,10,4,30,Madrid,Lisbon,137.66,2,2,Canceled,2022-07-08,2021-02-28,1
+632,Resort Hotel,0,2021-11-01,2022-05-02,50,1,1,1,FB,United Kingdom,Online TA,Corporate,Transient,Single,3,Refundable,3,1,18,Madrid,Lisbon,70.4,2,3,Canceled,2022-05-08,2021-09-12,1
+633,Resort Hotel,1,2022-02-23,2020-05-17,139,2,0,1,FB,United Kingdom,Corporate,Direct,Transient-Party,Single,1,No Deposit,6,6,5,Lisbon,Madrid,65.89,0,0,Check-Out,2021-09-17,2021-10-07,0
+634,City Hotel,0,2022-09-16,2022-02-18,312,4,1,0,FB,Spain,Online TA,Corporate,Contract,Triple,2,No Deposit,9,1,36,Lisbon,Paris,129.27,2,1,Canceled,2022-05-18,2021-11-08,1
+635,City Hotel,0,2020-04-16,2022-01-26,33,1,2,0,HB,Spain,Direct,TA/TO,Transient,Double,2,Non Refund,5,2,0,Paris,Madrid,58.08,1,1,No-Show,2021-08-31,2020-03-14,0
+636,City Hotel,0,2022-02-11,2022-11-15,44,3,2,1,HB,United Kingdom,Direct,Direct,Transient-Party,Double,1,No Deposit,7,3,24,Paris,London,126.29,0,4,No-Show,2021-12-14,2021-12-29,0
+637,Resort Hotel,1,2020-11-14,2021-08-18,217,2,2,0,FB,Portugal,Offline TA/TO,Direct,Contract,Single,0,Refundable,10,6,38,Berlin,Lisbon,198.27,0,4,Canceled,2020-02-13,2020-04-11,1
+638,City Hotel,1,2022-02-26,2021-01-29,301,1,1,1,BB,Germany,Direct,Corporate,Contract,Double,0,Refundable,7,8,10,Berlin,Lisbon,122.48,1,1,Canceled,2021-03-28,2021-05-01,1
+639,City Hotel,1,2022-05-02,2022-10-25,228,2,1,1,HB,France,Direct,TA/TO,Transient,Double,0,No Deposit,1,2,15,Madrid,Madrid,190.42,0,0,Check-Out,2020-05-30,2021-09-16,0
+640,Resort Hotel,0,2020-12-06,2020-10-03,52,2,0,1,BB,Germany,Online TA,Corporate,Contract,Single,1,Refundable,5,7,21,Paris,Madrid,86.79,0,0,Check-Out,2020-02-25,2020-10-15,0
+641,City Hotel,0,2022-11-22,2022-08-15,31,2,1,1,HB,Germany,Corporate,Corporate,Transient,Triple,0,Non Refund,9,1,8,London,Madrid,174.4,0,3,Check-Out,2021-07-02,2022-10-22,0
+642,City Hotel,0,2022-01-23,2021-11-08,26,2,2,0,FB,Spain,Corporate,Corporate,Group,Triple,1,Non Refund,3,5,14,London,Lisbon,110.3,1,1,Check-Out,2020-12-19,2021-12-28,0
+643,Resort Hotel,0,2021-07-20,2020-02-02,119,1,2,0,FB,France,Direct,Direct,Contract,Triple,3,Non Refund,4,3,8,Berlin,Paris,51.84,0,0,Check-Out,2020-11-13,2021-03-23,0
+644,Resort Hotel,0,2021-06-03,2021-10-06,365,4,2,0,HB,France,Online TA,Corporate,Contract,Double,1,Non Refund,10,7,21,London,Madrid,115.48,2,4,No-Show,2020-10-02,2020-06-03,0
+645,City Hotel,1,2022-12-15,2022-05-06,324,2,2,1,FB,Spain,Online TA,TA/TO,Transient,Triple,2,Refundable,3,7,2,Madrid,Lisbon,177.72,2,0,Check-Out,2020-07-18,2022-01-25,0
+646,City Hotel,1,2021-06-12,2021-01-03,61,3,2,1,BB,Spain,Offline TA/TO,Corporate,Transient,Single,2,No Deposit,9,2,17,Lisbon,London,168.0,0,2,Check-Out,2021-01-27,2021-04-12,0
+647,City Hotel,1,2020-10-29,2020-11-09,271,2,1,1,BB,Spain,Direct,Corporate,Transient,Double,0,Non Refund,4,10,4,Madrid,Berlin,109.46,1,3,No-Show,2020-08-30,2020-02-01,0
+648,City Hotel,0,2022-10-25,2022-09-30,172,1,2,1,HB,Germany,Online TA,Corporate,Contract,Single,2,Refundable,9,2,36,Madrid,Lisbon,159.8,0,2,No-Show,2020-08-19,2022-05-06,0
+649,Resort Hotel,0,2020-11-26,2021-03-12,291,4,2,1,BB,Spain,Offline TA/TO,Direct,Contract,Double,1,No Deposit,10,1,20,Berlin,Madrid,66.87,2,1,Check-Out,2021-08-06,2020-02-09,0
+650,Resort Hotel,0,2020-12-01,2021-02-23,220,4,2,1,BB,Portugal,Direct,Corporate,Transient-Party,Single,0,Non Refund,6,4,25,Paris,Berlin,70.06,1,1,Canceled,2021-03-25,2020-04-25,1
+651,City Hotel,1,2022-07-26,2021-09-13,254,3,2,1,FB,Germany,Corporate,Corporate,Group,Triple,1,Non Refund,2,8,50,London,London,86.04,0,2,Canceled,2022-07-07,2021-11-14,1
+652,City Hotel,1,2022-05-05,2020-07-09,67,2,1,0,FB,Germany,Online TA,Corporate,Transient-Party,Triple,0,No Deposit,10,2,19,Berlin,Paris,123.79,0,0,Check-Out,2020-02-03,2022-02-27,0
+653,Resort Hotel,0,2022-08-16,2021-05-26,202,2,0,0,FB,Portugal,Corporate,TA/TO,Transient-Party,Single,0,No Deposit,2,10,14,Madrid,Lisbon,163.15,0,2,No-Show,2021-06-28,2022-01-26,0
+654,Resort Hotel,0,2020-06-12,2022-04-28,29,2,1,1,BB,Portugal,Corporate,Corporate,Transient,Double,0,No Deposit,4,5,17,Lisbon,Berlin,94.96,2,2,No-Show,2021-09-26,2020-05-14,0
+655,Resort Hotel,1,2021-02-08,2021-12-24,231,3,2,1,BB,Spain,Corporate,Corporate,Transient-Party,Triple,3,No Deposit,7,1,7,Paris,Berlin,141.14,1,3,Canceled,2022-10-20,2020-06-22,1
+656,City Hotel,0,2021-09-22,2021-12-20,138,4,0,1,HB,Germany,Offline TA/TO,Corporate,Transient-Party,Triple,0,Refundable,8,9,41,Madrid,London,146.4,1,3,Check-Out,2020-02-24,2021-05-07,0
+657,City Hotel,0,2020-05-31,2022-01-30,5,3,2,1,FB,United Kingdom,Corporate,TA/TO,Transient,Double,2,No Deposit,5,10,0,Berlin,London,108.44,1,1,Canceled,2020-05-21,2020-05-26,1
+658,City Hotel,0,2021-02-10,2022-01-01,45,4,1,0,HB,Portugal,Online TA,Direct,Group,Double,1,No Deposit,2,7,43,Madrid,Lisbon,188.01,2,0,Canceled,2022-05-20,2020-12-27,1
+659,Resort Hotel,1,2022-02-17,2020-11-08,47,3,1,0,HB,France,Corporate,Direct,Contract,Single,1,No Deposit,9,6,29,Paris,London,58.31,0,3,Check-Out,2020-07-30,2022-01-01,0
+660,City Hotel,1,2021-09-08,2021-08-15,7,4,1,0,FB,United Kingdom,Online TA,Direct,Transient,Triple,2,Non Refund,4,5,50,Madrid,Berlin,125.49,0,0,Canceled,2022-05-29,2021-09-01,1
+661,City Hotel,1,2021-09-21,2020-07-30,225,2,0,1,FB,Germany,Corporate,TA/TO,Transient-Party,Double,3,Refundable,7,3,6,Paris,Madrid,118.97,1,4,Canceled,2020-07-15,2021-02-08,1
+662,Resort Hotel,1,2020-07-22,2021-01-25,338,3,0,0,HB,France,Online TA,TA/TO,Group,Single,1,Refundable,8,9,22,London,Berlin,135.97,0,2,No-Show,2021-12-30,2019-08-19,0
+663,Resort Hotel,0,2022-02-24,2020-11-26,257,2,1,0,FB,United Kingdom,Offline TA/TO,Direct,Group,Single,3,Non Refund,3,5,14,Berlin,Paris,101.71,1,4,Check-Out,2021-01-09,2021-06-12,0
+664,Resort Hotel,0,2021-01-31,2022-04-24,75,3,0,1,HB,Spain,Corporate,Corporate,Transient,Double,1,Non Refund,9,5,35,Berlin,Berlin,117.36,2,2,Canceled,2021-08-02,2020-11-17,1
+665,Resort Hotel,0,2021-06-21,2021-02-14,89,3,1,0,HB,France,Direct,Corporate,Contract,Double,2,Refundable,5,2,14,London,Berlin,134.15,2,2,No-Show,2020-09-29,2021-03-24,0
+666,Resort Hotel,0,2021-12-07,2020-03-22,345,2,1,1,BB,Portugal,Direct,TA/TO,Transient,Triple,2,Refundable,9,2,11,Berlin,Madrid,63.2,0,4,Check-Out,2020-07-07,2020-12-27,0
+667,City Hotel,0,2022-08-27,2020-10-19,297,4,0,0,HB,United Kingdom,Direct,Corporate,Transient,Double,0,No Deposit,4,3,21,Paris,Paris,64.5,0,3,Canceled,2022-06-08,2021-11-03,1
+668,Resort Hotel,0,2020-04-12,2020-04-25,132,2,2,0,BB,United Kingdom,Online TA,Corporate,Transient,Double,0,Non Refund,6,7,29,Lisbon,Paris,135.58,2,2,No-Show,2022-04-10,2019-12-02,0
+669,City Hotel,0,2020-12-07,2022-05-21,213,3,0,0,FB,France,Offline TA/TO,Direct,Contract,Single,0,Non Refund,8,2,40,Paris,London,85.31,2,3,Canceled,2021-09-16,2020-05-08,1
+670,Resort Hotel,1,2021-05-16,2020-11-29,295,2,2,1,FB,Spain,Direct,TA/TO,Transient-Party,Triple,2,No Deposit,4,8,21,Berlin,Berlin,84.25,0,4,Canceled,2020-09-28,2020-07-25,1
+671,Resort Hotel,1,2021-08-02,2021-04-03,352,3,0,0,BB,Portugal,Corporate,Corporate,Transient,Double,0,No Deposit,8,8,38,London,Berlin,85.15,0,2,Canceled,2021-02-28,2020-08-15,1
+672,City Hotel,1,2021-12-17,2022-11-25,179,3,0,0,BB,United Kingdom,Online TA,Direct,Contract,Triple,1,Refundable,5,4,31,Berlin,Lisbon,139.76,1,4,No-Show,2021-10-12,2021-06-21,0
+673,Resort Hotel,0,2020-08-31,2021-03-15,37,2,0,0,HB,Germany,Online TA,TA/TO,Transient,Triple,3,Refundable,7,6,12,Berlin,Madrid,172.2,1,3,Canceled,2022-10-05,2020-07-25,1
+674,Resort Hotel,0,2021-05-18,2020-05-19,329,4,0,0,HB,Spain,Offline TA/TO,TA/TO,Contract,Double,1,Non Refund,6,6,47,Madrid,London,149.57,1,1,Check-Out,2022-05-02,2020-06-23,0
+675,Resort Hotel,0,2022-06-09,2022-11-21,170,3,1,0,HB,United Kingdom,Online TA,Direct,Transient,Single,0,No Deposit,7,2,47,Lisbon,London,73.04,2,3,Canceled,2020-04-21,2021-12-21,1
+676,City Hotel,0,2022-01-08,2021-01-26,343,1,0,0,HB,France,Direct,TA/TO,Group,Double,1,No Deposit,4,7,47,Berlin,Madrid,162.21,0,3,Canceled,2021-01-01,2021-01-30,1
+677,City Hotel,0,2022-07-30,2021-02-05,150,1,1,1,HB,United Kingdom,Online TA,Corporate,Contract,Single,3,No Deposit,6,7,15,Madrid,Berlin,149.83,0,2,No-Show,2022-08-08,2022-03-02,0
+678,Resort Hotel,1,2020-03-10,2020-09-17,223,2,0,0,BB,Germany,Offline TA/TO,TA/TO,Transient,Double,3,Refundable,8,8,32,Paris,Madrid,107.15,0,3,Check-Out,2021-04-25,2019-07-31,0
+679,Resort Hotel,1,2022-01-12,2021-08-13,3,3,1,0,HB,Spain,Direct,TA/TO,Transient,Double,2,Refundable,5,9,22,Lisbon,Madrid,90.81,2,4,Check-Out,2022-12-30,2022-01-09,0
+680,City Hotel,1,2020-08-11,2021-03-03,256,3,1,0,FB,Portugal,Direct,Direct,Contract,Double,2,Refundable,5,4,36,Madrid,London,93.43,2,4,Check-Out,2022-11-12,2019-11-29,0
+681,City Hotel,0,2022-12-09,2021-09-16,297,4,0,0,HB,Portugal,Online TA,Corporate,Contract,Double,1,Refundable,8,1,34,Madrid,Paris,109.82,0,3,Canceled,2022-03-11,2022-02-15,1
+682,City Hotel,0,2021-03-21,2022-10-13,96,2,0,0,BB,Germany,Online TA,TA/TO,Group,Double,2,Non Refund,1,7,0,Madrid,Berlin,89.76,1,3,Canceled,2021-04-23,2020-12-15,1
+683,Resort Hotel,1,2020-02-11,2022-03-19,84,3,2,1,BB,Portugal,Direct,Direct,Transient,Double,0,No Deposit,8,8,30,Berlin,Madrid,152.45,0,4,Check-Out,2021-05-05,2019-11-19,0
+684,Resort Hotel,0,2020-02-01,2022-06-04,310,3,0,0,HB,Portugal,Offline TA/TO,Corporate,Transient-Party,Double,1,No Deposit,10,3,39,London,Madrid,165.11,2,3,Canceled,2021-09-22,2019-03-28,1
+685,Resort Hotel,0,2021-04-12,2021-09-07,314,2,2,1,HB,France,Corporate,TA/TO,Transient-Party,Double,2,Non Refund,5,6,1,Berlin,Madrid,87.88,2,2,Check-Out,2021-03-07,2020-06-02,0
+686,City Hotel,1,2022-07-16,2022-02-14,104,1,1,1,FB,United Kingdom,Corporate,Corporate,Group,Double,0,No Deposit,1,4,11,Madrid,Madrid,165.64,2,2,No-Show,2022-01-09,2022-04-03,0
+687,City Hotel,1,2022-05-16,2020-07-13,285,2,0,0,BB,Germany,Direct,Direct,Contract,Single,2,Refundable,2,6,23,London,Lisbon,120.9,0,4,Check-Out,2021-08-30,2021-08-04,0
+688,Resort Hotel,0,2021-01-20,2021-09-06,176,4,1,0,HB,Portugal,Corporate,Direct,Group,Double,2,Non Refund,8,4,18,Paris,Paris,196.08,0,3,Check-Out,2020-04-13,2020-07-28,0
+689,City Hotel,0,2020-07-06,2022-01-20,261,2,1,0,HB,United Kingdom,Online TA,TA/TO,Group,Double,1,No Deposit,6,7,17,Lisbon,Lisbon,122.76,0,0,No-Show,2022-07-05,2019-10-19,0
+690,City Hotel,1,2022-06-09,2020-06-19,20,2,1,0,HB,France,Direct,Direct,Contract,Single,0,No Deposit,4,10,30,Paris,Paris,140.09,1,2,Canceled,2020-10-02,2022-05-20,1
+691,City Hotel,0,2022-12-05,2022-03-13,214,4,1,0,BB,France,Offline TA/TO,TA/TO,Transient-Party,Single,0,Non Refund,10,3,2,Madrid,Berlin,101.77,2,1,Canceled,2020-09-04,2022-05-05,1
+692,Resort Hotel,1,2022-10-05,2020-01-09,99,4,2,0,BB,Germany,Offline TA/TO,TA/TO,Transient-Party,Triple,2,No Deposit,3,9,8,Lisbon,Paris,62.99,1,0,Canceled,2021-10-03,2022-06-28,1
+693,Resort Hotel,1,2021-12-05,2020-07-05,241,3,2,1,HB,Spain,Corporate,Corporate,Transient,Double,0,Non Refund,4,3,38,Paris,Berlin,128.17,2,4,Canceled,2022-03-27,2021-04-08,1
+694,Resort Hotel,1,2021-12-10,2020-12-11,166,2,1,0,BB,United Kingdom,Corporate,TA/TO,Transient,Single,0,Non Refund,4,1,15,Paris,Berlin,102.84,1,2,Canceled,2022-07-06,2021-06-27,1
+695,Resort Hotel,1,2020-09-15,2022-05-31,65,2,2,0,HB,United Kingdom,Offline TA/TO,TA/TO,Transient-Party,Triple,2,No Deposit,1,10,14,London,London,187.02,1,3,Check-Out,2021-08-29,2020-07-12,0
+696,City Hotel,1,2022-04-22,2022-05-10,241,3,1,1,HB,France,Corporate,Corporate,Transient-Party,Double,3,Refundable,2,9,30,Paris,Berlin,71.6,0,2,Check-Out,2020-07-08,2021-08-24,0
+697,Resort Hotel,0,2022-01-24,2022-04-27,226,1,1,0,BB,Spain,Offline TA/TO,TA/TO,Group,Double,2,Refundable,3,1,32,Paris,Madrid,173.55,0,1,Check-Out,2020-10-27,2021-06-12,0
+698,City Hotel,0,2021-03-11,2022-09-24,151,2,1,0,HB,Germany,Direct,TA/TO,Group,Single,3,Non Refund,8,9,9,Lisbon,Paris,98.69,2,3,No-Show,2021-01-30,2020-10-11,0
+699,Resort Hotel,1,2021-12-20,2020-10-12,12,3,1,1,FB,United Kingdom,Online TA,Direct,Transient-Party,Single,3,Non Refund,5,3,25,Madrid,Madrid,113.48,0,1,Check-Out,2020-04-24,2021-12-08,0
+700,Resort Hotel,1,2020-07-10,2020-08-18,240,1,0,0,BB,Spain,Direct,Direct,Contract,Triple,2,No Deposit,5,2,14,Berlin,Paris,194.06,2,3,No-Show,2021-12-16,2019-11-13,0
+701,Resort Hotel,1,2021-10-04,2020-08-20,216,1,1,1,FB,Spain,Direct,TA/TO,Transient,Double,1,Refundable,2,4,49,Paris,London,87.1,1,3,Check-Out,2020-09-27,2021-03-02,0
+702,Resort Hotel,1,2022-02-03,2022-12-03,277,2,2,0,HB,Portugal,Corporate,Direct,Group,Double,0,Refundable,7,2,48,London,Paris,139.49,0,1,Canceled,2021-01-03,2021-05-02,1
+703,City Hotel,0,2022-09-16,2020-05-15,243,4,1,1,FB,Germany,Offline TA/TO,Direct,Transient,Double,3,Non Refund,2,6,18,Berlin,Madrid,126.79,0,0,Check-Out,2022-09-29,2022-01-16,0
+704,Resort Hotel,0,2020-01-08,2020-01-12,89,4,1,1,HB,France,Online TA,Corporate,Transient-Party,Double,0,Non Refund,3,2,33,Madrid,Berlin,52.44,1,2,Canceled,2022-12-11,2019-10-11,1
+705,Resort Hotel,1,2021-08-23,2020-08-10,231,4,1,1,HB,Portugal,Corporate,Corporate,Contract,Triple,3,Non Refund,7,2,26,Madrid,Paris,158.43,1,3,Canceled,2021-03-06,2021-01-04,1
+706,Resort Hotel,0,2021-12-08,2020-06-16,143,1,2,1,HB,United Kingdom,Direct,Direct,Group,Double,0,Refundable,6,6,14,Berlin,London,137.81,2,2,No-Show,2022-02-20,2021-07-18,0
+707,City Hotel,1,2022-03-15,2020-08-17,112,2,2,0,FB,Portugal,Online TA,Direct,Contract,Double,2,No Deposit,7,1,46,Paris,Madrid,61.1,2,3,Check-Out,2020-05-21,2021-11-23,0
+708,Resort Hotel,0,2021-10-15,2020-06-20,47,1,2,1,FB,Germany,Online TA,Corporate,Transient-Party,Triple,1,Refundable,8,7,30,Madrid,Lisbon,131.61,2,1,Check-Out,2022-05-09,2021-08-29,0
+709,City Hotel,0,2022-08-19,2020-03-28,341,3,1,0,BB,France,Direct,Corporate,Group,Single,0,No Deposit,9,2,43,Lisbon,Madrid,195.63,0,0,No-Show,2021-12-10,2021-09-12,0
+710,City Hotel,1,2020-03-31,2020-04-13,135,1,1,1,HB,Portugal,Offline TA/TO,Direct,Group,Single,3,Refundable,7,1,20,Lisbon,Madrid,99.36,0,3,Check-Out,2020-03-13,2019-11-17,0
+711,City Hotel,0,2020-01-05,2020-12-11,67,2,2,0,FB,France,Direct,Corporate,Transient-Party,Triple,2,No Deposit,5,1,29,London,Berlin,192.77,2,4,Canceled,2020-12-19,2019-10-30,1
+712,City Hotel,1,2021-04-27,2022-12-12,288,2,2,0,BB,France,Online TA,Corporate,Group,Single,0,Non Refund,10,6,39,Madrid,Madrid,139.38,1,4,Check-Out,2021-04-18,2020-07-13,0
+713,Resort Hotel,0,2021-03-16,2021-03-21,52,3,2,0,FB,France,Corporate,Corporate,Transient-Party,Single,3,Refundable,10,1,44,London,Paris,57.15,1,1,Check-Out,2022-08-17,2021-01-23,0
+714,City Hotel,1,2022-04-19,2021-04-22,331,1,1,1,BB,France,Offline TA/TO,TA/TO,Transient-Party,Triple,2,Non Refund,10,5,40,London,Madrid,156.07,1,4,No-Show,2020-06-27,2021-05-23,0
+715,City Hotel,0,2020-04-07,2021-02-01,218,3,1,1,BB,Germany,Offline TA/TO,Direct,Group,Double,2,Refundable,7,3,29,Berlin,Berlin,81.98,0,4,Check-Out,2022-05-08,2019-09-02,0
+716,City Hotel,0,2022-02-04,2021-10-13,150,1,1,1,FB,France,Direct,Corporate,Group,Double,2,Refundable,7,8,34,London,Berlin,68.26,2,0,No-Show,2020-11-23,2021-09-07,0
+717,Resort Hotel,0,2022-05-27,2021-12-29,121,2,2,0,BB,Portugal,Corporate,TA/TO,Contract,Triple,1,Non Refund,4,3,19,Madrid,Paris,197.98,2,1,Canceled,2021-09-04,2022-01-26,1
+718,Resort Hotel,0,2020-07-03,2022-06-12,79,3,0,0,HB,Germany,Online TA,Direct,Contract,Triple,1,Non Refund,4,2,19,Paris,Lisbon,152.82,1,4,No-Show,2022-05-26,2020-04-15,0
+719,City Hotel,1,2020-06-01,2021-04-18,355,1,1,0,BB,Portugal,Online TA,Corporate,Transient,Single,1,No Deposit,3,5,44,Paris,London,126.73,2,0,Canceled,2021-06-09,2019-06-12,1
+720,Resort Hotel,0,2022-10-02,2022-11-26,76,2,0,1,FB,United Kingdom,Online TA,Corporate,Group,Single,2,Refundable,3,9,17,Berlin,Berlin,106.88,2,0,No-Show,2022-01-25,2022-07-18,0
+721,Resort Hotel,0,2020-12-17,2020-08-07,177,1,1,0,FB,Spain,Corporate,Corporate,Transient,Triple,2,No Deposit,7,4,13,Madrid,Berlin,88.06,2,3,Canceled,2021-02-07,2020-06-23,1
+722,City Hotel,1,2021-08-10,2020-10-10,145,3,2,1,HB,Spain,Online TA,TA/TO,Transient,Double,0,No Deposit,1,4,29,Madrid,Lisbon,188.26,0,2,No-Show,2020-01-25,2021-03-18,0
+723,Resort Hotel,0,2021-05-25,2022-06-17,97,2,2,0,BB,Portugal,Online TA,TA/TO,Transient,Triple,3,No Deposit,2,10,36,Lisbon,Berlin,79.11,2,0,Check-Out,2021-03-16,2021-02-17,0
+724,City Hotel,0,2020-05-16,2021-03-15,181,2,2,0,BB,Portugal,Direct,TA/TO,Group,Double,1,Refundable,9,1,7,Paris,Berlin,187.8,0,2,Check-Out,2021-12-16,2019-11-17,0
+725,City Hotel,1,2022-11-10,2021-03-05,110,2,1,1,HB,France,Online TA,TA/TO,Transient-Party,Triple,0,Non Refund,6,9,31,Berlin,Madrid,151.68,0,2,Check-Out,2022-08-28,2022-07-23,0
+726,City Hotel,1,2021-07-14,2021-10-10,16,1,1,1,FB,United Kingdom,Offline TA/TO,Direct,Transient,Single,3,Refundable,4,3,2,Paris,Berlin,134.13,1,3,Check-Out,2021-08-26,2021-06-28,0
+727,City Hotel,1,2021-12-20,2021-12-03,71,2,1,1,FB,Germany,Online TA,TA/TO,Group,Single,0,No Deposit,10,6,25,Lisbon,Paris,57.93,2,2,No-Show,2020-05-19,2021-10-10,0
+728,Resort Hotel,0,2021-12-30,2021-11-30,166,2,0,0,HB,Spain,Online TA,Direct,Transient,Triple,1,Non Refund,8,4,22,London,Lisbon,88.74,0,3,No-Show,2020-11-19,2021-07-17,0
+729,Resort Hotel,1,2021-04-20,2021-05-13,354,3,2,0,BB,Germany,Corporate,Corporate,Transient-Party,Double,1,Non Refund,4,5,44,Paris,Berlin,187.4,2,4,Check-Out,2020-04-20,2020-05-01,0
+730,City Hotel,1,2020-08-25,2020-12-16,287,1,1,1,HB,France,Corporate,Corporate,Transient-Party,Triple,2,Non Refund,3,3,5,Berlin,London,84.64,2,4,Canceled,2021-08-30,2019-11-12,1
+731,City Hotel,1,2020-01-28,2022-11-12,158,1,2,0,BB,France,Online TA,TA/TO,Transient-Party,Triple,0,Non Refund,10,4,6,Berlin,Paris,162.05,1,0,No-Show,2021-06-21,2019-08-23,0
+732,Resort Hotel,1,2022-01-16,2020-02-23,212,3,1,0,HB,Germany,Corporate,TA/TO,Transient,Triple,2,Refundable,9,5,41,Berlin,London,136.63,0,3,Canceled,2021-05-09,2021-06-18,1
+733,Resort Hotel,1,2021-12-20,2020-01-19,181,3,1,0,BB,United Kingdom,Online TA,Direct,Transient,Triple,0,Refundable,2,5,27,Paris,Paris,130.68,0,4,Canceled,2022-09-18,2021-06-22,1
+734,City Hotel,1,2020-07-28,2022-11-27,223,2,1,0,FB,United Kingdom,Direct,TA/TO,Group,Double,1,Non Refund,1,6,32,Lisbon,Paris,117.64,1,2,No-Show,2020-04-11,2019-12-18,0
+735,Resort Hotel,1,2021-09-14,2022-08-24,195,2,0,1,BB,Germany,Direct,Direct,Group,Double,0,No Deposit,5,9,26,London,London,140.78,1,3,Canceled,2021-05-09,2021-03-03,1
+736,City Hotel,0,2022-02-12,2022-07-30,136,4,0,0,HB,Portugal,Online TA,Direct,Contract,Triple,0,No Deposit,2,6,10,Berlin,Lisbon,182.98,2,2,Check-Out,2022-03-29,2021-09-29,0
+737,City Hotel,0,2022-10-03,2021-07-27,253,4,2,0,BB,France,Direct,Direct,Group,Double,3,Non Refund,7,6,37,Berlin,London,78.58,0,3,Canceled,2020-11-28,2022-01-23,1
+738,Resort Hotel,1,2022-03-09,2020-08-02,209,1,2,0,FB,Germany,Offline TA/TO,Direct,Group,Triple,1,Refundable,7,6,35,Berlin,Berlin,114.7,2,2,Check-Out,2021-06-01,2021-08-12,0
+739,Resort Hotel,0,2022-06-24,2021-09-30,98,2,0,0,BB,Germany,Corporate,Corporate,Transient-Party,Triple,0,No Deposit,10,2,9,Berlin,Berlin,71.52,2,2,Check-Out,2022-08-26,2022-03-18,0
+740,Resort Hotel,1,2020-03-31,2022-05-15,56,3,0,1,FB,France,Corporate,Direct,Transient,Triple,2,No Deposit,5,1,5,Lisbon,Lisbon,175.94,0,0,No-Show,2021-12-13,2020-02-04,0
+741,Resort Hotel,1,2020-04-28,2020-03-17,241,3,2,0,HB,Spain,Online TA,Corporate,Contract,Double,0,Non Refund,7,6,32,Madrid,Madrid,106.79,1,1,No-Show,2022-11-02,2019-08-31,0
+742,City Hotel,1,2022-06-18,2021-04-24,245,4,1,0,FB,United Kingdom,Offline TA/TO,Corporate,Group,Triple,3,Refundable,3,6,19,Paris,London,134.34,0,3,Canceled,2020-05-19,2021-10-16,1
+743,Resort Hotel,0,2021-01-10,2021-11-16,301,4,1,0,FB,Germany,Direct,Direct,Transient,Triple,3,Non Refund,6,5,18,Berlin,Lisbon,107.14,1,3,No-Show,2021-12-08,2020-03-15,0
+744,City Hotel,0,2020-01-29,2021-11-24,102,3,1,0,BB,Germany,Direct,Direct,Contract,Triple,3,Refundable,9,9,47,Lisbon,Lisbon,84.0,1,4,Canceled,2022-04-03,2019-10-19,1
+745,Resort Hotel,1,2021-12-29,2021-09-30,13,4,0,1,FB,France,Online TA,Corporate,Transient,Single,2,Non Refund,1,6,19,Paris,Madrid,174.97,2,2,Check-Out,2020-09-02,2021-12-16,0
+746,City Hotel,1,2022-09-19,2022-10-22,365,3,2,0,HB,United Kingdom,Direct,Direct,Transient,Double,2,Refundable,9,4,9,Paris,Paris,189.92,2,0,No-Show,2020-05-17,2021-09-19,0
+747,Resort Hotel,1,2020-02-04,2020-08-29,168,2,0,0,BB,France,Online TA,Direct,Transient-Party,Triple,2,No Deposit,2,7,22,Paris,Berlin,101.41,2,1,Canceled,2021-08-20,2019-08-20,1
+748,Resort Hotel,0,2022-11-12,2021-10-12,266,3,1,0,BB,Portugal,Online TA,Direct,Transient,Double,2,No Deposit,6,5,29,Paris,London,83.92,0,0,Check-Out,2020-07-28,2022-02-19,0
+749,Resort Hotel,0,2020-11-22,2021-02-01,322,3,1,1,FB,United Kingdom,Corporate,TA/TO,Contract,Double,3,No Deposit,1,4,33,Lisbon,Paris,63.83,0,2,Check-Out,2021-04-22,2020-01-05,0
+750,Resort Hotel,1,2020-11-04,2022-06-29,354,3,2,1,FB,United Kingdom,Direct,Direct,Contract,Triple,1,Non Refund,8,2,24,Madrid,Lisbon,88.39,0,3,Canceled,2020-08-03,2019-11-16,1
+751,Resort Hotel,1,2021-09-07,2021-07-07,148,1,1,1,FB,Portugal,Corporate,Corporate,Contract,Single,0,No Deposit,10,10,2,Berlin,Madrid,79.59,2,3,No-Show,2022-08-21,2021-04-12,0
+752,City Hotel,1,2022-05-02,2021-08-13,323,4,0,0,FB,France,Direct,Direct,Transient,Double,3,Refundable,3,4,37,Berlin,Madrid,160.0,1,4,Check-Out,2021-08-02,2021-06-13,0
+753,Resort Hotel,0,2022-11-12,2022-05-04,300,3,1,1,FB,Spain,Offline TA/TO,Corporate,Contract,Triple,1,Non Refund,3,4,27,Paris,London,72.9,0,3,No-Show,2021-12-04,2022-01-16,0
+754,Resort Hotel,1,2022-11-10,2020-07-31,261,3,2,1,FB,Germany,Direct,TA/TO,Transient-Party,Double,3,No Deposit,6,5,31,Paris,Berlin,91.58,1,2,Canceled,2022-07-26,2022-02-22,1
+755,Resort Hotel,0,2022-04-25,2021-12-29,143,1,1,0,BB,Spain,Offline TA/TO,TA/TO,Group,Double,1,Refundable,5,7,32,London,Madrid,162.76,0,0,Canceled,2022-07-15,2021-12-03,1
+756,City Hotel,1,2022-10-28,2021-03-03,349,1,0,1,FB,France,Corporate,Corporate,Transient-Party,Double,2,No Deposit,5,9,45,London,Paris,174.55,0,2,Canceled,2020-01-02,2021-11-13,1
+757,City Hotel,1,2021-04-02,2021-07-25,65,1,2,0,FB,Spain,Offline TA/TO,Direct,Group,Triple,1,Non Refund,6,5,49,London,Berlin,170.14,1,2,No-Show,2020-09-12,2021-01-27,0
+758,City Hotel,0,2022-08-15,2021-07-15,100,3,1,1,HB,Portugal,Corporate,Direct,Group,Single,0,Refundable,10,8,6,Paris,Berlin,117.94,1,3,Check-Out,2022-05-05,2022-05-07,0
+759,City Hotel,1,2021-08-14,2020-07-01,167,1,1,0,BB,Spain,Offline TA/TO,TA/TO,Group,Double,2,Non Refund,4,5,23,Lisbon,Paris,179.54,2,0,Canceled,2022-01-02,2021-02-28,1
+760,Resort Hotel,0,2021-08-14,2020-05-22,224,4,1,0,FB,Germany,Online TA,Direct,Contract,Triple,0,Non Refund,5,6,0,Madrid,Paris,197.58,2,4,Canceled,2020-03-26,2021-01-02,1
+761,Resort Hotel,1,2022-10-29,2020-07-27,338,3,2,1,HB,Germany,Corporate,Direct,Transient,Triple,3,Non Refund,3,8,37,Madrid,Lisbon,191.83,2,4,No-Show,2022-12-05,2021-11-25,0
+762,City Hotel,1,2022-01-25,2021-08-24,232,1,2,1,HB,France,Offline TA/TO,TA/TO,Transient-Party,Double,3,No Deposit,6,10,32,London,Paris,76.85,1,4,Canceled,2022-10-18,2021-06-07,1
+763,City Hotel,0,2022-02-03,2021-04-28,114,3,0,1,FB,Spain,Direct,Direct,Transient-Party,Single,0,Non Refund,7,4,26,Paris,London,97.05,0,3,Canceled,2020-07-08,2021-10-12,1
+764,City Hotel,1,2021-08-21,2022-05-21,206,4,2,0,HB,United Kingdom,Offline TA/TO,TA/TO,Transient-Party,Triple,0,Non Refund,9,10,15,Madrid,Madrid,155.26,2,1,Canceled,2020-03-10,2021-01-27,1
+765,City Hotel,0,2020-02-06,2022-03-20,328,2,1,1,BB,Portugal,Direct,TA/TO,Group,Single,3,Refundable,9,9,28,London,Madrid,129.77,1,0,No-Show,2020-05-31,2019-03-15,0
+766,Resort Hotel,0,2022-06-28,2022-11-09,256,4,0,0,BB,Portugal,Corporate,Direct,Group,Triple,3,Refundable,5,10,45,Lisbon,London,190.86,1,0,No-Show,2020-10-22,2021-10-15,0
+767,Resort Hotel,0,2021-08-17,2021-04-02,151,3,2,1,BB,Portugal,Direct,Direct,Transient,Triple,3,Refundable,10,3,36,London,Madrid,147.07,2,2,No-Show,2022-12-10,2021-03-19,0
+768,Resort Hotel,1,2020-10-29,2021-01-10,39,4,0,0,HB,United Kingdom,Direct,Direct,Transient,Single,3,Non Refund,4,7,42,Madrid,Lisbon,157.17,2,2,Check-Out,2022-12-14,2020-09-20,0
+769,City Hotel,0,2021-04-21,2020-11-27,167,2,2,1,BB,United Kingdom,Corporate,Corporate,Group,Triple,0,Non Refund,1,1,16,Berlin,Berlin,107.73,2,3,Canceled,2021-01-05,2020-11-05,1
+770,Resort Hotel,1,2022-01-10,2020-12-07,10,3,1,0,HB,France,Online TA,Direct,Contract,Triple,1,No Deposit,9,7,18,London,Paris,189.32,0,3,Canceled,2020-10-25,2021-12-31,1
+771,City Hotel,1,2022-08-23,2021-05-06,1,2,2,1,FB,Germany,Online TA,Corporate,Group,Double,3,Non Refund,5,7,47,Paris,Paris,149.38,0,3,Canceled,2021-08-14,2022-08-22,1
+772,Resort Hotel,1,2022-01-13,2022-07-24,356,4,1,1,FB,France,Direct,TA/TO,Group,Triple,3,No Deposit,5,4,32,London,Paris,96.9,0,0,No-Show,2020-08-22,2021-01-22,0
+773,Resort Hotel,1,2021-11-01,2020-08-25,343,4,0,0,HB,France,Direct,Corporate,Transient-Party,Double,3,Non Refund,1,4,1,London,Berlin,142.5,0,3,No-Show,2021-10-01,2020-11-23,0
+774,Resort Hotel,0,2020-03-13,2022-01-03,209,1,2,0,BB,Portugal,Offline TA/TO,Direct,Transient-Party,Triple,1,Non Refund,5,2,17,Lisbon,Madrid,180.43,1,4,No-Show,2021-04-28,2019-08-17,0
+775,Resort Hotel,0,2022-05-20,2021-02-15,219,1,1,0,FB,United Kingdom,Online TA,Direct,Contract,Single,0,Refundable,1,7,50,Berlin,Paris,126.31,0,0,No-Show,2022-02-04,2021-10-13,0
+776,City Hotel,1,2022-08-22,2021-03-20,9,3,2,0,FB,France,Offline TA/TO,Direct,Transient,Single,3,No Deposit,8,9,2,Madrid,Madrid,85.69,2,1,Check-Out,2022-12-05,2022-08-13,0
+777,Resort Hotel,1,2020-07-18,2020-04-26,14,3,2,0,FB,Spain,Offline TA/TO,TA/TO,Transient,Double,0,Non Refund,3,5,11,Paris,Madrid,126.43,2,4,Canceled,2021-05-23,2020-07-04,1
+778,City Hotel,1,2022-06-04,2020-05-02,113,2,0,0,HB,Portugal,Corporate,Corporate,Transient,Single,0,No Deposit,4,1,23,Berlin,Madrid,100.85,1,1,No-Show,2022-08-10,2022-02-11,0
+779,Resort Hotel,0,2020-09-20,2020-02-15,230,1,1,1,FB,United Kingdom,Corporate,TA/TO,Transient,Double,1,No Deposit,3,3,0,Lisbon,Paris,86.09,0,4,No-Show,2020-02-20,2020-02-03,0
+780,City Hotel,1,2020-04-10,2020-04-15,192,3,2,0,BB,France,Direct,Corporate,Contract,Triple,3,Refundable,6,3,32,Berlin,Lisbon,121.0,1,3,Check-Out,2021-05-26,2019-10-01,0
+781,Resort Hotel,0,2021-01-11,2022-01-29,241,1,2,1,BB,Portugal,Direct,Direct,Transient,Double,3,Non Refund,4,6,6,Lisbon,Berlin,186.57,2,3,Canceled,2020-04-28,2020-05-15,1
+782,Resort Hotel,0,2020-09-14,2020-09-25,330,4,2,0,BB,France,Offline TA/TO,Direct,Group,Triple,3,Non Refund,8,9,0,Berlin,Madrid,77.85,2,3,Check-Out,2021-09-03,2019-10-20,0
+783,Resort Hotel,0,2020-02-14,2020-04-08,345,3,2,1,BB,Portugal,Direct,Direct,Transient,Single,0,No Deposit,6,5,34,Berlin,Paris,110.59,2,4,Canceled,2021-10-14,2019-03-06,1
+784,Resort Hotel,0,2022-08-26,2020-06-11,271,2,1,0,HB,Germany,Online TA,Corporate,Transient-Party,Single,2,Refundable,1,2,31,Berlin,London,116.07,1,1,No-Show,2021-03-28,2021-11-28,0
+785,City Hotel,1,2020-02-26,2022-04-02,256,2,2,0,FB,Germany,Corporate,TA/TO,Group,Triple,3,Refundable,7,1,4,Paris,Paris,177.77,2,4,Canceled,2021-03-08,2019-06-15,1
+786,Resort Hotel,1,2021-12-21,2021-07-10,67,1,1,1,HB,United Kingdom,Direct,TA/TO,Group,Double,3,No Deposit,4,7,23,Madrid,London,62.98,0,4,Check-Out,2022-02-11,2021-10-15,0
+787,Resort Hotel,0,2020-10-30,2021-07-23,130,4,2,0,HB,Portugal,Direct,TA/TO,Transient-Party,Double,0,Refundable,10,8,4,Berlin,Madrid,52.63,2,2,No-Show,2020-09-29,2020-06-22,0
+788,Resort Hotel,1,2021-04-06,2021-11-17,125,2,1,1,FB,United Kingdom,Offline TA/TO,Corporate,Contract,Double,0,No Deposit,2,2,27,Lisbon,Paris,149.21,2,3,Canceled,2020-08-09,2020-12-02,1
+789,Resort Hotel,1,2020-09-26,2020-01-17,30,2,2,1,HB,United Kingdom,Online TA,TA/TO,Transient,Single,0,Non Refund,5,3,17,London,Paris,153.87,2,0,Check-Out,2020-11-15,2020-08-27,0
+790,City Hotel,0,2020-10-23,2021-12-24,279,4,0,1,FB,Portugal,Direct,TA/TO,Transient-Party,Double,0,No Deposit,9,7,44,London,London,182.2,2,3,Canceled,2020-06-13,2020-01-18,1
+791,Resort Hotel,0,2020-05-29,2020-04-09,137,4,0,0,FB,France,Direct,Corporate,Contract,Single,2,No Deposit,4,10,16,Lisbon,London,149.5,1,2,Canceled,2020-05-20,2020-01-13,1
+792,City Hotel,0,2022-01-08,2022-10-24,348,3,2,0,HB,Portugal,Offline TA/TO,Corporate,Contract,Single,3,Refundable,1,4,48,Paris,Lisbon,159.71,0,2,Canceled,2022-06-09,2021-01-25,1
+793,Resort Hotel,0,2020-02-04,2020-09-14,106,3,2,0,HB,United Kingdom,Offline TA/TO,Corporate,Group,Double,2,Refundable,7,7,39,Madrid,London,192.31,0,3,Canceled,2022-03-07,2019-10-21,1
+794,Resort Hotel,0,2022-10-16,2020-07-06,64,2,2,1,BB,Spain,Corporate,TA/TO,Transient,Double,1,No Deposit,4,1,32,Paris,Lisbon,87.07,2,3,Canceled,2020-06-19,2022-08-13,1
+795,Resort Hotel,0,2021-01-15,2021-06-08,69,4,0,1,FB,Germany,Corporate,Direct,Group,Triple,2,Refundable,10,8,28,London,London,148.76,1,3,Check-Out,2020-12-26,2020-11-07,0
+796,City Hotel,1,2020-05-30,2020-10-12,183,4,1,1,HB,Spain,Online TA,TA/TO,Transient-Party,Single,1,Refundable,6,10,14,Berlin,Madrid,136.84,2,0,No-Show,2022-06-10,2019-11-29,0
+797,City Hotel,0,2020-06-02,2021-10-31,332,1,1,1,BB,United Kingdom,Offline TA/TO,Direct,Group,Triple,2,No Deposit,4,10,27,Berlin,Paris,82.3,1,3,Canceled,2021-07-26,2019-07-06,1
+798,City Hotel,0,2022-01-16,2022-02-24,204,3,1,0,HB,France,Online TA,Corporate,Contract,Triple,0,No Deposit,2,5,3,Lisbon,Madrid,130.16,0,0,No-Show,2020-03-17,2021-06-26,0
+799,Resort Hotel,1,2022-02-07,2021-06-12,51,2,2,1,BB,Portugal,Online TA,Direct,Transient-Party,Triple,0,No Deposit,8,5,46,Paris,Madrid,104.35,0,0,Canceled,2020-05-22,2021-12-18,1
+800,City Hotel,0,2021-05-13,2021-10-07,30,4,1,0,HB,France,Online TA,TA/TO,Contract,Double,3,Refundable,9,1,38,London,Paris,186.51,1,4,Check-Out,2021-11-07,2021-04-13,0
+801,Resort Hotel,0,2020-10-20,2021-09-14,2,1,1,0,HB,Germany,Corporate,Direct,Contract,Double,2,Non Refund,5,10,15,Lisbon,Berlin,162.75,2,3,No-Show,2021-07-10,2020-10-18,0
+802,City Hotel,0,2022-03-24,2021-10-27,36,3,2,0,HB,United Kingdom,Corporate,Direct,Transient,Triple,3,Non Refund,1,4,14,Lisbon,London,143.66,0,2,No-Show,2022-06-25,2022-02-16,0
+803,Resort Hotel,0,2022-04-15,2021-05-03,119,4,2,0,HB,United Kingdom,Offline TA/TO,Direct,Contract,Triple,2,Refundable,8,10,27,Paris,Paris,156.85,2,2,No-Show,2022-04-10,2021-12-17,0
+804,City Hotel,1,2020-11-29,2020-05-07,286,2,0,1,FB,Portugal,Offline TA/TO,Corporate,Transient,Triple,1,Non Refund,2,7,42,Lisbon,Madrid,122.7,0,4,Check-Out,2020-08-20,2020-02-17,0
+805,Resort Hotel,0,2020-06-09,2020-02-28,124,3,2,1,HB,Portugal,Corporate,Corporate,Group,Double,0,Refundable,2,8,2,Berlin,Berlin,182.35,0,2,Check-Out,2022-08-27,2020-02-06,0
+806,City Hotel,0,2022-07-31,2020-11-14,36,4,1,0,FB,France,Offline TA/TO,Corporate,Contract,Single,3,Refundable,9,2,38,London,London,89.99,1,0,Canceled,2020-07-02,2022-06-25,1
+807,City Hotel,1,2021-07-30,2022-12-18,231,1,1,0,HB,Germany,Direct,TA/TO,Group,Triple,0,Refundable,7,3,20,Berlin,Paris,93.54,1,0,Check-Out,2020-12-09,2020-12-11,0
+808,Resort Hotel,0,2020-10-12,2020-04-05,110,1,0,1,BB,Spain,Online TA,Corporate,Transient,Triple,0,Non Refund,2,7,46,Paris,Berlin,146.92,2,4,Check-Out,2020-04-26,2020-06-24,0
+809,City Hotel,1,2020-09-12,2022-09-28,206,3,2,0,HB,France,Offline TA/TO,Direct,Contract,Double,1,Refundable,6,7,21,Lisbon,Berlin,158.59,0,1,Check-Out,2021-10-07,2020-02-19,0
+810,Resort Hotel,1,2020-07-14,2021-10-14,120,2,2,1,FB,United Kingdom,Corporate,Direct,Contract,Double,2,Refundable,10,2,36,London,London,197.9,0,4,Check-Out,2020-12-12,2020-03-16,0
+811,City Hotel,1,2020-03-27,2020-01-28,325,2,2,0,BB,France,Offline TA/TO,Corporate,Group,Single,1,Refundable,10,5,15,Madrid,Berlin,181.77,0,4,Canceled,2021-05-30,2019-05-07,1
+812,Resort Hotel,0,2021-09-26,2022-01-06,358,4,1,0,FB,France,Offline TA/TO,TA/TO,Transient,Triple,3,No Deposit,3,7,15,Paris,Paris,81.09,2,1,Check-Out,2021-02-12,2020-10-03,0
+813,City Hotel,1,2020-08-12,2020-09-12,168,1,2,0,BB,United Kingdom,Offline TA/TO,TA/TO,Contract,Single,2,Non Refund,6,2,37,Madrid,Lisbon,93.62,1,2,Check-Out,2022-12-13,2020-02-26,0
+814,Resort Hotel,1,2022-11-28,2020-10-19,26,1,2,1,FB,France,Offline TA/TO,Direct,Transient,Double,0,No Deposit,1,4,24,London,Madrid,137.77,2,0,Canceled,2022-06-12,2022-11-02,1
+815,City Hotel,1,2022-05-01,2021-03-03,69,4,1,0,HB,Germany,Online TA,TA/TO,Transient-Party,Triple,1,Refundable,10,1,23,Berlin,Lisbon,179.9,0,4,No-Show,2022-01-09,2022-02-21,0
+816,Resort Hotel,0,2021-05-17,2021-03-23,178,3,2,0,FB,United Kingdom,Corporate,Direct,Group,Triple,1,Non Refund,10,4,29,Lisbon,Paris,55.04,1,1,Canceled,2022-08-09,2020-11-20,1
+817,Resort Hotel,1,2020-01-02,2022-10-11,124,1,2,0,BB,France,Online TA,Corporate,Group,Single,0,Refundable,10,5,28,Lisbon,Berlin,106.16,2,3,No-Show,2022-06-20,2019-08-31,0
+818,Resort Hotel,1,2022-02-05,2022-10-01,320,3,2,1,HB,Spain,Offline TA/TO,Direct,Transient-Party,Double,1,No Deposit,2,3,2,London,Paris,60.33,1,1,Canceled,2021-10-17,2021-03-22,1
+819,City Hotel,1,2021-01-06,2021-03-27,348,2,0,1,BB,France,Offline TA/TO,Corporate,Group,Triple,1,Refundable,7,2,3,Berlin,Berlin,160.8,1,4,Check-Out,2022-07-14,2020-01-24,0
+820,City Hotel,0,2022-05-23,2020-01-17,271,1,0,0,BB,United Kingdom,Corporate,Direct,Contract,Triple,0,Non Refund,3,3,27,London,Lisbon,96.6,1,2,Check-Out,2021-01-27,2021-08-25,0
+821,City Hotel,1,2021-04-13,2022-09-16,333,1,1,0,HB,Germany,Online TA,Direct,Transient,Single,0,Non Refund,6,7,49,Madrid,Lisbon,123.62,0,3,Canceled,2021-11-08,2020-05-15,1
+822,City Hotel,1,2020-05-11,2021-12-05,51,2,0,1,FB,Germany,Direct,Corporate,Transient-Party,Single,2,Refundable,3,4,29,London,London,100.38,2,0,Canceled,2022-11-24,2020-03-21,1
+823,City Hotel,1,2022-04-09,2021-11-28,232,2,0,1,BB,Germany,Corporate,Direct,Group,Triple,2,Refundable,6,2,7,Lisbon,Paris,182.23,2,0,Canceled,2020-01-13,2021-08-20,1
+824,City Hotel,0,2020-03-02,2021-04-27,40,2,2,0,BB,France,Offline TA/TO,TA/TO,Transient-Party,Triple,3,No Deposit,9,9,0,London,Berlin,132.34,1,2,Canceled,2021-05-27,2020-01-22,1
+825,Resort Hotel,0,2022-06-19,2021-10-08,298,3,1,1,FB,Spain,Online TA,Corporate,Transient,Single,3,No Deposit,6,3,21,Madrid,Paris,190.21,2,3,Canceled,2021-05-08,2021-08-25,1
+826,City Hotel,0,2020-05-04,2020-09-12,182,1,1,0,HB,Spain,Online TA,Direct,Group,Double,2,No Deposit,3,7,26,Madrid,Lisbon,53.94,1,0,Canceled,2021-10-17,2019-11-04,1
+827,Resort Hotel,1,2021-11-27,2021-02-18,242,4,2,0,FB,Portugal,Corporate,Corporate,Contract,Double,3,No Deposit,9,4,32,Madrid,Lisbon,139.37,1,2,Check-Out,2021-08-03,2021-03-30,0
+828,Resort Hotel,1,2020-12-23,2020-02-11,34,1,0,1,HB,Germany,Online TA,Direct,Contract,Single,2,Refundable,9,3,26,Berlin,London,148.91,0,2,Check-Out,2021-07-30,2020-11-19,0
+829,City Hotel,1,2021-05-15,2022-11-16,330,1,1,1,FB,France,Corporate,Corporate,Transient-Party,Double,2,No Deposit,4,4,49,Paris,Berlin,56.79,0,1,No-Show,2020-11-22,2020-06-19,0
+830,City Hotel,0,2020-09-03,2020-04-12,337,1,1,0,HB,Germany,Online TA,TA/TO,Transient-Party,Single,1,No Deposit,3,6,4,Berlin,London,183.93,2,2,Check-Out,2020-02-14,2019-10-02,0
+831,Resort Hotel,1,2022-08-02,2021-07-27,98,4,1,0,HB,France,Offline TA/TO,Direct,Transient-Party,Single,2,Refundable,9,9,26,Berlin,London,100.14,2,2,Canceled,2022-03-05,2022-04-26,1
+832,City Hotel,1,2021-08-13,2020-09-27,86,1,0,1,HB,Germany,Direct,Direct,Group,Triple,0,Non Refund,3,6,6,Madrid,Madrid,196.63,1,1,Canceled,2020-11-19,2021-05-19,1
+833,Resort Hotel,1,2022-07-03,2022-10-10,88,1,0,1,FB,Germany,Online TA,Corporate,Transient-Party,Single,3,Refundable,1,3,47,London,Berlin,136.54,2,1,Canceled,2020-06-11,2022-04-06,1
+834,City Hotel,1,2022-04-01,2022-10-22,303,4,1,1,FB,Portugal,Offline TA/TO,Direct,Group,Triple,1,No Deposit,10,2,39,Madrid,Madrid,57.42,1,2,Canceled,2020-10-26,2021-06-02,1
+835,City Hotel,1,2021-12-27,2021-07-13,336,3,1,1,HB,Spain,Offline TA/TO,Corporate,Transient,Triple,2,Refundable,10,2,29,Paris,Lisbon,94.69,1,3,No-Show,2021-02-13,2021-01-25,0
+836,Resort Hotel,0,2020-08-28,2020-07-17,162,2,2,0,BB,Germany,Corporate,TA/TO,Transient-Party,Triple,2,No Deposit,10,6,29,Lisbon,Paris,145.93,2,2,No-Show,2020-10-05,2020-03-19,0
+837,City Hotel,1,2021-05-03,2022-09-14,56,1,2,0,HB,Spain,Direct,Direct,Transient-Party,Triple,0,Refundable,6,4,18,Paris,London,187.21,1,2,Check-Out,2022-05-06,2021-03-08,0
+838,City Hotel,0,2020-08-26,2020-10-27,203,2,1,0,HB,France,Online TA,Direct,Transient,Double,1,Non Refund,1,4,15,London,Paris,107.68,0,4,Canceled,2020-12-02,2020-02-05,1
+839,City Hotel,0,2022-06-26,2021-03-05,191,2,1,1,BB,Germany,Offline TA/TO,Direct,Group,Triple,0,Refundable,1,2,10,Lisbon,Paris,191.46,1,3,Canceled,2021-05-13,2021-12-17,1
+840,City Hotel,0,2020-08-30,2021-12-31,117,1,0,1,BB,France,Direct,Direct,Group,Triple,3,Refundable,7,6,2,London,London,147.62,2,3,No-Show,2020-11-26,2020-05-05,0
+841,City Hotel,0,2020-03-23,2022-02-14,336,1,2,1,BB,Portugal,Offline TA/TO,TA/TO,Transient,Double,0,No Deposit,4,8,8,Berlin,Berlin,133.65,2,0,Check-Out,2020-06-21,2019-04-22,0
+842,City Hotel,0,2021-01-01,2021-03-23,278,1,1,1,FB,Spain,Offline TA/TO,TA/TO,Group,Single,2,No Deposit,3,7,39,Berlin,Paris,88.23,0,2,Canceled,2021-06-01,2020-03-29,1
+843,City Hotel,1,2022-04-04,2020-01-12,345,2,0,0,BB,Spain,Corporate,TA/TO,Transient,Triple,2,Non Refund,1,10,1,Paris,Madrid,112.76,0,0,Check-Out,2022-12-11,2021-04-24,0
+844,City Hotel,1,2020-04-08,2020-08-17,194,3,0,1,FB,Spain,Online TA,TA/TO,Transient-Party,Triple,1,No Deposit,6,5,16,Lisbon,Paris,54.16,0,0,Canceled,2021-04-11,2019-09-27,1
+845,City Hotel,1,2022-02-27,2022-06-09,174,4,0,0,FB,Spain,Online TA,TA/TO,Transient,Single,1,Non Refund,8,10,41,Berlin,Lisbon,83.85,2,1,No-Show,2020-03-02,2021-09-06,0
+846,Resort Hotel,0,2021-06-21,2020-04-06,277,3,1,1,HB,Germany,Online TA,TA/TO,Group,Single,2,Refundable,3,4,13,Madrid,Berlin,153.49,2,1,No-Show,2020-11-30,2020-09-17,0
+847,Resort Hotel,0,2020-02-14,2022-07-12,145,2,0,1,HB,United Kingdom,Online TA,Corporate,Group,Triple,2,No Deposit,2,9,36,Lisbon,Berlin,192.27,0,3,Check-Out,2021-07-13,2019-09-22,0
+848,Resort Hotel,0,2020-07-29,2021-07-25,31,4,2,1,BB,United Kingdom,Corporate,Corporate,Group,Single,1,Non Refund,3,10,43,London,Berlin,83.2,0,0,Canceled,2021-04-22,2020-06-28,1
+849,City Hotel,1,2020-01-29,2020-09-23,67,3,1,1,FB,United Kingdom,Direct,Direct,Transient,Double,0,No Deposit,1,8,8,Madrid,Lisbon,99.88,2,1,Check-Out,2021-01-30,2019-11-23,0
+850,Resort Hotel,1,2021-07-24,2020-02-24,181,1,2,1,FB,France,Corporate,Direct,Group,Triple,2,Refundable,9,7,39,Berlin,Lisbon,148.78,1,0,Check-Out,2020-05-09,2021-01-24,0
+851,City Hotel,1,2021-02-16,2021-11-27,352,1,2,1,HB,United Kingdom,Corporate,Corporate,Contract,Single,0,No Deposit,2,4,20,London,Lisbon,83.75,2,4,No-Show,2022-03-08,2020-03-01,0
+852,City Hotel,1,2021-10-24,2020-02-19,333,3,2,1,HB,Spain,Corporate,TA/TO,Group,Single,1,Refundable,3,8,15,London,Paris,68.97,2,3,No-Show,2020-12-30,2020-11-25,0
+853,Resort Hotel,0,2021-01-01,2021-02-11,39,4,1,0,HB,Germany,Direct,Direct,Transient,Double,2,Non Refund,9,7,41,Berlin,Paris,93.68,1,4,Canceled,2022-11-26,2020-11-23,1
+854,City Hotel,0,2022-03-14,2022-08-01,84,2,1,1,HB,Germany,Corporate,Corporate,Transient,Triple,3,No Deposit,9,1,25,Lisbon,Paris,52.18,2,3,No-Show,2022-03-19,2021-12-20,0
+855,City Hotel,1,2021-05-07,2022-05-12,24,2,0,0,FB,Germany,Direct,Corporate,Group,Single,2,Refundable,2,7,0,Paris,London,198.43,0,1,Check-Out,2022-11-04,2021-04-13,0
+856,City Hotel,1,2022-06-09,2022-10-12,2,1,2,1,HB,Spain,Offline TA/TO,TA/TO,Transient,Double,0,No Deposit,9,10,42,Paris,London,71.87,0,1,No-Show,2022-02-20,2022-06-07,0
+857,Resort Hotel,1,2022-11-07,2022-08-08,6,2,1,0,HB,United Kingdom,Online TA,Corporate,Group,Double,3,Refundable,4,9,40,Paris,Lisbon,82.43,2,2,Canceled,2021-02-27,2022-11-01,1
+858,Resort Hotel,0,2020-12-06,2020-12-25,215,3,1,1,HB,France,Corporate,Direct,Transient,Double,1,Refundable,3,1,18,Paris,Madrid,107.52,0,0,Check-Out,2020-10-03,2020-05-05,0
+859,City Hotel,0,2021-08-13,2022-01-14,213,1,1,0,HB,Germany,Online TA,TA/TO,Group,Single,2,No Deposit,10,3,12,Lisbon,Paris,156.15,0,2,Check-Out,2020-09-02,2021-01-12,0
+860,Resort Hotel,1,2022-03-27,2022-01-20,85,2,0,0,FB,France,Online TA,Direct,Group,Single,2,No Deposit,8,8,13,Paris,Madrid,79.32,2,1,Check-Out,2021-03-23,2022-01-01,0
+861,Resort Hotel,1,2021-12-12,2020-07-15,9,3,1,0,HB,Germany,Direct,Corporate,Transient-Party,Double,2,No Deposit,6,9,26,Madrid,Lisbon,184.39,1,1,Canceled,2021-11-27,2021-12-03,1
+862,City Hotel,1,2020-10-30,2022-06-22,213,4,0,1,BB,Germany,Online TA,TA/TO,Transient,Single,1,Refundable,7,2,37,Madrid,Lisbon,136.22,2,4,No-Show,2021-01-20,2020-03-31,0
+863,Resort Hotel,1,2021-04-05,2021-04-17,267,4,1,1,FB,Germany,Direct,Direct,Transient-Party,Single,3,Non Refund,3,6,29,Lisbon,London,106.37,2,4,No-Show,2022-04-13,2020-07-12,0
+864,Resort Hotel,1,2020-01-31,2022-12-25,360,3,1,1,HB,Spain,Offline TA/TO,Corporate,Transient,Single,2,Non Refund,5,10,28,Lisbon,Berlin,152.56,2,1,No-Show,2020-10-13,2019-02-05,0
+865,Resort Hotel,0,2021-03-23,2022-02-21,65,2,0,0,BB,United Kingdom,Offline TA/TO,Corporate,Contract,Triple,1,No Deposit,7,6,36,Lisbon,Madrid,138.79,1,2,Canceled,2021-11-15,2021-01-17,1
+866,City Hotel,0,2022-01-26,2020-10-13,183,3,0,1,BB,United Kingdom,Offline TA/TO,Direct,Transient,Single,2,No Deposit,2,4,37,Lisbon,Lisbon,128.45,2,2,Canceled,2020-09-30,2021-07-27,1
+867,Resort Hotel,1,2022-06-26,2022-01-23,265,1,2,0,BB,France,Online TA,Direct,Contract,Triple,1,No Deposit,8,8,4,London,Lisbon,154.44,0,4,No-Show,2020-02-27,2021-10-04,0
+868,City Hotel,0,2022-10-30,2020-09-12,135,4,0,1,HB,Germany,Offline TA/TO,Corporate,Transient,Double,2,Non Refund,4,6,23,Madrid,Lisbon,154.14,1,2,Check-Out,2020-11-19,2022-06-17,0
+869,City Hotel,0,2020-06-14,2022-05-21,269,4,2,1,FB,Spain,Corporate,Direct,Transient,Single,2,No Deposit,2,10,16,Madrid,Paris,89.44,2,0,No-Show,2020-09-20,2019-09-19,0
+870,City Hotel,1,2020-08-17,2021-11-20,296,2,2,0,HB,United Kingdom,Corporate,Direct,Transient-Party,Triple,3,Non Refund,2,6,42,Madrid,London,175.59,2,4,No-Show,2021-07-04,2019-10-26,0
+871,Resort Hotel,1,2022-08-25,2021-08-27,181,1,1,1,HB,Spain,Direct,Direct,Contract,Triple,0,No Deposit,5,8,49,Lisbon,Paris,182.65,1,1,Check-Out,2020-06-12,2022-02-25,0
+872,City Hotel,1,2020-05-05,2020-04-10,186,1,2,1,BB,France,Corporate,Direct,Transient-Party,Double,1,No Deposit,10,4,12,Berlin,Berlin,146.21,1,2,Check-Out,2021-08-18,2019-11-01,0
+873,Resort Hotel,0,2022-09-19,2020-03-13,326,4,0,1,BB,United Kingdom,Direct,Direct,Transient-Party,Double,3,No Deposit,3,5,40,Madrid,Lisbon,179.74,2,3,Check-Out,2022-04-07,2021-10-28,0
+874,City Hotel,1,2020-11-24,2022-04-08,260,1,0,1,BB,Germany,Corporate,TA/TO,Contract,Triple,1,No Deposit,5,8,42,Berlin,Paris,151.18,0,3,Canceled,2020-05-25,2020-03-09,1
+875,City Hotel,1,2022-10-13,2021-05-11,171,3,2,0,FB,Spain,Online TA,Corporate,Transient,Double,1,Non Refund,10,3,36,Lisbon,Madrid,185.82,1,0,Canceled,2020-01-01,2022-04-25,1
+876,Resort Hotel,0,2021-10-22,2021-11-09,316,2,1,0,HB,Portugal,Corporate,Corporate,Transient,Double,1,Non Refund,7,4,38,Paris,Berlin,95.08,2,4,Check-Out,2020-11-20,2020-12-10,0
+877,City Hotel,1,2022-05-12,2021-12-19,269,2,1,1,HB,Portugal,Online TA,Direct,Transient-Party,Double,1,Non Refund,1,2,22,London,Paris,194.45,2,1,No-Show,2022-02-26,2021-08-16,0
+878,City Hotel,0,2022-01-03,2020-04-25,96,3,1,0,HB,France,Offline TA/TO,Direct,Contract,Double,2,Refundable,5,5,43,London,Paris,188.87,1,1,Canceled,2021-10-21,2021-09-29,1
+879,City Hotel,0,2022-10-22,2022-05-29,242,3,2,1,HB,France,Corporate,Direct,Transient-Party,Double,1,Non Refund,9,4,44,Paris,Paris,172.99,0,4,Canceled,2020-11-12,2022-02-22,1
+880,Resort Hotel,1,2020-01-12,2022-09-07,323,3,1,1,FB,Spain,Offline TA/TO,Corporate,Group,Double,1,Non Refund,5,4,2,Madrid,London,185.76,1,0,Check-Out,2021-09-16,2019-02-23,0
+881,City Hotel,1,2022-06-08,2020-05-21,221,1,0,1,HB,United Kingdom,Corporate,Corporate,Contract,Triple,2,Refundable,3,10,1,Paris,Berlin,131.22,1,1,No-Show,2022-10-03,2021-10-30,0
+882,City Hotel,1,2020-02-23,2021-12-28,103,1,2,0,FB,Germany,Direct,TA/TO,Transient-Party,Single,2,No Deposit,10,2,23,Lisbon,Madrid,77.85,2,3,Check-Out,2020-04-04,2019-11-12,0
+883,Resort Hotel,1,2020-10-29,2022-06-08,85,1,1,0,HB,France,Direct,Direct,Transient-Party,Double,3,Refundable,8,6,17,Lisbon,Paris,185.6,1,0,Check-Out,2022-03-16,2020-08-05,0
+884,Resort Hotel,0,2022-05-26,2020-07-16,26,4,0,0,FB,Portugal,Direct,Corporate,Contract,Triple,0,No Deposit,3,5,8,Lisbon,London,105.36,0,4,Check-Out,2020-02-07,2022-04-30,0
+885,Resort Hotel,1,2020-06-12,2021-01-01,138,3,1,1,BB,France,Direct,TA/TO,Transient,Single,1,Non Refund,7,2,14,London,Madrid,188.12,1,4,Check-Out,2021-05-22,2020-01-26,0
+886,Resort Hotel,0,2020-03-12,2021-11-12,38,2,2,0,HB,Portugal,Offline TA/TO,Corporate,Transient-Party,Double,2,Non Refund,8,1,46,Madrid,Berlin,103.28,1,4,Check-Out,2021-11-03,2020-02-03,0
+887,Resort Hotel,0,2020-07-28,2020-09-12,59,3,2,1,HB,Germany,Offline TA/TO,Corporate,Contract,Single,1,Non Refund,6,10,43,Paris,London,60.43,1,0,Canceled,2021-06-05,2020-05-30,1
+888,City Hotel,1,2021-11-21,2022-08-04,48,1,1,0,FB,Germany,Offline TA/TO,Corporate,Group,Double,0,Non Refund,6,3,31,Lisbon,Berlin,107.8,1,0,Check-Out,2020-12-12,2021-10-04,0
+889,City Hotel,1,2021-05-24,2020-11-06,70,1,1,0,FB,Spain,Direct,TA/TO,Group,Double,1,Refundable,3,5,12,London,Madrid,63.99,2,4,Check-Out,2020-10-25,2021-03-15,0
+890,Resort Hotel,0,2020-04-18,2022-11-03,174,1,0,1,FB,Portugal,Online TA,TA/TO,Transient-Party,Double,1,Non Refund,1,9,42,Paris,Lisbon,114.92,1,3,Canceled,2020-06-06,2019-10-27,1
+891,Resort Hotel,0,2022-03-14,2022-05-14,85,2,1,1,HB,Portugal,Direct,Direct,Contract,Single,2,Refundable,1,10,47,Berlin,Madrid,57.96,2,1,Canceled,2020-02-24,2021-12-19,1
+892,City Hotel,0,2022-01-16,2022-09-17,124,2,1,1,FB,Spain,Corporate,Corporate,Contract,Triple,1,Non Refund,5,1,46,Paris,Berlin,116.95,2,2,Check-Out,2020-04-08,2021-09-14,0
+893,Resort Hotel,0,2021-06-09,2021-05-21,218,4,2,1,HB,Portugal,Online TA,Direct,Transient,Triple,3,Refundable,2,5,42,Madrid,Paris,64.39,2,2,Check-Out,2020-11-05,2020-11-03,0
+894,Resort Hotel,1,2022-11-21,2020-02-15,176,2,0,0,BB,Spain,Corporate,Corporate,Transient-Party,Double,2,Non Refund,1,10,24,Paris,London,85.65,1,4,Canceled,2020-10-22,2022-05-29,1
+895,Resort Hotel,1,2022-02-25,2021-01-04,326,2,1,1,FB,France,Online TA,Corporate,Contract,Triple,3,Non Refund,4,6,1,Madrid,Madrid,174.9,1,2,Check-Out,2020-06-18,2021-04-05,0
+896,Resort Hotel,1,2021-03-10,2022-03-26,166,1,2,0,BB,Germany,Offline TA/TO,Corporate,Transient,Single,1,Non Refund,5,1,42,Madrid,Berlin,112.2,0,3,Check-Out,2020-01-19,2020-09-25,0
+897,Resort Hotel,1,2020-05-13,2021-10-21,161,1,1,1,HB,Spain,Offline TA/TO,TA/TO,Transient,Double,2,Refundable,7,10,3,Berlin,Lisbon,68.35,1,1,Check-Out,2022-12-17,2019-12-04,0
+898,Resort Hotel,1,2022-06-16,2021-03-02,78,2,1,0,HB,France,Direct,Corporate,Transient,Triple,2,Non Refund,7,4,22,Madrid,Madrid,149.68,1,4,No-Show,2021-06-08,2022-03-30,0
+899,City Hotel,1,2021-05-17,2022-10-17,79,3,2,1,FB,Spain,Corporate,Corporate,Group,Single,1,Refundable,6,4,41,Berlin,Madrid,128.05,2,2,No-Show,2020-06-29,2021-02-27,0
+900,City Hotel,0,2020-05-09,2022-01-03,225,4,0,1,HB,France,Direct,TA/TO,Transient-Party,Triple,2,Refundable,1,6,46,Berlin,Madrid,108.19,2,3,Canceled,2020-11-23,2019-09-27,1
+901,Resort Hotel,0,2020-02-03,2020-09-24,323,1,1,1,BB,France,Corporate,Direct,Transient,Double,0,Refundable,1,3,50,Lisbon,Madrid,188.9,1,1,No-Show,2022-03-29,2019-03-17,0
+902,City Hotel,1,2020-12-17,2022-02-11,73,1,1,0,FB,Portugal,Offline TA/TO,Direct,Contract,Double,0,Non Refund,1,1,4,Berlin,Paris,152.12,1,1,No-Show,2020-03-24,2020-10-05,0
+903,Resort Hotel,0,2020-11-13,2022-03-17,361,2,2,1,FB,Portugal,Offline TA/TO,TA/TO,Transient,Single,0,No Deposit,5,4,36,Paris,Berlin,173.15,0,2,Canceled,2021-05-14,2019-11-18,1
+904,City Hotel,0,2022-05-04,2020-04-05,350,2,0,0,HB,France,Direct,Direct,Transient-Party,Triple,2,Refundable,10,6,50,Lisbon,Madrid,68.36,0,2,No-Show,2020-02-29,2021-05-19,0
+905,Resort Hotel,1,2022-01-29,2021-03-01,180,3,0,0,FB,Portugal,Online TA,TA/TO,Transient-Party,Triple,3,Non Refund,2,8,40,Madrid,Lisbon,168.82,2,0,Canceled,2021-02-27,2021-08-02,1
+906,Resort Hotel,0,2022-12-09,2020-11-04,55,1,1,1,BB,Germany,Online TA,Corporate,Transient-Party,Single,1,No Deposit,4,6,0,Lisbon,Madrid,196.17,0,1,Check-Out,2022-03-01,2022-10-15,0
+907,City Hotel,1,2020-12-17,2021-09-09,320,3,1,1,HB,France,Direct,Direct,Contract,Double,2,Non Refund,5,1,8,Madrid,London,53.94,1,4,No-Show,2020-05-25,2020-02-01,0
+908,Resort Hotel,0,2022-07-23,2020-03-13,356,3,0,1,FB,Spain,Direct,Corporate,Transient-Party,Single,0,No Deposit,1,3,6,Berlin,Berlin,58.82,2,1,Check-Out,2022-05-31,2021-08-01,0
+909,City Hotel,1,2021-05-22,2022-05-06,141,3,0,1,FB,Portugal,Online TA,Corporate,Transient,Triple,3,Non Refund,6,2,34,Paris,Lisbon,139.34,1,0,Canceled,2022-09-26,2021-01-01,1
+910,City Hotel,0,2021-04-07,2022-07-25,286,4,2,0,BB,United Kingdom,Offline TA/TO,TA/TO,Group,Single,0,No Deposit,8,1,21,Madrid,Paris,165.54,0,2,Canceled,2021-02-07,2020-06-25,1
+911,City Hotel,0,2022-01-25,2021-09-15,8,4,2,1,HB,Germany,Corporate,TA/TO,Transient,Single,3,Refundable,7,9,24,Lisbon,Paris,183.89,0,2,Check-Out,2020-05-01,2022-01-17,0
+912,Resort Hotel,0,2021-12-22,2021-08-17,9,2,0,0,HB,Portugal,Corporate,Direct,Group,Triple,2,Non Refund,1,10,29,Lisbon,Lisbon,136.3,0,2,Canceled,2021-05-24,2021-12-13,1
+913,City Hotel,1,2020-10-27,2021-10-08,242,3,1,1,FB,Portugal,Offline TA/TO,TA/TO,Contract,Single,0,Refundable,2,5,22,Berlin,Berlin,195.27,2,4,No-Show,2020-08-30,2020-02-28,0
+914,City Hotel,0,2022-07-18,2022-01-16,224,3,0,0,FB,Germany,Corporate,Corporate,Contract,Double,3,Refundable,7,1,10,Paris,Madrid,112.62,0,3,Canceled,2022-05-11,2021-12-06,1
+915,City Hotel,0,2022-02-03,2022-06-16,324,3,2,1,BB,Germany,Offline TA/TO,Direct,Contract,Single,1,Refundable,4,1,10,London,Berlin,191.36,0,1,No-Show,2020-03-12,2021-03-16,0
+916,City Hotel,1,2022-01-03,2022-04-27,101,1,2,0,BB,United Kingdom,Online TA,Corporate,Contract,Double,0,Refundable,10,1,20,Paris,Madrid,139.49,0,2,No-Show,2020-05-12,2021-09-24,0
+917,Resort Hotel,0,2021-09-02,2021-06-15,293,2,0,1,HB,Germany,Offline TA/TO,Direct,Transient-Party,Triple,0,Refundable,1,7,11,Berlin,Berlin,108.32,1,0,Check-Out,2022-09-21,2020-11-13,0
+918,City Hotel,1,2021-04-09,2021-04-03,243,1,1,0,HB,France,Offline TA/TO,Corporate,Group,Single,0,Refundable,8,10,26,London,London,64.39,1,1,Canceled,2020-06-22,2020-08-09,1
+919,Resort Hotel,1,2021-10-12,2022-02-19,65,4,1,1,BB,United Kingdom,Offline TA/TO,TA/TO,Transient,Single,1,Refundable,6,9,17,Lisbon,Lisbon,193.63,1,4,No-Show,2021-06-06,2021-08-08,0
+920,Resort Hotel,0,2022-12-16,2022-08-03,150,2,1,1,FB,Portugal,Online TA,Direct,Group,Triple,3,Refundable,7,2,19,London,London,139.82,0,3,Check-Out,2022-01-02,2022-07-19,0
+921,City Hotel,0,2022-03-22,2021-07-07,129,1,0,0,BB,United Kingdom,Offline TA/TO,Direct,Contract,Double,2,Non Refund,6,1,20,Paris,Berlin,192.16,1,3,No-Show,2021-07-01,2021-11-13,0
+922,Resort Hotel,0,2020-02-20,2021-01-05,36,1,1,0,BB,France,Direct,Direct,Contract,Single,0,Non Refund,10,2,18,Lisbon,London,127.03,2,2,Canceled,2022-05-02,2020-01-15,1
+923,Resort Hotel,1,2022-06-10,2021-07-11,18,2,0,0,FB,France,Corporate,Direct,Group,Single,1,No Deposit,3,2,23,Madrid,Lisbon,130.95,1,3,Check-Out,2021-01-26,2022-05-23,0
+924,Resort Hotel,1,2020-07-06,2020-09-15,178,2,2,1,BB,United Kingdom,Offline TA/TO,Direct,Group,Triple,0,No Deposit,10,7,34,Lisbon,Madrid,129.79,1,4,Check-Out,2021-06-26,2020-01-10,0
+925,City Hotel,1,2021-02-28,2020-10-26,309,4,0,1,BB,Spain,Offline TA/TO,TA/TO,Transient-Party,Single,1,No Deposit,4,10,24,Paris,Paris,60.52,1,4,Canceled,2021-03-19,2020-04-25,1
+926,City Hotel,0,2020-01-02,2020-03-26,326,3,0,0,HB,Spain,Corporate,TA/TO,Transient,Triple,3,Non Refund,10,2,18,Lisbon,Madrid,186.52,1,4,Check-Out,2022-12-04,2019-02-10,0
+927,City Hotel,1,2022-10-14,2021-11-21,109,4,1,0,BB,United Kingdom,Corporate,TA/TO,Transient-Party,Double,1,Non Refund,3,3,33,Berlin,London,117.03,2,0,Check-Out,2022-01-04,2022-06-27,0
+928,Resort Hotel,1,2021-01-04,2022-05-09,362,4,1,1,FB,Portugal,Online TA,Direct,Contract,Triple,2,Non Refund,6,5,14,Lisbon,London,140.23,1,2,Check-Out,2020-07-23,2020-01-08,0
+929,City Hotel,0,2021-07-09,2021-06-22,244,1,2,0,BB,Germany,Offline TA/TO,Corporate,Transient,Double,3,No Deposit,3,9,48,Berlin,Berlin,149.31,2,3,No-Show,2021-03-29,2020-11-07,0
+930,Resort Hotel,0,2021-03-21,2021-07-20,218,2,2,1,BB,France,Offline TA/TO,Direct,Contract,Double,1,Non Refund,4,3,16,Lisbon,London,139.99,2,3,Check-Out,2021-08-20,2020-08-15,0
+931,City Hotel,1,2020-04-06,2022-10-17,173,3,0,1,FB,Portugal,Corporate,Direct,Transient,Single,2,Refundable,10,9,27,Berlin,Lisbon,65.23,1,3,No-Show,2022-01-31,2019-10-16,0
+932,City Hotel,0,2021-01-27,2021-05-03,34,4,1,1,HB,Portugal,Corporate,TA/TO,Transient-Party,Triple,0,No Deposit,9,4,48,Paris,Berlin,90.4,2,4,Canceled,2020-08-23,2020-12-24,1
+933,Resort Hotel,0,2022-06-04,2021-07-15,158,4,0,1,BB,Portugal,Offline TA/TO,Corporate,Contract,Single,1,Refundable,2,4,27,Berlin,Lisbon,112.08,2,0,Check-Out,2022-02-13,2021-12-28,0
+934,Resort Hotel,0,2021-10-01,2022-11-11,222,3,2,0,HB,France,Corporate,TA/TO,Group,Triple,0,Non Refund,2,8,41,Lisbon,Lisbon,50.28,0,2,Check-Out,2021-02-24,2021-02-21,0
+935,City Hotel,1,2020-02-02,2020-04-28,240,1,0,1,FB,Portugal,Offline TA/TO,Corporate,Transient-Party,Single,1,Non Refund,9,5,7,London,Madrid,167.55,2,2,Check-Out,2021-05-09,2019-06-07,0
+936,City Hotel,0,2022-08-02,2020-12-15,190,3,1,1,HB,Portugal,Corporate,Corporate,Transient-Party,Double,3,No Deposit,4,5,14,Lisbon,London,150.16,0,2,Check-Out,2022-04-22,2022-01-24,0
+937,City Hotel,1,2022-12-07,2020-07-03,41,1,1,0,BB,France,Direct,Direct,Contract,Single,3,Refundable,3,2,27,Paris,London,123.4,1,1,Check-Out,2022-04-06,2022-10-27,0
+938,City Hotel,0,2020-03-19,2021-06-19,129,2,0,0,FB,Portugal,Corporate,Corporate,Contract,Double,1,Non Refund,7,6,34,Paris,Paris,78.21,0,3,Canceled,2022-12-04,2019-11-11,1
+939,Resort Hotel,1,2020-06-23,2020-07-17,275,2,2,0,BB,Spain,Corporate,Corporate,Transient,Triple,1,Non Refund,8,4,5,London,Berlin,119.38,0,2,Canceled,2020-08-17,2019-09-22,1
+940,City Hotel,1,2021-09-03,2021-06-18,164,3,1,1,FB,Spain,Offline TA/TO,Direct,Transient,Single,2,Non Refund,1,3,14,Paris,Paris,161.19,2,3,Check-Out,2021-10-30,2021-03-23,0
+941,City Hotel,0,2021-03-26,2022-06-11,168,2,1,0,BB,United Kingdom,Corporate,TA/TO,Group,Single,2,No Deposit,9,9,36,London,Berlin,117.76,1,0,Canceled,2020-10-28,2020-10-09,1
+942,Resort Hotel,0,2020-04-18,2020-01-29,121,4,1,0,BB,Germany,Direct,Corporate,Group,Triple,0,Non Refund,4,6,35,Berlin,London,85.69,0,1,Canceled,2020-12-17,2019-12-19,1
+943,Resort Hotel,1,2021-01-23,2021-10-17,240,1,1,1,BB,France,Offline TA/TO,Direct,Group,Triple,2,No Deposit,8,5,8,Lisbon,Berlin,77.85,2,1,Check-Out,2021-10-03,2020-05-28,0
+944,City Hotel,0,2020-10-17,2022-09-17,321,2,1,0,BB,Spain,Online TA,TA/TO,Transient,Triple,0,Refundable,2,1,25,London,Berlin,100.67,0,0,Check-Out,2020-07-26,2019-12-01,0
+945,Resort Hotel,1,2020-08-01,2022-06-12,97,2,0,0,BB,Portugal,Corporate,Corporate,Group,Single,1,Non Refund,2,2,5,London,Berlin,104.67,1,0,Check-Out,2022-01-29,2020-04-26,0
+946,City Hotel,1,2020-09-04,2021-08-05,322,1,1,1,FB,Germany,Corporate,TA/TO,Contract,Triple,2,No Deposit,8,1,4,Paris,Madrid,163.95,2,3,No-Show,2022-12-15,2019-10-18,0
+947,City Hotel,0,2020-10-31,2022-04-18,169,2,2,0,HB,Portugal,Corporate,Corporate,Transient,Triple,2,Refundable,7,10,17,Paris,Paris,60.86,1,1,No-Show,2020-03-28,2020-05-15,0
+948,Resort Hotel,1,2022-06-01,2020-06-24,5,2,2,1,FB,Spain,Online TA,Direct,Transient-Party,Double,3,Non Refund,8,2,26,Lisbon,London,119.51,2,3,Canceled,2020-12-20,2022-05-27,1
+949,City Hotel,1,2022-12-26,2021-11-10,352,4,2,1,FB,France,Online TA,Direct,Group,Triple,1,Non Refund,1,4,6,London,Madrid,108.29,2,3,No-Show,2020-11-28,2022-01-08,0
+950,Resort Hotel,1,2020-09-07,2021-02-02,78,4,2,0,BB,Germany,Corporate,Corporate,Transient-Party,Double,0,Non Refund,6,7,45,London,Lisbon,108.06,1,2,Canceled,2020-09-29,2020-06-21,1
+951,Resort Hotel,1,2022-08-21,2022-08-19,124,2,1,1,HB,Germany,Direct,TA/TO,Transient-Party,Double,3,Refundable,1,10,19,Berlin,Madrid,145.27,0,3,Check-Out,2020-02-05,2022-04-19,0
+952,City Hotel,1,2020-09-11,2022-08-27,341,1,2,1,BB,Germany,Online TA,TA/TO,Contract,Triple,0,Non Refund,4,7,42,Lisbon,Paris,107.88,2,4,Canceled,2022-10-07,2019-10-06,1
+953,City Hotel,0,2020-10-06,2022-05-27,75,4,0,0,BB,Spain,Offline TA/TO,Direct,Transient,Double,3,No Deposit,6,4,48,Berlin,Madrid,68.4,0,1,No-Show,2022-03-01,2020-07-23,0
+954,City Hotel,1,2022-03-12,2022-03-27,227,1,0,1,HB,Portugal,Offline TA/TO,Direct,Group,Double,3,Non Refund,5,9,4,Paris,Berlin,142.57,2,4,Canceled,2020-02-08,2021-07-28,1
+955,Resort Hotel,1,2020-02-15,2020-01-17,123,2,2,0,FB,Spain,Corporate,Corporate,Transient-Party,Double,3,Non Refund,10,10,36,Berlin,Paris,170.83,2,4,No-Show,2021-09-20,2019-10-15,0
+956,Resort Hotel,0,2022-03-25,2021-12-01,133,1,0,1,FB,Germany,Offline TA/TO,Corporate,Transient,Triple,3,Non Refund,9,6,22,Madrid,Madrid,125.04,1,0,Check-Out,2022-12-24,2021-11-12,0
+957,City Hotel,0,2021-10-25,2020-10-19,324,1,0,1,BB,United Kingdom,Offline TA/TO,TA/TO,Group,Triple,2,Non Refund,4,8,3,London,Berlin,151.12,2,4,Canceled,2021-03-29,2020-12-05,1
+958,City Hotel,1,2020-01-25,2022-07-19,249,2,0,1,FB,Spain,Direct,Corporate,Transient-Party,Double,3,Non Refund,9,4,27,London,Madrid,198.56,1,0,No-Show,2020-12-17,2019-05-21,0
+959,Resort Hotel,1,2020-04-06,2020-02-20,313,2,0,0,FB,Portugal,Direct,Direct,Contract,Double,3,Refundable,6,10,27,Paris,Berlin,72.48,1,3,Check-Out,2021-05-16,2019-05-29,0
+960,Resort Hotel,1,2022-03-11,2022-05-13,336,2,0,0,BB,United Kingdom,Offline TA/TO,TA/TO,Transient-Party,Triple,3,Refundable,2,3,5,Madrid,Madrid,100.95,0,4,Canceled,2021-03-10,2021-04-09,1
+961,Resort Hotel,0,2020-04-01,2022-06-27,193,4,0,0,FB,United Kingdom,Online TA,Direct,Transient,Double,1,Non Refund,5,7,11,Paris,Lisbon,199.17,1,0,Canceled,2022-04-13,2019-09-21,1
+962,City Hotel,1,2020-10-11,2022-04-04,263,2,1,1,HB,Portugal,Direct,Direct,Contract,Double,0,Non Refund,4,4,20,Berlin,Berlin,152.47,2,2,Canceled,2020-10-16,2020-01-22,1
+963,City Hotel,0,2022-11-10,2020-12-31,122,1,1,1,FB,France,Direct,Direct,Group,Single,2,Refundable,2,4,37,Berlin,Paris,119.55,1,3,No-Show,2020-03-02,2022-07-11,0
+964,Resort Hotel,0,2022-01-25,2021-12-15,228,3,2,1,FB,Spain,Direct,Direct,Transient,Single,3,Non Refund,1,3,33,Madrid,London,60.33,1,1,No-Show,2022-12-05,2021-06-11,0
+965,Resort Hotel,0,2022-10-12,2020-05-14,183,4,0,0,HB,Spain,Offline TA/TO,TA/TO,Transient,Single,2,Refundable,6,3,33,Lisbon,Madrid,193.31,0,4,Canceled,2020-11-04,2022-04-12,1
+966,Resort Hotel,1,2020-05-09,2022-01-13,110,1,1,1,BB,France,Online TA,Corporate,Group,Single,3,Non Refund,7,1,27,Madrid,Lisbon,55.24,2,4,No-Show,2022-11-07,2020-01-20,0
+967,Resort Hotel,0,2020-05-16,2022-06-27,48,2,1,1,BB,Spain,Corporate,Direct,Transient-Party,Single,0,No Deposit,10,7,8,Lisbon,Paris,84.97,0,3,Check-Out,2020-08-09,2020-03-29,0
+968,City Hotel,0,2021-11-03,2021-10-25,52,1,0,0,FB,Germany,Offline TA/TO,TA/TO,Transient-Party,Triple,3,Non Refund,3,7,45,Paris,Berlin,160.19,0,4,No-Show,2020-05-19,2021-09-12,0
+969,City Hotel,0,2020-09-20,2021-03-08,225,3,2,0,BB,Portugal,Direct,TA/TO,Group,Single,1,Refundable,10,9,23,Paris,Madrid,130.88,0,1,Canceled,2022-04-15,2020-02-08,1
+970,City Hotel,1,2021-11-22,2021-10-29,85,2,1,1,BB,United Kingdom,Offline TA/TO,Direct,Transient-Party,Triple,1,Refundable,4,7,8,Paris,London,77.3,0,3,Canceled,2022-10-23,2021-08-29,1
+971,Resort Hotel,1,2022-10-31,2021-11-24,286,3,0,1,FB,Portugal,Online TA,TA/TO,Group,Triple,2,Non Refund,8,10,38,London,Paris,88.36,1,2,Canceled,2021-12-14,2022-01-18,1
+972,Resort Hotel,0,2022-01-08,2021-03-07,247,2,1,1,BB,Spain,Corporate,TA/TO,Contract,Triple,0,No Deposit,10,10,44,Madrid,Madrid,194.98,2,2,Canceled,2020-07-23,2021-05-06,1
+973,City Hotel,0,2020-02-05,2020-10-22,122,1,0,1,BB,France,Corporate,Direct,Contract,Single,1,No Deposit,5,7,33,Paris,Berlin,135.03,2,1,No-Show,2022-04-02,2019-10-06,0
+974,City Hotel,0,2021-08-15,2020-10-19,184,1,2,0,FB,France,Online TA,TA/TO,Transient-Party,Double,0,Non Refund,9,2,34,Lisbon,Paris,145.37,1,0,No-Show,2020-02-23,2021-02-12,0
+975,City Hotel,1,2021-08-05,2021-02-20,94,2,0,0,BB,United Kingdom,Online TA,Direct,Group,Single,1,Refundable,10,7,40,Madrid,Lisbon,112.87,1,4,Check-Out,2022-09-12,2021-05-03,0
+976,Resort Hotel,0,2020-10-03,2022-05-16,227,1,1,1,FB,Germany,Online TA,Direct,Transient-Party,Triple,1,Non Refund,7,7,38,Madrid,London,197.7,1,3,Check-Out,2020-02-17,2020-02-19,0
+977,City Hotel,1,2022-03-07,2021-06-07,166,3,0,1,HB,Spain,Offline TA/TO,TA/TO,Group,Single,3,No Deposit,4,2,39,Paris,Paris,133.79,1,1,No-Show,2022-08-24,2021-09-22,0
+978,Resort Hotel,0,2021-02-26,2022-06-24,164,3,1,1,BB,Portugal,Online TA,TA/TO,Transient,Triple,3,No Deposit,4,4,42,Madrid,Madrid,186.02,2,0,No-Show,2022-12-15,2020-09-15,0
+979,Resort Hotel,0,2020-06-24,2022-04-25,187,1,0,0,BB,France,Online TA,Corporate,Contract,Double,3,No Deposit,7,2,3,Paris,Madrid,131.04,1,3,No-Show,2021-07-07,2019-12-20,0
+980,Resort Hotel,1,2022-09-08,2022-07-31,266,3,1,1,BB,United Kingdom,Online TA,Corporate,Transient-Party,Double,0,Refundable,8,5,12,Lisbon,London,94.17,2,0,Check-Out,2021-11-07,2021-12-16,0
+981,Resort Hotel,0,2021-10-29,2022-07-17,117,3,1,1,FB,Portugal,Online TA,TA/TO,Group,Single,2,Refundable,1,4,16,Madrid,Lisbon,132.09,0,1,Check-Out,2020-12-27,2021-07-04,0
+982,City Hotel,0,2020-07-14,2021-07-24,106,1,2,0,FB,France,Online TA,Direct,Transient-Party,Double,2,Refundable,6,5,36,Berlin,Madrid,150.33,1,4,No-Show,2021-05-25,2020-03-30,0
+983,City Hotel,1,2021-08-17,2022-09-13,98,2,0,0,BB,Germany,Online TA,TA/TO,Group,Double,1,Refundable,8,2,33,Paris,Madrid,59.07,2,2,Canceled,2021-08-14,2021-05-11,1
+984,City Hotel,0,2021-08-27,2021-09-05,179,3,2,1,FB,Portugal,Offline TA/TO,Corporate,Transient,Double,2,Refundable,10,10,25,London,Paris,165.25,0,2,No-Show,2020-01-12,2021-03-01,0
+985,Resort Hotel,0,2020-07-01,2022-12-19,260,2,1,0,BB,Spain,Direct,TA/TO,Contract,Double,3,Non Refund,8,2,43,London,Berlin,142.84,1,1,Check-Out,2021-12-23,2019-10-15,0
+986,Resort Hotel,1,2020-03-29,2022-11-27,110,3,0,0,FB,Portugal,Direct,TA/TO,Transient-Party,Triple,2,Refundable,5,9,20,Lisbon,Berlin,135.17,0,3,No-Show,2020-06-19,2019-12-10,0
+987,City Hotel,1,2022-02-21,2021-07-13,276,1,0,0,BB,Germany,Direct,Direct,Group,Triple,0,Refundable,8,4,34,Berlin,London,63.21,2,3,Check-Out,2022-04-24,2021-05-21,0
+988,City Hotel,1,2021-03-07,2022-05-20,196,3,2,1,FB,Portugal,Corporate,TA/TO,Transient-Party,Double,0,No Deposit,1,4,48,Lisbon,Berlin,115.27,0,0,Check-Out,2022-09-10,2020-08-23,0
+989,Resort Hotel,1,2022-12-27,2020-04-03,199,4,0,0,FB,Germany,Direct,TA/TO,Transient-Party,Double,3,Refundable,3,10,18,Paris,Madrid,119.94,1,3,Check-Out,2022-08-07,2022-06-11,0
+990,Resort Hotel,1,2020-12-17,2021-04-04,55,2,2,0,BB,Spain,Direct,TA/TO,Transient,Single,1,Non Refund,1,5,5,Paris,London,119.19,0,4,Canceled,2021-10-28,2020-10-23,1
+991,City Hotel,1,2020-09-11,2022-05-24,152,3,1,1,FB,Portugal,Direct,Corporate,Transient,Single,1,Non Refund,10,8,39,London,Madrid,64.91,0,1,No-Show,2021-11-10,2020-04-12,0
+992,Resort Hotel,1,2020-06-05,2021-12-24,115,4,0,0,HB,United Kingdom,Online TA,Corporate,Transient-Party,Single,1,No Deposit,4,1,32,London,Lisbon,118.96,0,4,No-Show,2022-09-21,2020-02-11,0
+993,Resort Hotel,0,2021-04-09,2020-03-22,114,3,0,0,FB,Portugal,Direct,Corporate,Transient-Party,Single,3,Refundable,5,7,26,London,Madrid,163.56,1,0,No-Show,2022-11-06,2020-12-16,0
+994,City Hotel,1,2020-02-02,2022-08-22,324,1,0,0,FB,United Kingdom,Corporate,Direct,Transient-Party,Triple,0,Refundable,3,2,15,Lisbon,Berlin,169.85,0,4,Check-Out,2022-10-28,2019-03-15,0
+995,Resort Hotel,0,2020-09-08,2020-05-22,14,4,1,1,BB,United Kingdom,Offline TA/TO,Corporate,Contract,Single,2,Refundable,10,3,36,London,Berlin,189.11,1,4,No-Show,2021-06-04,2020-08-25,0
+996,Resort Hotel,0,2021-10-12,2020-06-30,92,1,1,0,BB,Spain,Offline TA/TO,TA/TO,Contract,Double,1,Refundable,6,1,23,Berlin,London,132.3,0,1,No-Show,2021-02-24,2021-07-12,0
+997,Resort Hotel,1,2020-09-19,2021-11-13,195,2,2,0,HB,Germany,Offline TA/TO,Direct,Transient,Single,0,No Deposit,5,10,6,Paris,Berlin,118.13,1,4,Check-Out,2020-06-30,2020-03-08,0
+998,City Hotel,0,2022-01-11,2020-05-16,277,4,2,1,HB,Germany,Corporate,Corporate,Group,Double,3,No Deposit,6,10,40,Lisbon,Berlin,174.17,0,3,No-Show,2020-04-16,2021-04-09,0
+999,Resort Hotel,1,2022-05-07,2022-01-11,201,1,2,0,FB,Portugal,Offline TA/TO,TA/TO,Transient-Party,Single,2,Refundable,7,4,45,Paris,Paris,118.6,2,4,Check-Out,2021-05-02,2021-10-18,0
